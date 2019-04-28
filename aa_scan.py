@@ -2,6 +2,7 @@ def scan():
     import os
     import requests
     from pathlib import Path
+    from datetime import datetime, timezone
 
     catagories = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
     tiers = ["1","2","3","4","5","6","7","8"]
@@ -30,11 +31,17 @@ def scan():
             page = requests.get(page)
 
             scanfile = os.path.join(scriptpath, "scan", catagory+"_"+tier+".txt")
-
             f = open(scanfile,"wb+")
             f.write(page.content)
             f.close()
 
             print("scan complete - "+catagory+" tier "+tier)
 
+    currenttime = str(datetime.now().replace(microsecond=0))
+    timestampfile = os.path.join(scriptpath, "scan", "timestamp.txt")
+    t = open(timestampfile,"w")
+    t.write(currenttime)
+    t.close()
+
     print("SCAN COMPLETE!")
+    return currenttime

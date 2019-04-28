@@ -28,13 +28,16 @@ def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
                                 datatime = datetime.strptime(i['sell_price_min_date'], '%Y-%m-%dT%H:%M:%S')
                                 currenttime = currenttime.replace(tzinfo=None)
                                 difference = (currenttime-datatime).seconds/60
-
-                                if difference < int(hourcap):
-                                    if i["city"] in cities:
-                                        allids.append(i["item_id"])
-                                        allauctions.append((i["item_id"],category,i["city"],i["sell_price_min"],i["sell_price_min_date"]))
-                                else:
+                                diffdays = (currenttime-datatime).days
+                                if diffdays > 0:
                                     pass
+                                else:
+                                    if difference < int(hourcap):
+                                        if i["city"] in cities:
+                                            allids.append(i["item_id"])
+                                            allauctions.append((i["item_id"],category,i["city"],i["sell_price_min"],i["sell_price_min_date"]))
+                                    else:
+                                        pass
                             else:
                                 pass
             else:

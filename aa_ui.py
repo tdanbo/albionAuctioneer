@@ -21,6 +21,7 @@ online = False
 # - dataset - #
 scriptpath = os.path.dirname(os.path.realpath(__file__))
 dataset = os.path.join(scriptpath,"dataset")
+scandatapath = os.path.join(scriptpath, "scan")
 icons = os.path.join(scriptpath,"icons")
 
 # - styles - #
@@ -72,7 +73,7 @@ class albionAuctioneer(QWidget):
 
         self.scanui = QPushButton("scan")
         self.scanui.setFixedSize(100,20)
-        self.scanui.clicked.connect(scan)
+        self.scanui.clicked.connect(self.runscan)
         self.tiercaplabel = QLabel("lowest tier limit ")
         self.tiercap = QLineEdit("T4")
         self.tiercap.setFixedSize(30,20)
@@ -107,7 +108,13 @@ class albionAuctioneer(QWidget):
         self.mainLayout.setSizeConstraint(self.mainLayout.SetFixedSize)
 
         # - set main layout - #
-        self.setWindowTitle('albionAuctioneer v1.0')
+        timestampfile = os.path.join(scandatapath,"timestamp.txt")
+        if os.path.isfile(timestampfile):
+            timestamp = open(timestampfile,"r")  
+            self.setWindowTitle('albionAuctioneer v1.0 - scanned - '+timestamp.read())
+            timestamp.close()
+        else:
+            self.setWindowTitle('albionAuctioneer v1.0')
         self.styles()
 
     # - Function to set UI styles - #
@@ -121,6 +128,15 @@ class albionAuctioneer(QWidget):
         layout = self.datalayout
         for i in reversed(range(layout.count())):
             layout.takeAt(i).widget().deleteLater()
+
+    def runscan(self):
+        currenttime = scan()
+        print(currenttime)
+        self.setWindowTitle('albionAuctioneer v1.0 - scanned - '+currenttime)
+
+    def copyname(self):
+        clipboard = QApplication.clipboard()
+        clipboard.setText(self.sender().text())
 
     def generate(self):
         catagories = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
@@ -156,7 +172,9 @@ class albionAuctioneer(QWidget):
             self.iconlabel.setIcon(icon)
             self.iconlabel.setIconSize(QSize(h-2, h-2))
 
-            self.namelabel = QPushButton(str(self.auction[6]))
+            self.namelabel = QToolButton()
+            self.namelabel.setText(str(self.auction[6]))
+            self.namelabel.clicked.connect(self.copyname)
             self.namelabel.setFixedSize(200,h)
             
             # - button icon - #
