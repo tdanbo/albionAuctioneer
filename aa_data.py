@@ -12,6 +12,8 @@ def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
 
     allids = []
     allauctions = []
+    
+    print(catagories)
 
     for category in catagories:
         for tier in tiers:

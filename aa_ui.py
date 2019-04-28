@@ -41,18 +41,21 @@ app = QApplication(sys.argv)
 class albionAuctioneer(QWidget):
     def __init__(self):
         super(albionAuctioneer, self).__init__()
+        # - selected catagories - #
+        self.catagorylist = []
 
         # - layouts - #     
         self.mainLayout = QVBoxLayout()
         self.mainLayout.setContentsMargins(5,5,5,5)
         self.mainLayout.setSpacing(0) 
 
+        self.categorieslayout = QGridLayout()
         self.controllayout = QVBoxLayout()
         self.datalayout = QVBoxLayout()
 
         # - ui loop - #
-        self.catagories = ["control","data"]
-        self.layouts = [self.controllayout,self.datalayout]
+        self.catagories = ["categories","control","data"]
+        self.layouts = [self.categorieslayout,self.controllayout,self.datalayout]
         for w,c,l in zip(self.catagories,range(len(self.catagories)),self.layouts):
             self.catagorylayout = QGridLayout()
 
@@ -95,13 +98,29 @@ class albionAuctioneer(QWidget):
         self.generateui.setFixedSize(378,20)
 
 
-        self.toplayout = QHBoxLayout()
+        self.toplayout = QGridLayout()
         self.botlayout = QHBoxLayout()
 
         self.controllayout.addLayout(self.toplayout)
         self.controllayout.addLayout(self.botlayout)
 
-        [self.toplayout.addWidget(w) for w in [self.tiercaplabel, self.tiercap, self.margincaplabel, self.margincaplow,self.margincap, self.hourcaplabel, self.hourcap,self.generateui,self.scanui]]
+        catagoriesone = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic"]
+        catagoriestwo = ["materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
+
+        for cat,c in zip(catagoriesone,range(len(catagoriesone))):
+            self.checkbox = QCheckBox(cat)
+            self.checkbox.setStyleSheet(darktextstyle)
+            self.checkbox.setObjectName(cat)
+            self.checkbox.stateChanged.connect(self.category)
+            self.categorieslayout.addWidget(self.checkbox,0,c)
+        for cat,c in zip(catagoriestwo,range(len(catagoriestwo))):
+            self.checkbox = QCheckBox(cat)
+            self.checkbox.setStyleSheet(darktextstyle)
+            self.checkbox.setObjectName(cat)
+            self.checkbox.stateChanged.connect(self.category)
+            self.categorieslayout.addWidget(self.checkbox,1,c)
+
+        [self.botlayout.addWidget(w) for w in [self.tiercaplabel, self.tiercap, self.margincaplabel, self.margincaplow,self.margincap, self.hourcaplabel, self.hourcap,self.generateui,self.scanui]]
 
         # - set main layout - #
         self.setLayout(self.mainLayout)
@@ -129,8 +148,24 @@ class albionAuctioneer(QWidget):
         for i in reversed(range(layout.count())):
             layout.takeAt(i).widget().deleteLater()
 
+    def category(self):
+        print("WORKING")
+        self.catagorylist = []
+        layout = self.categorieslayout
+        widgets = (layout.itemAt(i).widget() for i in range(layout.count())) 
+        for widget in widgets:
+            if isinstance(widget, QCheckBox):
+                if widget.isChecked():
+                    self.catagorylist.append(widget.text())
+                    widget.setStyleSheet(lighttextstyle)
+                else:
+                    widget.setStyleSheet(darktextstyle)
+
+        return self.catagorylist
+
     def runscan(self):
-        currenttime = scan()
+        catagorylist = self.catagorylist
+        currenttime = scan(catagorylist)
         print(currenttime)
         self.setWindowTitle('albionAuctioneer v1.0 - scanned - '+currenttime)
 
@@ -139,7 +174,7 @@ class albionAuctioneer(QWidget):
         clipboard.setText(self.sender().text())
 
     def generate(self):
-        catagories = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
+        catagories = self.catagorylist
         cities = ["Caerleon","Lymhurst","Martlock","Bridgewatch","Thetford","Fort Sterling","Black Market"]
 
         # - tier list - #
@@ -203,7 +238,7 @@ class albionAuctioneer(QWidget):
             self.marginlabel.setFixedSize(50,h)
             self.marginlabel.setAlignment(Qt.AlignCenter)
 
-            self.marginplabel = QLabel(str(self.auction[5]))
+            self.marginplabel = QLabel(str(self.auction[5])+" %")
             self.marginplabel.setFixedSize(50,h)
             self.marginplabel.setAlignment(Qt.AlignCenter)
 

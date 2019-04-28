@@ -1,10 +1,10 @@
-def scan():
+def scan(catagorylist):
     import os
     import requests
     from pathlib import Path
     from datetime import datetime, timezone
 
-    catagories = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
+    print(catagorylist)
     tiers = ["1","2","3","4","5","6","7","8"]
 
     scriptpath = os.path.dirname(os.path.realpath(__file__))
@@ -14,7 +14,8 @@ def scan():
     print(datapath)
 
     # - dataset - #
-    for catagory in catagories:
+
+    for catagory in catagorylist:
         for tier in tiers:
             categoryfile = os.path.join(scriptpath, "dataset", catagory+".txt")
             file = open(categoryfile, "r+")
