@@ -1,4 +1,4 @@
-def data(catagories, tiers, cities, hourcap, margincap):
+def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
     import os
     import json
     import time
@@ -6,12 +6,16 @@ def data(catagories, tiers, cities, hourcap, margincap):
     import pytz
     from operator import itemgetter, attrgetter
 
+    scriptpath = os.path.dirname(os.path.realpath(__file__))
+    datapath = os.path.join(scriptpath, "dataset")
+    scandatapath = os.path.join(scriptpath, "scan")
+
     allids = []
     allauctions = []
 
     for category in catagories:
         for tier in tiers:
-            path = "C:\\Users\\tobia\\Google Drive\\scripts\\albionAuctioneer\\scan\\%s_%s.txt" % (category,tier)
+            path = os.path.join(scandatapath,category+"_"+str(tier)+".txt")
             if os.path.isfile(path):
                 if os.stat(path).st_size != 0:
                     file = open(path, "r")
@@ -26,13 +30,7 @@ def data(catagories, tiers, cities, hourcap, margincap):
                                 difference = (currenttime-datatime).seconds/60
 
                                 if difference < int(hourcap):
-                                    print(difference)
                                     if i["city"] in cities:
-                                        print(i["item_id"])
-                                        print(i["city"])
-                                        print(i["sell_price_min"])
-                                        print(i["sell_price_min_date"])
-                                        print("")
                                         allids.append(i["item_id"])
                                         allauctions.append((i["item_id"],category,i["city"],i["sell_price_min"],i["sell_price_min_date"]))
                                 else:
@@ -51,6 +49,8 @@ def data(catagories, tiers, cities, hourcap, margincap):
 
         if len(idauctions) > 1: 
 
+            print(idauctions)
+
             fromdata = sorted(idauctions, key=itemgetter(3))[0]
             todata = sorted(idauctions, key=itemgetter(3))[-1]
 
@@ -65,14 +65,22 @@ def data(catagories, tiers, cities, hourcap, margincap):
             margin = todata[3]-fromdata[3]
             marginp = round((margin/todata[3])*100,2)
 
+            # - getting name - #
+            categoryfile = os.path.join(scriptpath, "dataset", idauctions[0][1]+".txt")
+            file = open(categoryfile, "r+")
+            lines = file.readlines()
+            itemlist = [line.rstrip('\n') for line in lines]
 
-            if marginp > float(margincap):
-                pass
+            for item in itemlist:
+                if item.split(":")[3] == idauctions[0][0]:
+                    itemname = item.split(":")[0]
+
+            if marginp < float(margincaphigh):
+                if marginp > float(margincaplow):
+                    completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
             else:
-                completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemid,tovaluedata,fromvaluedata))
+                pass
         else:
             pass
 
-    print("COMPLETE LIST")
-    print(completeauctionlist)
     return completeauctionlist

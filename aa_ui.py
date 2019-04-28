@@ -30,6 +30,7 @@ darkstyle = "font-size:10px; color: #858585; font-weight: bold;background-color:
 lightstyle = "font-size:10px; color: #CCCCCC; background-color:#3B3B3B; border: 1px solid #1C1C1C; height: 20px;"
 blackstyle = "font-size:15px; color: #1C1C1C; font-weight: bold; height: 20px; border: 2px solid #292929"
 darktextstyle = "font-size:10px; background-color:#292929; border: 2px solid #292929;"
+lighttextstyle = "font-size:10px; color: #CCCCCC; background-color:#292929; border: 2px solid #292929;"
 
 # - dataset - #
 
@@ -72,20 +73,23 @@ class albionAuctioneer(QWidget):
         self.scanui = QPushButton("scan")
         self.scanui.setFixedSize(100,20)
         self.scanui.clicked.connect(scan)
-        self.ccity = QCheckBox("Caerleon")
-        self.lcity = QCheckBox("Lymhurst")
-        self.mcity = QCheckBox("Martlock")
-        self.bcity = QCheckBox("Bridgewatch")
-        self.tcity = QCheckBox("Thetford")
-        self.fcity = QCheckBox("Fort Sterling")
-        self.margincap = QLineEdit("75")
+        self.tiercaplabel = QLabel("lowest tier limit ")
+        self.tiercap = QLineEdit("T4")
+        self.tiercap.setFixedSize(30,20)
+        self.tiercap.setAlignment(Qt.AlignCenter)
+        self.margincaplabel = QLabel("low/high margin limit ")
+        self.margincaplow = QLineEdit("0")
+        self.margincaplow.setAlignment(Qt.AlignCenter)
+        self.margincaplow.setFixedSize(30,20)
+        self.margincap = QLineEdit("100")
         self.margincap.setAlignment(Qt.AlignCenter)
         self.margincap.setFixedSize(30,20)
+        self.hourcaplabel = QLabel("auction age limit (mins) ")
         self.hourcap = QLineEdit("15")
         self.hourcap.setAlignment(Qt.AlignCenter)
         self.hourcap.setFixedSize(30,20)
         
-        self.generateui = QPushButton("generate")
+        self.generateui = QPushButton("read scan data")
         self.generateui.clicked.connect(self.generate)
         self.generateui.setFixedSize(378,20)
 
@@ -96,7 +100,7 @@ class albionAuctioneer(QWidget):
         self.controllayout.addLayout(self.toplayout)
         self.controllayout.addLayout(self.botlayout)
 
-        [self.toplayout.addWidget(w) for w in [self.ccity,self.lcity,self.mcity,self.bcity,self.tcity,self.fcity,self.margincap,self.hourcap,self.generateui,self.scanui]]
+        [self.toplayout.addWidget(w) for w in [self.tiercaplabel, self.tiercap, self.margincaplabel, self.margincaplow,self.margincap, self.hourcaplabel, self.hourcap,self.generateui,self.scanui]]
 
         # - set main layout - #
         self.setLayout(self.mainLayout)
@@ -109,8 +113,8 @@ class albionAuctioneer(QWidget):
     # - Function to set UI styles - #
     def styles(self):
         self.setStyleSheet(mainstyle)
-        [w.setStyleSheet(lightstyle) for w in [self.margincap,self.hourcap,self.generateui,self.scanui]]
-        [w.setStyleSheet(darktextstyle) for w in [self.ccity,self.lcity,self.mcity,self.bcity,self.tcity,self.fcity]]
+        [w.setStyleSheet(lightstyle) for w in [self.tiercap, self.margincaplow,self.margincap,self.hourcap,self.generateui,self.scanui]]
+        [w.setStyleSheet(lighttextstyle) for w in [self.tiercaplabel,self.margincaplabel,self.hourcaplabel]]
 
     # - Function for clearing the browser layout                           - #
     def clearLayout(self):
@@ -120,14 +124,22 @@ class albionAuctioneer(QWidget):
 
     def generate(self):
         catagories = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
-        tiers = ["1","2","3","4","5","6","7","8"]
         cities = ["Caerleon","Lymhurst","Martlock","Bridgewatch","Thetford","Fort Sterling","Black Market"]
+
+        # - tier list - #
+        tier = self.tiercap.text()
+        tiers = []
+
+        for tier in range(int(tier[1]), 9):
+            tiers.append(tier)
+
+        # - #
+
         hourcap = self.hourcap.text()
-        margincap = self.margincap.text()
+        margincaplow = self.margincaplow.text()
+        margincaphigh = self.margincap.text()
 
-        completeauctionlist = data(catagories, tiers, cities, hourcap, margincap)
-
-        print(completeauctionlist)
+        completeauctionlist = data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh)
 
         print("generate")
         self.clearLayout()
@@ -140,8 +152,7 @@ class albionAuctioneer(QWidget):
 
             self.iconlabel = QToolButton()
             self.iconlabel.setFixedSize(h,h)
-            print(icons+self.auction[6]+".png")
-            icon  = QPixmap(icons+"\\"+self.auction[6]+".png")
+            icon  = QPixmap(icons+"\\"+self.auction[7]+".png")
             self.iconlabel.setIcon(icon)
             self.iconlabel.setIconSize(QSize(h-2, h-2))
 
@@ -150,7 +161,7 @@ class albionAuctioneer(QWidget):
             
             # - button icon - #
 
-            self.fromlabel = QLabel(str(self.auction[0])+"\n"+str(self.auction[7]))
+            self.fromlabel = QLabel(str(self.auction[0])+"\n"+str(self.auction[8]))
             self.fromlabel.setFixedSize(150,h)
             self.fromlabel.setAlignment(Qt.AlignCenter)
 
@@ -174,7 +185,7 @@ class albionAuctioneer(QWidget):
             self.marginlabel.setFixedSize(50,h)
             self.marginlabel.setAlignment(Qt.AlignCenter)
 
-            self.marginplabel = QLabel(str(self.auction[5])+" %")
+            self.marginplabel = QLabel(str(self.auction[5]))
             self.marginplabel.setFixedSize(50,h)
             self.marginplabel.setAlignment(Qt.AlignCenter)
 
