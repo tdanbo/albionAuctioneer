@@ -4,7 +4,6 @@ import sys
 import urllib3
 import requests
 
-
 from operator import itemgetter, attrgetter
 from bs4 import BeautifulSoup
 
@@ -97,7 +96,7 @@ class albionAuctioneer(QWidget):
         self.controllayout.addLayout(self.toplayout)
         self.controllayout.addLayout(self.botlayout)
 
-        [self.botlayout.addWidget(w) for w in [self.ccity,self.lcity,self.mcity,self.bcity,self.tcity,self.fcity,self.margincap,self.hourcap,self.generateui,self.scanui]]
+        [self.toplayout.addWidget(w) for w in [self.ccity,self.lcity,self.mcity,self.bcity,self.tcity,self.fcity,self.margincap,self.hourcap,self.generateui,self.scanui]]
 
         # - set main layout - #
         self.setLayout(self.mainLayout)
@@ -125,8 +124,68 @@ class albionAuctioneer(QWidget):
         cities = ["Caerleon","Lymhurst","Martlock","Bridgewatch","Thetford","Fort Sterling","Black Market"]
         hourcap = self.hourcap.text()
         margincap = self.margincap.text()
-        
-        data(catagories, tiers, cities, hourcap, margincap)
+
+        completeauctionlist = data(catagories, tiers, cities, hourcap, margincap)
+
+        print(completeauctionlist)
+
+        print("generate")
+        self.clearLayout()
+
+        for self.auction in sorted(completeauctionlist, key=itemgetter(5), reverse=True):
+            h = 40
+            self.auctionlayout = QHBoxLayout()
+            self.auctionwidget = QWidget()
+            self.auctionwidget.setLayout(self.auctionlayout)
+
+            self.iconlabel = QToolButton()
+            self.iconlabel.setFixedSize(h,h)
+            print(icons+self.auction[6]+".png")
+            icon  = QPixmap(icons+"\\"+self.auction[6]+".png")
+            self.iconlabel.setIcon(icon)
+            self.iconlabel.setIconSize(QSize(h-2, h-2))
+
+            self.namelabel = QPushButton(str(self.auction[6]))
+            self.namelabel.setFixedSize(200,h)
+            
+            # - button icon - #
+
+            self.fromlabel = QLabel(str(self.auction[0])+"\n"+str(self.auction[7]))
+            self.fromlabel.setFixedSize(150,h)
+            self.fromlabel.setAlignment(Qt.AlignCenter)
+
+            self.fromvalue = QLabel(str(self.auction[1]))
+            self.fromvalue.setFixedSize(50,h)
+            self.fromvalue.setAlignment(Qt.AlignCenter)
+
+            self.travelicon = QLabel(">")
+            self.travelicon.setAlignment(Qt.AlignCenter)
+            self.travelicon.setFixedSize(25,h)
+
+            self.tovalue = QLabel(str(self.auction[3]))
+            self.tovalue.setFixedSize(50,h)
+            self.tovalue.setAlignment(Qt.AlignCenter)
+
+            self.tolabel = QLabel(str(self.auction[2])+"\n"+str(self.auction[8]))
+            self.tolabel.setFixedSize(150,h)
+            self.tolabel.setAlignment(Qt.AlignCenter)
+
+            self.marginlabel = QLabel(str(self.auction[4]))
+            self.marginlabel.setFixedSize(50,h)
+            self.marginlabel.setAlignment(Qt.AlignCenter)
+
+            self.marginplabel = QLabel(str(self.auction[5])+" %")
+            self.marginplabel.setFixedSize(50,h)
+            self.marginplabel.setAlignment(Qt.AlignCenter)
+
+            widgets = [self.iconlabel,self.namelabel,self.fromlabel,self.fromvalue,self.travelicon,self.tovalue,self.tolabel,self.marginlabel,self.marginplabel]
+
+            [self.auctionlayout.addWidget(w) for w in widgets]
+            [w.setStyleSheet(lightstyle) for w in widgets]
+
+            self.travelicon.setStyleSheet(blackstyle)
+
+            self.datalayout.addWidget(self.auctionwidget)
 
 panel = albionAuctioneer()
 panel.show()

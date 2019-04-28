@@ -4,6 +4,7 @@ def data(catagories, tiers, cities, hourcap, margincap):
     import time
     from datetime import datetime, timezone
     import pytz
+    from operator import itemgetter, attrgetter
 
     allids = []
     allauctions = []
@@ -72,4 +73,6 @@ def data(catagories, tiers, cities, hourcap, margincap):
         else:
             pass
 
+    print("COMPLETE LIST")
+    print(completeauctionlist)
     return completeauctionlist
