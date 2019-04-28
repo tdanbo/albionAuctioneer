@@ -1,0 +1,32 @@
+Seaweed:materials:1:T1_SEAWEED@0
+Chopped Fish:materials:1:T1_FISHCHOPS@0
+Basic Fish Sauce:materials:1:T1_FISHSAUCE_LEVEL1@0
+Fancy Fish Sauce:materials:1:T1_FISHSAUCE_LEVEL2@0
+Special Fish Sauce:materials:1:T1_FISHSAUCE_LEVEL3@0
+Earthworm:materials:1:T1_WORM
+Adept's Arcane Essence:materials:4:T4_ESSENCE_POTION
+Adept's Faded Essence:materials:4:T4_ESSENCE
+Adept's Rune:materials:4:T4_RUNE
+Adept's Soul:materials:4:T4_SOUL
+Adept's Relic:materials:4:T4_RELIC
+Expert's Arcane Essence:materials:5:T5_ESSENCE_POTION
+Expert's Faded Essence:materials:5:T5_ESSENCE
+Expert's Rune:materials:5:T5_RUNE
+Expert's Soul:materials:5:T5_SOUL
+Expert's Relic:materials:5:T5_RELIC
+Master's Arcane Essence:materials:6:T6_ESSENCE_POTION
+Master's Faded Essence:materials:6:T6_ESSENCE
+Master's Rune:materials:6:T6_RUNE
+Master's Soul:materials:6:T6_SOUL
+Master's Relic:materials:6:T6_RELIC
+Grandmaster's Arcane Essence:materials:7:T7_ESSENCE_POTION
+Grandmaster's Faded Essence:materials:7:T7_ESSENCE
+Grandmaster's Rune:materials:7:T7_RUNE
+Grandmaster's Soul:materials:7:T7_SOUL
+Grandmaster's Relic:materials:7:T7_RELIC
+Shark:materials:8:T8_FISH_SALTWATER_ALL_BOSS_SHARK@0
+Elder's Arcane Essence:materials:8:T8_ESSENCE_POTION
+Elder's Faded Essence:materials:8:T8_ESSENCE
+Elder's Rune:materials:8:T8_RUNE
+Elder's Soul:materials:8:T8_SOUL
+Elder's Relic:materials:8:T8_RELIC

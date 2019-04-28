@@ -1,0 +1,53 @@
+Beginner's Pickaxe:tools:1:T1_2H_TOOL_PICK
+Beginner's Stone Hammer:tools:1:T1_2H_TOOL_HAMMER
+Beginner's Axe:tools:1:T1_2H_TOOL_AXE
+Beginner's Sickle:tools:1:T1_2H_TOOL_SICKLE
+Beginner's Skinning Knife:tools:1:T1_2H_TOOL_KNIFE
+Novice's Pickaxe:tools:2:T2_2H_TOOL_PICK
+Novice's Stone Hammer:tools:2:T2_2H_TOOL_HAMMER
+Novice's Axe:tools:2:T2_2H_TOOL_AXE
+Novice's Sickle:tools:2:T2_2H_TOOL_SICKLE
+Novice's Skinning Knife:tools:2:T2_2H_TOOL_KNIFE
+Novice's Demolition Hammer:tools:2:T2_2H_TOOL_SIEGEHAMMER
+Journeyman's Pickaxe:tools:3:T3_2H_TOOL_PICK
+Journeyman's Stone Hammer:tools:3:T3_2H_TOOL_HAMMER
+Journeyman's Axe:tools:3:T3_2H_TOOL_AXE
+Journeyman's Sickle:tools:3:T3_2H_TOOL_SICKLE
+Journeyman's Skinning Knife:tools:3:T3_2H_TOOL_KNIFE
+Journeyman's Demolition Hammer:tools:3:T3_2H_TOOL_SIEGEHAMMER
+Journeyman's Fishing Rod:tools:3:T3_2H_TOOL_FISHINGROD
+Adept's Pickaxe:tools:4:T4_2H_TOOL_PICK
+Adept's Stone Hammer:tools:4:T4_2H_TOOL_HAMMER
+Adept's Axe:tools:4:T4_2H_TOOL_AXE
+Adept's Sickle:tools:4:T4_2H_TOOL_SICKLE
+Adept's Skinning Knife:tools:4:T4_2H_TOOL_KNIFE
+Adept's Demolition Hammer:tools:4:T4_2H_TOOL_SIEGEHAMMER
+Adept's Fishing Rod:tools:4:T4_2H_TOOL_FISHINGROD
+Expert's Pickaxe:tools:5:T5_2H_TOOL_PICK
+Expert's Stone Hammer:tools:5:T5_2H_TOOL_HAMMER
+Expert's Axe:tools:5:T5_2H_TOOL_AXE
+Expert's Sickle:tools:5:T5_2H_TOOL_SICKLE
+Expert's Skinning Knife:tools:5:T5_2H_TOOL_KNIFE
+Expert's Demolition Hammer:tools:5:T5_2H_TOOL_SIEGEHAMMER
+Expert's Fishing Rod:tools:5:T5_2H_TOOL_FISHINGROD
+Master's Pickaxe:tools:6:T6_2H_TOOL_PICK
+Master's Stone Hammer:tools:6:T6_2H_TOOL_HAMMER
+Master's Axe:tools:6:T6_2H_TOOL_AXE
+Master's Sickle:tools:6:T6_2H_TOOL_SICKLE
+Master's Skinning Knife:tools:6:T6_2H_TOOL_KNIFE
+Master's Demolition Hammer:tools:6:T6_2H_TOOL_SIEGEHAMMER
+Master's Fishing Rod:tools:6:T6_2H_TOOL_FISHINGROD
+Grandmaster's Pickaxe:tools:7:T7_2H_TOOL_PICK
+Grandmaster's Stone Hammer:tools:7:T7_2H_TOOL_HAMMER
+Grandmaster's Axe:tools:7:T7_2H_TOOL_AXE
+Grandmaster's Sickle:tools:7:T7_2H_TOOL_SICKLE
+Grandmaster's Skinning Knife:tools:7:T7_2H_TOOL_KNIFE
+Grandmaster's Demolition Hammer:tools:7:T7_2H_TOOL_SIEGEHAMMER
+Grandmaster's Fishing Rod:tools:7:T7_2H_TOOL_FISHINGROD
+Elder's Pickaxe:tools:8:T8_2H_TOOL_PICK
+Elder's Stone Hammer:tools:8:T8_2H_TOOL_HAMMER
+Elder's Axe:tools:8:T8_2H_TOOL_AXE
+Elder's Sickle:tools:8:T8_2H_TOOL_SICKLE
+Elder's Skinning Knife:tools:8:T8_2H_TOOL_KNIFE
+Elder's Demolition Hammer:tools:8:T8_2H_TOOL_SIEGEHAMMER
+Elder's Fishing Rod:tools:8:T8_2H_TOOL_FISHINGROD

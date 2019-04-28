@@ -1,0 +1,194 @@
+Rough Logs:resources:1:T1_WOOD
+Rough Stone:resources:1:T1_ROCK
+Scraps of Hide:resources:1:T1_HIDE
+Birch Logs:resources:2:T2_WOOD
+Limestone:resources:2:T2_ROCK
+Copper Ore:resources:2:T2_ORE
+Rugged Hide:resources:2:T2_HIDE
+Cotton:resources:2:T2_FIBER
+Birch Planks:resources:2:T2_PLANKS
+Limestone Block:resources:2:T2_STONEBLOCK
+Copper Bar:resources:2:T2_METALBAR
+Stiff Leather:resources:2:T2_LEATHER
+Simple Cloth:resources:2:T2_CLOTH
+Chestnut Logs:resources:3:T3_WOOD
+Sandstone:resources:3:T3_ROCK
+Tin Ore:resources:3:T3_ORE
+Thin Hide:resources:3:T3_HIDE
+Flax:resources:3:T3_FIBER
+Chestnut Planks:resources:3:T3_PLANKS
+Sandstone Block:resources:3:T3_STONEBLOCK
+Bronze Bar:resources:3:T3_METALBAR
+Thick Leather:resources:3:T3_LEATHER
+Neat Cloth:resources:3:T3_CLOTH
+Explorer's Anchor:resources:3:UNIQUE_INGREDIENT_ANCHOR_FOUNDER_LEGENDARY
+Pine Logs:resources:4:T4_WOOD
+Uncommon Pine Logs:resources:4:T4_WOOD_LEVEL1@1
+Rare Pine Logs:resources:4:T4_WOOD_LEVEL2@2
+Exceptional Pine Logs:resources:4:T4_WOOD_LEVEL3@3
+Travertine:resources:4:T4_ROCK
+Iron Ore:resources:4:T4_ORE
+Uncommon Iron Ore:resources:4:T4_ORE_LEVEL1@1
+Rare Iron Ore:resources:4:T4_ORE_LEVEL2@2
+Exceptional Iron Ore:resources:4:T4_ORE_LEVEL3@3
+Medium Hide:resources:4:T4_HIDE
+Uncommon Medium Hide:resources:4:T4_HIDE_LEVEL1@1
+Rare Medium Hide:resources:4:T4_HIDE_LEVEL2@2
+Exceptional Medium Hide:resources:4:T4_HIDE_LEVEL3@3
+Hemp:resources:4:T4_FIBER
+Uncommon Hemp:resources:4:T4_FIBER_LEVEL1@1
+Rare Hemp:resources:4:T4_FIBER_LEVEL2@2
+Exceptional Hemp:resources:4:T4_FIBER_LEVEL3@3
+Pine Planks:resources:4:T4_PLANKS
+Uncommon Pine Planks:resources:4:T4_PLANKS_LEVEL1@1
+Rare Pine Planks:resources:4:T4_PLANKS_LEVEL2@2
+Exceptional Pine Planks:resources:4:T4_PLANKS_LEVEL3@3
+Travertine Block:resources:4:T4_STONEBLOCK
+Steel Bar:resources:4:T4_METALBAR
+Uncommon Steel Bar:resources:4:T4_METALBAR_LEVEL1@1
+Rare Steel Bar:resources:4:T4_METALBAR_LEVEL2@2
+Exceptional Steel Bar:resources:4:T4_METALBAR_LEVEL3@3
+Worked Leather:resources:4:T4_LEATHER
+Uncommon Worked Leather:resources:4:T4_LEATHER_LEVEL1@1
+Rare Worked Leather:resources:4:T4_LEATHER_LEVEL2@2
+Exceptional Worked Leather:resources:4:T4_LEATHER_LEVEL3@3
+Fine Cloth:resources:4:T4_CLOTH
+Uncommon Fine Cloth:resources:4:T4_CLOTH_LEVEL1@1
+Rare Fine Cloth:resources:4:T4_CLOTH_LEVEL2@2
+Exceptional Fine Cloth:resources:4:T4_CLOTH_LEVEL3@3
+Cedar Logs:resources:5:T5_WOOD
+Uncommon Cedar Logs:resources:5:T5_WOOD_LEVEL1@1
+Rare Cedar Logs:resources:5:T5_WOOD_LEVEL2@2
+Exceptional Cedar Logs:resources:5:T5_WOOD_LEVEL3@3
+Granite:resources:5:T5_ROCK
+Titanium Ore:resources:5:T5_ORE
+Uncommon Titanium Ore:resources:5:T5_ORE_LEVEL1@1
+Rare Titanium Ore:resources:5:T5_ORE_LEVEL2@2
+Exceptional Titanium Ore:resources:5:T5_ORE_LEVEL3@3
+Heavy Hide:resources:5:T5_HIDE
+Uncommon Heavy Hide:resources:5:T5_HIDE_LEVEL1@1
+Rare Heavy Hide:resources:5:T5_HIDE_LEVEL2@2
+Exceptional Heavy Hide:resources:5:T5_HIDE_LEVEL3@3
+Skyflower:resources:5:T5_FIBER
+Uncommon Skyflower:resources:5:T5_FIBER_LEVEL1@1
+Rare Skyflower:resources:5:T5_FIBER_LEVEL2@2
+Exceptional Skyflower:resources:5:T5_FIBER_LEVEL3@3
+Cedar Planks:resources:5:T5_PLANKS
+Uncommon Cedar Planks:resources:5:T5_PLANKS_LEVEL1@1
+Rare Cedar Planks:resources:5:T5_PLANKS_LEVEL2@2
+Exceptional Cedar Planks:resources:5:T5_PLANKS_LEVEL3@3
+Granite Block:resources:5:T5_STONEBLOCK
+Titanium Steel Bar:resources:5:T5_METALBAR
+Uncommon Titanium Steel Bar:resources:5:T5_METALBAR_LEVEL1@1
+Rare Titanium Steel Bar:resources:5:T5_METALBAR_LEVEL2@2
+Exceptional Titanium Steel Bar:resources:5:T5_METALBAR_LEVEL3@3
+Cured Leather:resources:5:T5_LEATHER
+Uncommon Cured Leather:resources:5:T5_LEATHER_LEVEL1@1
+Rare Cured Leather:resources:5:T5_LEATHER_LEVEL2@2
+Exceptional Cured Leather:resources:5:T5_LEATHER_LEVEL3@3
+Ornate Cloth:resources:5:T5_CLOTH
+Uncommon Ornate Cloth:resources:5:T5_CLOTH_LEVEL1@1
+Rare Ornate Cloth:resources:5:T5_CLOTH_LEVEL2@2
+Exceptional Ornate Cloth:resources:5:T5_CLOTH_LEVEL3@3
+Bloodoak Logs:resources:6:T6_WOOD
+Uncommon Bloodoak Logs:resources:6:T6_WOOD_LEVEL1@1
+Rare Bloodoak Logs:resources:6:T6_WOOD_LEVEL2@2
+Exceptional Bloodoak Logs:resources:6:T6_WOOD_LEVEL3@3
+Slate:resources:6:T6_ROCK
+Runite Ore:resources:6:T6_ORE
+Uncommon Runite Ore:resources:6:T6_ORE_LEVEL1@1
+Rare Runite Ore:resources:6:T6_ORE_LEVEL2@2
+Exceptional Runite Ore:resources:6:T6_ORE_LEVEL3@3
+Robust Hide:resources:6:T6_HIDE
+Uncommon Robust Hide:resources:6:T6_HIDE_LEVEL1@1
+Rare Robust Hide:resources:6:T6_HIDE_LEVEL2@2
+Exceptional Robust Hide:resources:6:T6_HIDE_LEVEL3@3
+Redleaf Cotton:resources:6:T6_FIBER
+Uncommon Redleaf Cotton:resources:6:T6_FIBER_LEVEL1@1
+Rare Redleaf Cotton:resources:6:T6_FIBER_LEVEL2@2
+Exceptional Redleaf Cotton:resources:6:T6_FIBER_LEVEL3@3
+Bloodoak Planks:resources:6:T6_PLANKS
+Uncommon Bloodoak Planks:resources:6:T6_PLANKS_LEVEL1@1
+Rare Bloodoak Planks:resources:6:T6_PLANKS_LEVEL2@2
+Exceptional Bloodoak Planks:resources:6:T6_PLANKS_LEVEL3@3
+Slate Block:resources:6:T6_STONEBLOCK
+Runite Steel Bar:resources:6:T6_METALBAR
+Uncommon Runite Steel Bar:resources:6:T6_METALBAR_LEVEL1@1
+Rare Runite Steel Bar:resources:6:T6_METALBAR_LEVEL2@2
+Exceptional Runite Steel Bar:resources:6:T6_METALBAR_LEVEL3@3
+Hardened Leather:resources:6:T6_LEATHER
+Uncommon Hardened Leather:resources:6:T6_LEATHER_LEVEL1@1
+Rare Hardened Leather:resources:6:T6_LEATHER_LEVEL2@2
+Exceptional Hardened Leather:resources:6:T6_LEATHER_LEVEL3@3
+Lavish Cloth:resources:6:T6_CLOTH
+Uncommon Lavish Cloth:resources:6:T6_CLOTH_LEVEL1@1
+Rare Lavish Cloth:resources:6:T6_CLOTH_LEVEL2@2
+Exceptional Lavish Cloth:resources:6:T6_CLOTH_LEVEL3@3
+Ashenbark Logs:resources:7:T7_WOOD
+Uncommon Ashenbark Logs:resources:7:T7_WOOD_LEVEL1@1
+Rare Ashenbark Logs:resources:7:T7_WOOD_LEVEL2@2
+Exceptional Ashenbark Logs:resources:7:T7_WOOD_LEVEL3@3
+Basalt:resources:7:T7_ROCK
+Meteorite Ore:resources:7:T7_ORE
+Uncommon Meteorite Ore:resources:7:T7_ORE_LEVEL1@1
+Rare Meteorite Ore:resources:7:T7_ORE_LEVEL2@2
+Exceptional Meteorite Ore:resources:7:T7_ORE_LEVEL3@3
+Thick Hide:resources:7:T7_HIDE
+Uncommon Thick Hide:resources:7:T7_HIDE_LEVEL1@1
+Rare Thick Hide:resources:7:T7_HIDE_LEVEL2@2
+Exceptional Thick Hide:resources:7:T7_HIDE_LEVEL3@3
+Sunflax:resources:7:T7_FIBER
+Uncommon Sunflax:resources:7:T7_FIBER_LEVEL1@1
+Rare Sunflax:resources:7:T7_FIBER_LEVEL2@2
+Exceptional Sunflax:resources:7:T7_FIBER_LEVEL3@3
+Ashenbark Planks:resources:7:T7_PLANKS
+Uncommon Ashenbark Planks:resources:7:T7_PLANKS_LEVEL1@1
+Rare Ashenbark Planks:resources:7:T7_PLANKS_LEVEL2@2
+Exceptional Ashenbark Planks:resources:7:T7_PLANKS_LEVEL3@3
+Basalt Block:resources:7:T7_STONEBLOCK
+Meteorite Steel Bar:resources:7:T7_METALBAR
+Uncommon Meteorite Steel Bar:resources:7:T7_METALBAR_LEVEL1@1
+Rare Meteorite Steel Bar:resources:7:T7_METALBAR_LEVEL2@2
+Exceptional Meteorite Steel Bar:resources:7:T7_METALBAR_LEVEL3@3
+Reinforced Leather:resources:7:T7_LEATHER
+Uncommon Reinforced Leather:resources:7:T7_LEATHER_LEVEL1@1
+Rare Reinforced Leather:resources:7:T7_LEATHER_LEVEL2@2
+Exceptional Reinforced Leather:resources:7:T7_LEATHER_LEVEL3@3
+Opulent Cloth:resources:7:T7_CLOTH
+Uncommon Opulent Cloth:resources:7:T7_CLOTH_LEVEL1@1
+Rare Opulent Cloth:resources:7:T7_CLOTH_LEVEL2@2
+Exceptional Opulent Cloth:resources:7:T7_CLOTH_LEVEL3@3
+Whitewood Logs:resources:8:T8_WOOD
+Uncommon Whitewood Logs:resources:8:T8_WOOD_LEVEL1@1
+Rare Whitewood Logs:resources:8:T8_WOOD_LEVEL2@2
+Exceptional Whitewood Logs:resources:8:T8_WOOD_LEVEL3@3
+Marble:resources:8:T8_ROCK
+Adamantium Ore:resources:8:T8_ORE
+Uncommon Adamantium Ore:resources:8:T8_ORE_LEVEL1@1
+Rare Adamantium Ore:resources:8:T8_ORE_LEVEL2@2
+Exceptional Adamantium Ore:resources:8:T8_ORE_LEVEL3@3
+Resilient Hide:resources:8:T8_HIDE
+Uncommon Resilient Hide:resources:8:T8_HIDE_LEVEL1@1
+Rare Resilient Hide:resources:8:T8_HIDE_LEVEL2@2
+Exceptional Resilient Hide:resources:8:T8_HIDE_LEVEL3@3
+Ghost Hemp:resources:8:T8_FIBER
+Uncommon Ghost Hemp:resources:8:T8_FIBER_LEVEL1@1
+Rare Ghost Hemp:resources:8:T8_FIBER_LEVEL2@2
+Exceptional Ghost Hemp:resources:8:T8_FIBER_LEVEL3@3
+Whitewood Planks:resources:8:T8_PLANKS
+Uncommon Whitewood Planks:resources:8:T8_PLANKS_LEVEL1@1
+Rare Whitewood Planks:resources:8:T8_PLANKS_LEVEL2@2
+Exceptional Whitewood Planks:resources:8:T8_PLANKS_LEVEL3@3
+Marble Block:resources:8:T8_STONEBLOCK
+Adamantium Steel Bar:resources:8:T8_METALBAR
+Uncommon Adamantium Steel Bar:resources:8:T8_METALBAR_LEVEL1@1
+Rare Adamantium Steel Bar:resources:8:T8_METALBAR_LEVEL2@2
+Exceptional Adamantium Steel Bar:resources:8:T8_METALBAR_LEVEL3@3
+Fortified Leather:resources:8:T8_LEATHER
+Uncommon Fortified Leather:resources:8:T8_LEATHER_LEVEL1@1
+Rare Fortified Leather:resources:8:T8_LEATHER_LEVEL2@2
+Exceptional Fortified Leather:resources:8:T8_LEATHER_LEVEL3@3
+Baroque Cloth:resources:8:T8_CLOTH
+Uncommon Baroque Cloth:resources:8:T8_CLOTH_LEVEL1@1
+Rare Baroque Cloth:resources:8:T8_CLOTH_LEVEL2@2
+Exceptional Baroque Cloth:resources:8:T8_CLOTH_LEVEL3@3

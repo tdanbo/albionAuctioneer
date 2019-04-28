@@ -1,0 +1,58 @@
+Adventurer's Handbook:trophies:2:T2_FURNITUREITEM_TROPHY_GENERAL
+Novice Mercenary's Trophy:trophies:2:T2_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Fox Head:trophies:2:T2_FURNITUREITEM_TROPHY_HIDE
+Copper Ore Sample:trophies:2:T2_FURNITUREITEM_TROPHY_ORE
+Comfy Cotton Trophy:trophies:2:T2_FURNITUREITEM_TROPHY_FIBER
+Limestone Fragment:trophies:2:T2_FURNITUREITEM_TROPHY_ROCK
+Birch Bonsai:trophies:2:T2_FURNITUREITEM_TROPHY_WOOD
+Carp Trophy:trophies:2:T2_FURNITUREITEM_TROPHY_FISH
+Explorer's Spyglass:trophies:3:UNIQUE_FURNITUREITEM_FOUNDER_LOOKINGGLASS
+Magical Tome:trophies:3:T3_FURNITUREITEM_TROPHY_GENERAL
+Journeyman Mercenary's Trophy:trophies:3:T3_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Wolf Head:trophies:3:T3_FURNITUREITEM_TROPHY_HIDE
+Tin Ore Sample:trophies:3:T3_FURNITUREITEM_TROPHY_ORE
+Fine Flax Trophy:trophies:3:T3_FURNITUREITEM_TROPHY_FIBER
+Sandstone Fragment:trophies:3:T3_FURNITUREITEM_TROPHY_ROCK
+Chestnut Bonsai:trophies:3:T3_FURNITUREITEM_TROPHY_WOOD
+Perch Trophy:trophies:3:T3_FURNITUREITEM_TROPHY_FISH
+Ancient Scripture:trophies:4:T4_FURNITUREITEM_TROPHY_GENERAL
+Adept Mercenary's Trophy:trophies:4:T4_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Boar Head:trophies:4:T4_FURNITUREITEM_TROPHY_HIDE
+Iron Ore Sample:trophies:4:T4_FURNITUREITEM_TROPHY_ORE
+Exquisite Hemp Trophy:trophies:4:T4_FURNITUREITEM_TROPHY_FIBER
+Travertine Fragment:trophies:4:T4_FURNITUREITEM_TROPHY_ROCK
+Pine Bonsai:trophies:4:T4_FURNITUREITEM_TROPHY_WOOD
+Pike Trophy:trophies:4:T4_FURNITUREITEM_TROPHY_FISH
+Tome of Knowledge:trophies:5:T5_FURNITUREITEM_TROPHY_GENERAL
+Expert Mercenary's Trophy:trophies:5:T5_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Bear Head:trophies:5:T5_FURNITUREITEM_TROPHY_HIDE
+Titanium Ore Sample:trophies:5:T5_FURNITUREITEM_TROPHY_ORE
+Soft Skyflower Trophy:trophies:5:T5_FURNITUREITEM_TROPHY_FIBER
+Granite Fragment:trophies:5:T5_FURNITUREITEM_TROPHY_ROCK
+Cedar Bonsai:trophies:5:T5_FURNITUREITEM_TROPHY_WOOD
+Trout Trophy:trophies:5:T5_FURNITUREITEM_TROPHY_FISH
+Encyclopedia of Power:trophies:6:T6_FURNITUREITEM_TROPHY_GENERAL
+Master Mercenary's Trophy:trophies:6:T6_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Direwolf Head:trophies:6:T6_FURNITUREITEM_TROPHY_HIDE
+Runite Ore Sample:trophies:6:T6_FURNITUREITEM_TROPHY_ORE
+Comfy Redleaf Cotton Trophy:trophies:6:T6_FURNITUREITEM_TROPHY_FIBER
+Slate Fragment:trophies:6:T6_FURNITUREITEM_TROPHY_ROCK
+Bloodoak Bonsai:trophies:6:T6_FURNITUREITEM_TROPHY_WOOD
+Zander Trophy:trophies:6:T6_FURNITUREITEM_TROPHY_FISH
+Occult Octavo:trophies:7:T7_FURNITUREITEM_TROPHY_GENERAL
+Grandmaster Mercenary's Trophy:trophies:7:T7_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Direboar Head:trophies:7:T7_FURNITUREITEM_TROPHY_HIDE
+Meteorite Ore Sample:trophies:7:T7_FURNITUREITEM_TROPHY_ORE
+Fine Sunflax Trophy:trophies:7:T7_FURNITUREITEM_TROPHY_FIBER
+Basalt Fragment:trophies:7:T7_FURNITUREITEM_TROPHY_ROCK
+Ashenbark Bonsai:trophies:7:T7_FURNITUREITEM_TROPHY_WOOD
+Catfish Trophy:trophies:7:T7_FURNITUREITEM_TROPHY_FISH
+Ledger of Truths:trophies:8:T8_FURNITUREITEM_TROPHY_GENERAL
+Trophy Shark:trophies:8:T8_FURNITUREITEM_TROPHY_FISHING_BOSS
+Elder Mercenary's Trophy:trophies:8:T8_FURNITUREITEM_TROPHY_MERCENARY
+Stuffed Direbear Head:trophies:8:T8_FURNITUREITEM_TROPHY_HIDE
+Adamantium Ore Sample:trophies:8:T8_FURNITUREITEM_TROPHY_ORE
+Exquisite Ghost Hemp Trophy:trophies:8:T8_FURNITUREITEM_TROPHY_FIBER
+Marble Fragment:trophies:8:T8_FURNITUREITEM_TROPHY_ROCK
+Whitewood Bonsai:trophies:8:T8_FURNITUREITEM_TROPHY_WOOD
+Swordfish Trophy:trophies:8:T8_FURNITUREITEM_TROPHY_FISH

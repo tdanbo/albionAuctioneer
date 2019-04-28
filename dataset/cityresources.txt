@@ -1,0 +1,5 @@
+Treeheart:cityresources:1:T1_FACTION_FOREST_TOKEN_1
+Rockheart:cityresources:1:T1_FACTION_HIGHLAND_TOKEN_1
+Beastheart:cityresources:1:T1_FACTION_STEPPE_TOKEN_1
+Mountainheart:cityresources:1:T1_FACTION_MOUNTAIN_TOKEN_1
+Vineheart:cityresources:1:T1_FACTION_SWAMP_TOKEN_1

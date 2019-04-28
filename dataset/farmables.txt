@@ -1,0 +1,47 @@
+Carrot Seeds:farmables:1:T1_FARM_CARROT_SEED
+Bean Seed:farmables:2:T2_FARM_BEAN_SEED
+Arcane Agaric Seed:farmables:2:T2_FARM_AGARIC_SEED
+Wheat Seeds:farmables:3:T3_FARM_WHEAT_SEED
+Brightleaf Comfrey Seed:farmables:3:T3_FARM_COMFREY_SEED
+Journeyman's Ox Calf:farmables:3:T3_FARM_OX_BABY
+Journeyman's Foal:farmables:3:T3_FARM_HORSE_BABY
+Baby Chickens:farmables:3:T3_FARM_CHICKEN_BABY
+Turnip Seed:farmables:4:T4_FARM_TURNIP_SEED
+Crenellated Burdock Seed:farmables:4:T4_FARM_BURDOCK_SEED
+Adept's Ox Calf:farmables:4:T4_FARM_OX_BABY
+Adept's Foal:farmables:4:T4_FARM_HORSE_BABY
+Adept's Fawn:farmables:4:T4_FARM_GIANTSTAG_BABY
+Kid:farmables:4:T4_FARM_GOAT_BABY
+Cabbage Seed:farmables:5:T5_FARM_CABBAGE_SEED
+Dragon Teasel Seed:farmables:5:T5_FARM_TEASEL_SEED
+Expert's Ox Calf:farmables:5:T5_FARM_OX_BABY
+Expert's Foal:farmables:5:T5_FARM_HORSE_BABY
+Swiftclaw Cub:farmables:5:T5_FARM_COUGAR_BABY
+Baby Moabird:farmables:5:T5_FARM_MOABIRD_FW_BRIDGEWATCH_BABY
+Winter Bear Cub:farmables:5:T5_FARM_DIREBEAR_FW_FORTSTERLING_BABY
+Wild Boarlet:farmables:5:T5_FARM_DIREBOAR_FW_LYMHURST_BABY
+Bighorn Ram Lamb:farmables:5:T5_FARM_RAM_FW_MARTLOCK_BABY
+Baby Swamp Salamander:farmables:5:T5_FARM_SWAMPDRAGON_FW_THETFORD_BABY
+Gosling:farmables:5:T5_FARM_GOOSE_BABY
+Potato Seeds:farmables:6:T6_FARM_POTATO_SEED
+Elusive Foxglove Seed:farmables:6:T6_FARM_FOXGLOVE_SEED
+Master's Ox Calf:farmables:6:T6_FARM_OX_BABY
+Master's Foal:farmables:6:T6_FARM_HORSE_BABY
+Direwolf Pup:farmables:6:T6_FARM_DIREWOLF_BABY
+Master's Fawn:farmables:6:T6_FARM_GIANTSTAG_BABY
+Lamb:farmables:6:T6_FARM_SHEEP_BABY
+Corn Seeds:farmables:7:T7_FARM_CORN_SEED
+Firetouched Mullein Seed:farmables:7:T7_FARM_MULLEIN_SEED
+Grandmaster's Ox Calf:farmables:7:T7_FARM_OX_BABY
+Grandmaster's Foal:farmables:7:T7_FARM_HORSE_BABY
+Direboar Piglet:farmables:7:T7_FARM_DIREBOAR_BABY
+Swamp Dragon Pup:farmables:7:T7_FARM_SWAMPDRAGON_BABY
+Piglet:farmables:7:T7_FARM_PIG_BABY
+Pumpkin Seeds:farmables:8:T8_FARM_PUMPKIN_SEED
+Ghoul Yarrow Seed:farmables:8:T8_FARM_YARROW_SEED
+Elder's Ox Calf:farmables:8:T8_FARM_OX_BABY
+Elder's Foal:farmables:8:T8_FARM_HORSE_BABY
+Direbear Cub:farmables:8:T8_FARM_DIREBEAR_BABY
+Mammoth Calf:farmables:8:T8_FARM_MAMMOTH_BABY
+Ghostwolf Pup:farmables:8:T8_FARM_DIREWOLF_BABY
+Calf:farmables:8:T8_FARM_COW_BABY

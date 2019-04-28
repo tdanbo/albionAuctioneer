@@ -1,0 +1,405 @@
+Adept's Occult Orb:artefacts:4:T4_ARTEFACT_2H_ARCANESTAFF_HELL
+Adept's Demonic Arrowheads:artefacts:4:T4_ARTEFACT_2H_BOW_HELL
+Adept's Carved bone:artefacts:4:T4_ARTEFACT_2H_BOW_KEEPER
+Adept's Demonic Blade:artefacts:4:T4_ARTEFACT_2H_CLEAVER_HELL
+Adept's Reinforced Morgana Pole:artefacts:4:T4_ARTEFACT_2H_COMBATSTAFF_MORGANA
+Adept's Alluring Bolts:artefacts:4:T4_ARTEFACT_2H_CROSSBOWLARGE_MORGANA
+Adept's Bloodforged Catalyst:artefacts:4:T4_ARTEFACT_2H_CURSEDSTAFF_MORGANA
+Adept's Keeper Axeheads:artefacts:4:T4_ARTEFACT_2H_DUALAXE_KEEPER
+Adept's Hellish Bolts:artefacts:4:T4_ARTEFACT_2H_DUALCROSSBOW_HELL
+Adept's Hellish Hammer Heads:artefacts:4:T4_ARTEFACT_2H_DUALHAMMER_HELL
+Adept's Cursed Blades:artefacts:4:T4_ARTEFACT_2H_DUALSCIMITAR_UNDEAD
+Adept's Ghastly Blades:artefacts:4:T4_ARTEFACT_2H_DUALSICKLE_UNDEAD
+Adept's Possessed Catalyst:artefacts:4:T4_ARTEFACT_2H_ENIGMATICORB_MORGANA
+Adept's Burning Orb:artefacts:4:T4_ARTEFACT_2H_FIRESTAFF_HELL
+Adept's Morgana Halberd Head:artefacts:4:T4_ARTEFACT_2H_HALBERD_MORGANA
+Adept's Ancient Hammer Head:artefacts:4:T4_ARTEFACT_2H_HAMMER_UNDEAD
+Adept's Infernal Harpoon Tip:artefacts:4:T4_ARTEFACT_2H_HARPOON_HELL
+Adept's Possessed Scroll:artefacts:4:T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA
+Adept's Infernal Scroll:artefacts:4:T4_ARTEFACT_2H_HOLYSTAFF_HELL
+Adept's Ghastly Scroll:artefacts:4:T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD
+Adept's Cursed Frozen Crystal:artefacts:4:T4_ARTEFACT_2H_ICECRYSTAL_UNDEAD
+Adept's Icicle Orb:artefacts:4:T4_ARTEFACT_2H_ICEGAUNTLETS_HELL
+Adept's Unholy Scroll:artefacts:4:T4_ARTEFACT_2H_INFERNOSTAFF_MORGANA
+Adept's Black Leather:artefacts:4:T4_ARTEFACT_2H_IRONGAUNTLETS_HELL
+Adept's Ghastly Arrows:artefacts:4:T4_ARTEFACT_2H_LONGBOW_UNDEAD
+Adept's Imbued Mace Head:artefacts:4:T4_ARTEFACT_2H_MACE_MORGANA
+Adept's Symbol of Blight:artefacts:4:T4_ARTEFACT_2H_NATURESTAFF_HELL
+Adept's Preserved Log:artefacts:4:T4_ARTEFACT_2H_NATURESTAFF_KEEPER
+Adept's Engraved Log:artefacts:4:T4_ARTEFACT_2H_RAM_KEEPER
+Adept's Lost Crossbow Mechanism:artefacts:4:T4_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD
+Adept's Preserved Rocks:artefacts:4:T4_ARTEFACT_2H_ROCKSTAFF_KEEPER
+Adept's Cursed Jawbone:artefacts:4:T4_ARTEFACT_2H_SKULLORB_HELL
+Adept's Cursed Barbs:artefacts:4:T4_ARTEFACT_2H_TRIDENT_UNDEAD
+Adept's Hellish Sicklehead Pair:artefacts:4:T4_ARTEFACT_2H_TWINSCYTHE_HELL
+Adept's Lost Arcane Crystal:artefacts:4:T4_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD
+Adept's Lost Cursed Crystal:artefacts:4:T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD
+Adept's Wildfire Orb:artefacts:4:T4_ARTEFACT_MAIN_FIRESTAFF_KEEPER
+Adept's Hoarfrost Orb:artefacts:4:T4_ARTEFACT_MAIN_FROSTSTAFF_KEEPER
+Adept's Infernal Mace Head:artefacts:4:T4_ARTEFACT_MAIN_MACE_HELL
+Adept's Druidic Inscriptions:artefacts:4:T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER
+Adept's Hardened Debole:artefacts:4:T4_ARTEFACT_MAIN_RAPIER_MORGANA
+Adept's Runed Rock:artefacts:4:T4_ARTEFACT_MAIN_ROCKMACE_KEEPER
+Adept's Bloodforged Blade:artefacts:4:T4_ARTEFACT_MAIN_SCIMITAR_MORGANA
+Adept's Keeper Spearhead:artefacts:4:T4_ARTEFACT_MAIN_SPEAR_KEEPER
+Adept's Hellish Sicklehead:artefacts:4:T4_ARTEFACT_2H_SCYTHE_HELL
+Adept's Ancient Shield Core:artefacts:4:T4_ARTEFACT_OFF_TOWERSHIELD_UNDEAD
+Adept's Infernal Shield Core:artefacts:4:T4_ARTEFACT_OFF_SHIELD_HELL
+Adept's Bloodforged Spikes:artefacts:4:T4_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA
+Adept's Alluring Crystal:artefacts:4:T4_ARTEFACT_OFF_ORB_MORGANA
+Adept's Demonic Jawbone:artefacts:4:T4_ARTEFACT_OFF_DEMONSKULL_HELL
+Adept's Inscribed Stone:artefacts:4:T4_ARTEFACT_OFF_TOTEM_KEEPER
+Adept's Runed Horn:artefacts:4:T4_ARTEFACT_OFF_HORN_KEEPER
+Adept's Hellish Handle:artefacts:4:T4_ARTEFACT_OFF_JESTERCANE_HELL
+Adept's Ghastly Candle:artefacts:4:T4_ARTEFACT_OFF_LAMP_UNDEAD
+Adept's Ancient Padding:artefacts:4:T4_ARTEFACT_HEAD_PLATE_UNDEAD
+Adept's Ancient Chain Rings:artefacts:4:T4_ARTEFACT_ARMOR_PLATE_UNDEAD
+Adept's Ancient Bindings:artefacts:4:T4_ARTEFACT_SHOES_PLATE_UNDEAD
+Adept's Demonic Scraps:artefacts:4:T4_ARTEFACT_HEAD_PLATE_HELL
+Adept's Demonic Plates:artefacts:4:T4_ARTEFACT_ARMOR_PLATE_HELL
+Adept's Demonic Filling:artefacts:4:T4_ARTEFACT_SHOES_PLATE_HELL
+Adept's Carved Skull Padding:artefacts:4:T4_ARTEFACT_HEAD_PLATE_KEEPER
+Adept's Preserved Animal Fur:artefacts:4:T4_ARTEFACT_ARMOR_PLATE_KEEPER
+Adept's Inscribed Bindings:artefacts:4:T4_ARTEFACT_SHOES_PLATE_KEEPER
+Adept's Imbued Visor:artefacts:4:T4_ARTEFACT_HEAD_LEATHER_MORGANA
+Adept's Imbued Leather Folds:artefacts:4:T4_ARTEFACT_ARMOR_LEATHER_MORGANA
+Adept's Imbued Soles:artefacts:4:T4_ARTEFACT_SHOES_LEATHER_MORGANA
+Adept's Demonhide Padding:artefacts:4:T4_ARTEFACT_HEAD_LEATHER_HELL
+Adept's Demonhide Leather:artefacts:4:T4_ARTEFACT_ARMOR_LEATHER_HELL
+Adept's Demonhide Bindings:artefacts:4:T4_ARTEFACT_SHOES_LEATHER_HELL
+Adept's Ghastly Visor:artefacts:4:T4_ARTEFACT_HEAD_LEATHER_UNDEAD
+Adept's Ghastly Leather:artefacts:4:T4_ARTEFACT_ARMOR_LEATHER_UNDEAD
+Adept's Ghastly Bindings:artefacts:4:T4_ARTEFACT_SHOES_LEATHER_UNDEAD
+Adept's Druidic Preserved Beak:artefacts:4:T4_ARTEFACT_HEAD_CLOTH_KEEPER
+Adept's Druidic Feathers:artefacts:4:T4_ARTEFACT_ARMOR_CLOTH_KEEPER
+Adept's Druidic Bindings:artefacts:4:T4_ARTEFACT_SHOES_CLOTH_KEEPER
+Adept's Infernal Cloth Visor:artefacts:4:T4_ARTEFACT_HEAD_CLOTH_HELL
+Adept's Infernal Cloth Folds:artefacts:4:T4_ARTEFACT_ARMOR_CLOTH_HELL
+Adept's Infernal Cloth Bindings:artefacts:4:T4_ARTEFACT_SHOES_CLOTH_HELL
+Adept's Alluring Padding:artefacts:4:T4_ARTEFACT_HEAD_CLOTH_MORGANA
+Adept's Alluring Amulet:artefacts:4:T4_ARTEFACT_ARMOR_CLOTH_MORGANA
+Adept's Alluring Bindings:artefacts:4:T4_ARTEFACT_SHOES_CLOTH_MORGANA
+Expert's Bloodforged Catalyst:artefacts:5:T5_ARTEFACT_2H_CURSEDSTAFF_MORGANA
+Expert's Occult Orb:artefacts:5:T5_ARTEFACT_2H_ARCANESTAFF_HELL
+Expert's Demonic Arrowheads:artefacts:5:T5_ARTEFACT_2H_BOW_HELL
+Expert's Carved bone:artefacts:5:T5_ARTEFACT_2H_BOW_KEEPER
+Expert's Demonic Blade:artefacts:5:T5_ARTEFACT_2H_CLEAVER_HELL
+Expert's Reinforced Morgana Pole:artefacts:5:T5_ARTEFACT_2H_COMBATSTAFF_MORGANA
+Expert's Alluring Bolts:artefacts:5:T5_ARTEFACT_2H_CROSSBOWLARGE_MORGANA
+Expert's Keeper Axeheads:artefacts:5:T5_ARTEFACT_2H_DUALAXE_KEEPER
+Expert's Hellish Bolts:artefacts:5:T5_ARTEFACT_2H_DUALCROSSBOW_HELL
+Expert's Hellish Hammer Heads:artefacts:5:T5_ARTEFACT_2H_DUALHAMMER_HELL
+Expert's Cursed Blades:artefacts:5:T5_ARTEFACT_2H_DUALSCIMITAR_UNDEAD
+Expert's Ghastly Blades:artefacts:5:T5_ARTEFACT_2H_DUALSICKLE_UNDEAD
+Expert's Possessed Catalyst:artefacts:5:T5_ARTEFACT_2H_ENIGMATICORB_MORGANA
+Expert's Burning Orb:artefacts:5:T5_ARTEFACT_2H_FIRESTAFF_HELL
+Expert's Morgana Halberd Head:artefacts:5:T5_ARTEFACT_2H_HALBERD_MORGANA
+Expert's Ancient Hammer Head:artefacts:5:T5_ARTEFACT_2H_HAMMER_UNDEAD
+Expert's Infernal Harpoon Tip:artefacts:5:T5_ARTEFACT_2H_HARPOON_HELL
+Expert's Possessed Scroll:artefacts:5:T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA
+Expert's Infernal Scroll:artefacts:5:T5_ARTEFACT_2H_HOLYSTAFF_HELL
+Expert's Ghastly Scroll:artefacts:5:T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD
+Expert's Cursed Frozen Crystal:artefacts:5:T5_ARTEFACT_2H_ICECRYSTAL_UNDEAD
+Expert's Icicle Orb:artefacts:5:T5_ARTEFACT_2H_ICEGAUNTLETS_HELL
+Expert's Unholy Scroll:artefacts:5:T5_ARTEFACT_2H_INFERNOSTAFF_MORGANA
+Expert's Black Leather:artefacts:5:T5_ARTEFACT_2H_IRONGAUNTLETS_HELL
+Expert's Ghastly Arrows:artefacts:5:T5_ARTEFACT_2H_LONGBOW_UNDEAD
+Expert's Imbued Mace Head:artefacts:5:T5_ARTEFACT_2H_MACE_MORGANA
+Expert's Symbol of Blight:artefacts:5:T5_ARTEFACT_2H_NATURESTAFF_HELL
+Expert's Preserved Log:artefacts:5:T5_ARTEFACT_2H_NATURESTAFF_KEEPER
+Expert's Engraved Log:artefacts:5:T5_ARTEFACT_2H_RAM_KEEPER
+Expert's Lost Crossbow Mechanism:artefacts:5:T5_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD
+Expert's Preserved Rocks:artefacts:5:T5_ARTEFACT_2H_ROCKSTAFF_KEEPER
+Expert's Hellish Sicklehead:artefacts:5:T5_ARTEFACT_2H_SCYTHE_HELL
+Expert's Cursed Jawbone:artefacts:5:T5_ARTEFACT_2H_SKULLORB_HELL
+Expert's Cursed Barbs:artefacts:5:T5_ARTEFACT_2H_TRIDENT_UNDEAD
+Expert's Hellish Sicklehead Pair:artefacts:5:T5_ARTEFACT_2H_TWINSCYTHE_HELL
+Expert's Lost Arcane Crystal:artefacts:5:T5_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD
+Expert's Lost Cursed Crystal:artefacts:5:T5_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD
+Expert's Wildfire Orb:artefacts:5:T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER
+Expert's Hoarfrost Orb:artefacts:5:T5_ARTEFACT_MAIN_FROSTSTAFF_KEEPER
+Expert's Infernal Mace Head:artefacts:5:T5_ARTEFACT_MAIN_MACE_HELL
+Expert's Druidic Inscriptions:artefacts:5:T5_ARTEFACT_MAIN_NATURESTAFF_KEEPER
+Expert's Hardened Debole:artefacts:5:T5_ARTEFACT_MAIN_RAPIER_MORGANA
+Expert's Runed Rock:artefacts:5:T5_ARTEFACT_MAIN_ROCKMACE_KEEPER
+Expert's Bloodforged Blade:artefacts:5:T5_ARTEFACT_MAIN_SCIMITAR_MORGANA
+Expert's Keeper Spearhead:artefacts:5:T5_ARTEFACT_MAIN_SPEAR_KEEPER
+Expert's Ancient Shield Core:artefacts:5:T5_ARTEFACT_OFF_TOWERSHIELD_UNDEAD
+Expert's Infernal Shield Core:artefacts:5:T5_ARTEFACT_OFF_SHIELD_HELL
+Expert's Bloodforged Spikes:artefacts:5:T5_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA
+Expert's Alluring Crystal:artefacts:5:T5_ARTEFACT_OFF_ORB_MORGANA
+Expert's Demonic Jawbone:artefacts:5:T5_ARTEFACT_OFF_DEMONSKULL_HELL
+Expert's Inscribed Stone:artefacts:5:T5_ARTEFACT_OFF_TOTEM_KEEPER
+Expert's Runed Horn:artefacts:5:T5_ARTEFACT_OFF_HORN_KEEPER
+Expert's Hellish Handle:artefacts:5:T5_ARTEFACT_OFF_JESTERCANE_HELL
+Expert's Ghastly Candle:artefacts:5:T5_ARTEFACT_OFF_LAMP_UNDEAD
+Expert's Ancient Padding:artefacts:5:T5_ARTEFACT_HEAD_PLATE_UNDEAD
+Expert's Ancient Chain Rings:artefacts:5:T5_ARTEFACT_ARMOR_PLATE_UNDEAD
+Expert's Ancient Bindings:artefacts:5:T5_ARTEFACT_SHOES_PLATE_UNDEAD
+Expert's Demonic Scraps:artefacts:5:T5_ARTEFACT_HEAD_PLATE_HELL
+Expert's Demonic Plates:artefacts:5:T5_ARTEFACT_ARMOR_PLATE_HELL
+Expert's Demonic Filling:artefacts:5:T5_ARTEFACT_SHOES_PLATE_HELL
+Expert's Carved Skull Padding:artefacts:5:T5_ARTEFACT_HEAD_PLATE_KEEPER
+Expert's Preserved Animal Fur:artefacts:5:T5_ARTEFACT_ARMOR_PLATE_KEEPER
+Expert's Inscribed Bindings:artefacts:5:T5_ARTEFACT_SHOES_PLATE_KEEPER
+Expert's Imbued Visor:artefacts:5:T5_ARTEFACT_HEAD_LEATHER_MORGANA
+Expert's Imbued Leather Folds:artefacts:5:T5_ARTEFACT_ARMOR_LEATHER_MORGANA
+Expert's Imbued Soles:artefacts:5:T5_ARTEFACT_SHOES_LEATHER_MORGANA
+Expert's Demonhide Padding:artefacts:5:T5_ARTEFACT_HEAD_LEATHER_HELL
+Expert's Demonhide Leather:artefacts:5:T5_ARTEFACT_ARMOR_LEATHER_HELL
+Expert's Demonhide Bindings:artefacts:5:T5_ARTEFACT_SHOES_LEATHER_HELL
+Expert's Ghastly Visor:artefacts:5:T5_ARTEFACT_HEAD_LEATHER_UNDEAD
+Expert's Ghastly Leather:artefacts:5:T5_ARTEFACT_ARMOR_LEATHER_UNDEAD
+Expert's Ghastly Bindings:artefacts:5:T5_ARTEFACT_SHOES_LEATHER_UNDEAD
+Expert's Druidic Preserved Beak:artefacts:5:T5_ARTEFACT_HEAD_CLOTH_KEEPER
+Expert's Druidic Feathers:artefacts:5:T5_ARTEFACT_ARMOR_CLOTH_KEEPER
+Expert's Druidic Bindings:artefacts:5:T5_ARTEFACT_SHOES_CLOTH_KEEPER
+Expert's Infernal Cloth Visor:artefacts:5:T5_ARTEFACT_HEAD_CLOTH_HELL
+Expert's Infernal Cloth Folds:artefacts:5:T5_ARTEFACT_ARMOR_CLOTH_HELL
+Expert's Infernal Cloth Bindings:artefacts:5:T5_ARTEFACT_SHOES_CLOTH_HELL
+Expert's Alluring Padding:artefacts:5:T5_ARTEFACT_HEAD_CLOTH_MORGANA
+Expert's Alluring Amulet:artefacts:5:T5_ARTEFACT_ARMOR_CLOTH_MORGANA
+Expert's Alluring Bindings:artefacts:5:T5_ARTEFACT_SHOES_CLOTH_MORGANA
+Master's Bloodforged Catalyst:artefacts:6:T6_ARTEFACT_2H_CURSEDSTAFF_MORGANA
+Master's Hellish Sicklehead:artefacts:6:T6_ARTEFACT_2H_SCYTHE_HELL
+Master's Occult Orb:artefacts:6:T6_ARTEFACT_2H_ARCANESTAFF_HELL
+Master's Demonic Arrowheads:artefacts:6:T6_ARTEFACT_2H_BOW_HELL
+Master's Carved bone:artefacts:6:T6_ARTEFACT_2H_BOW_KEEPER
+Master's Demonic Blade:artefacts:6:T6_ARTEFACT_2H_CLEAVER_HELL
+Master's Reinforced Morgana Pole:artefacts:6:T6_ARTEFACT_2H_COMBATSTAFF_MORGANA
+Master's Alluring Bolts:artefacts:6:T6_ARTEFACT_2H_CROSSBOWLARGE_MORGANA
+Master's Keeper Axeheads:artefacts:6:T6_ARTEFACT_2H_DUALAXE_KEEPER
+Master's Hellish Bolts:artefacts:6:T6_ARTEFACT_2H_DUALCROSSBOW_HELL
+Master's Hellish Hammer Heads:artefacts:6:T6_ARTEFACT_2H_DUALHAMMER_HELL
+Master's Cursed Blades:artefacts:6:T6_ARTEFACT_2H_DUALSCIMITAR_UNDEAD
+Master's Ghastly Blades:artefacts:6:T6_ARTEFACT_2H_DUALSICKLE_UNDEAD
+Master's Possessed Catalyst:artefacts:6:T6_ARTEFACT_2H_ENIGMATICORB_MORGANA
+Master's Burning Orb:artefacts:6:T6_ARTEFACT_2H_FIRESTAFF_HELL
+Master's Morgana Halberd Head:artefacts:6:T6_ARTEFACT_2H_HALBERD_MORGANA
+Master's Ancient Hammer Head:artefacts:6:T6_ARTEFACT_2H_HAMMER_UNDEAD
+Master's Infernal Harpoon Tip:artefacts:6:T6_ARTEFACT_2H_HARPOON_HELL
+Master's Possessed Scroll:artefacts:6:T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA
+Master's Infernal Scroll:artefacts:6:T6_ARTEFACT_2H_HOLYSTAFF_HELL
+Master's Ghastly Scroll:artefacts:6:T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD
+Master's Cursed Frozen Crystal:artefacts:6:T6_ARTEFACT_2H_ICECRYSTAL_UNDEAD
+Master's Icicle Orb:artefacts:6:T6_ARTEFACT_2H_ICEGAUNTLETS_HELL
+Master's Unholy Scroll:artefacts:6:T6_ARTEFACT_2H_INFERNOSTAFF_MORGANA
+Master's Black Leather:artefacts:6:T6_ARTEFACT_2H_IRONGAUNTLETS_HELL
+Master's Ghastly Arrows:artefacts:6:T6_ARTEFACT_2H_LONGBOW_UNDEAD
+Master's Imbued Mace Head:artefacts:6:T6_ARTEFACT_2H_MACE_MORGANA
+Master's Symbol of Blight:artefacts:6:T6_ARTEFACT_2H_NATURESTAFF_HELL
+Master's Preserved Log:artefacts:6:T6_ARTEFACT_2H_NATURESTAFF_KEEPER
+Master's Engraved Log:artefacts:6:T6_ARTEFACT_2H_RAM_KEEPER
+Master's Lost Crossbow Mechanism:artefacts:6:T6_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD
+Master's Preserved Rocks:artefacts:6:T6_ARTEFACT_2H_ROCKSTAFF_KEEPER
+Master's Cursed Jawbone:artefacts:6:T6_ARTEFACT_2H_SKULLORB_HELL
+Master's Cursed Barbs:artefacts:6:T6_ARTEFACT_2H_TRIDENT_UNDEAD
+Master's Hellish Sicklehead Pair:artefacts:6:T6_ARTEFACT_2H_TWINSCYTHE_HELL
+Master's Lost Arcane Crystal:artefacts:6:T6_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD
+Master's Lost Cursed Crystal:artefacts:6:T6_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD
+Master's Wildfire Orb:artefacts:6:T6_ARTEFACT_MAIN_FIRESTAFF_KEEPER
+Master's Hoarfrost Orb:artefacts:6:T6_ARTEFACT_MAIN_FROSTSTAFF_KEEPER
+Master's Infernal Mace Head:artefacts:6:T6_ARTEFACT_MAIN_MACE_HELL
+Master's Druidic Inscriptions:artefacts:6:T6_ARTEFACT_MAIN_NATURESTAFF_KEEPER
+Master's Hardened Debole:artefacts:6:T6_ARTEFACT_MAIN_RAPIER_MORGANA
+Master's Runed Rock:artefacts:6:T6_ARTEFACT_MAIN_ROCKMACE_KEEPER
+Master's Bloodforged Blade:artefacts:6:T6_ARTEFACT_MAIN_SCIMITAR_MORGANA
+Master's Keeper Spearhead:artefacts:6:T6_ARTEFACT_MAIN_SPEAR_KEEPER
+Master's Ancient Shield Core:artefacts:6:T6_ARTEFACT_OFF_TOWERSHIELD_UNDEAD
+Master's Infernal Shield Core:artefacts:6:T6_ARTEFACT_OFF_SHIELD_HELL
+Master's Bloodforged Spikes:artefacts:6:T6_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA
+Master's Alluring Crystal:artefacts:6:T6_ARTEFACT_OFF_ORB_MORGANA
+Master's Demonic Jawbone:artefacts:6:T6_ARTEFACT_OFF_DEMONSKULL_HELL
+Master's Inscribed Stone:artefacts:6:T6_ARTEFACT_OFF_TOTEM_KEEPER
+Master's Runed Horn:artefacts:6:T6_ARTEFACT_OFF_HORN_KEEPER
+Master's Hellish Handle:artefacts:6:T6_ARTEFACT_OFF_JESTERCANE_HELL
+Master's Ghastly Candle:artefacts:6:T6_ARTEFACT_OFF_LAMP_UNDEAD
+Master's Ancient Padding:artefacts:6:T6_ARTEFACT_HEAD_PLATE_UNDEAD
+Master's Ancient Chain Rings:artefacts:6:T6_ARTEFACT_ARMOR_PLATE_UNDEAD
+Master's Ancient Bindings:artefacts:6:T6_ARTEFACT_SHOES_PLATE_UNDEAD
+Master's Demonic Scraps:artefacts:6:T6_ARTEFACT_HEAD_PLATE_HELL
+Master's Demonic Plates:artefacts:6:T6_ARTEFACT_ARMOR_PLATE_HELL
+Master's Demonic Filling:artefacts:6:T6_ARTEFACT_SHOES_PLATE_HELL
+Master's Carved Skull Padding:artefacts:6:T6_ARTEFACT_HEAD_PLATE_KEEPER
+Master's Preserved Animal Fur:artefacts:6:T6_ARTEFACT_ARMOR_PLATE_KEEPER
+Master's Inscribed Bindings:artefacts:6:T6_ARTEFACT_SHOES_PLATE_KEEPER
+Master's Imbued Visor:artefacts:6:T6_ARTEFACT_HEAD_LEATHER_MORGANA
+Master's Imbued Leather Folds:artefacts:6:T6_ARTEFACT_ARMOR_LEATHER_MORGANA
+Master's Imbued Soles:artefacts:6:T6_ARTEFACT_SHOES_LEATHER_MORGANA
+Master's Demonhide Padding:artefacts:6:T6_ARTEFACT_HEAD_LEATHER_HELL
+Master's Demonhide Leather:artefacts:6:T6_ARTEFACT_ARMOR_LEATHER_HELL
+Master's Demonhide Bindings:artefacts:6:T6_ARTEFACT_SHOES_LEATHER_HELL
+Master's Ghastly Visor:artefacts:6:T6_ARTEFACT_HEAD_LEATHER_UNDEAD
+Master's Ghastly Leather:artefacts:6:T6_ARTEFACT_ARMOR_LEATHER_UNDEAD
+Master's Ghastly Bindings:artefacts:6:T6_ARTEFACT_SHOES_LEATHER_UNDEAD
+Master's Druidic Preserved Beak:artefacts:6:T6_ARTEFACT_HEAD_CLOTH_KEEPER
+Master's Druidic Feathers:artefacts:6:T6_ARTEFACT_ARMOR_CLOTH_KEEPER
+Master's Druidic Bindings:artefacts:6:T6_ARTEFACT_SHOES_CLOTH_KEEPER
+Master's Infernal Cloth Visor:artefacts:6:T6_ARTEFACT_HEAD_CLOTH_HELL
+Master's Infernal Cloth Folds:artefacts:6:T6_ARTEFACT_ARMOR_CLOTH_HELL
+Master's Infernal Cloth Bindings:artefacts:6:T6_ARTEFACT_SHOES_CLOTH_HELL
+Master's Alluring Padding:artefacts:6:T6_ARTEFACT_HEAD_CLOTH_MORGANA
+Master's Alluring Amulet:artefacts:6:T6_ARTEFACT_ARMOR_CLOTH_MORGANA
+Master's Alluring Bindings:artefacts:6:T6_ARTEFACT_SHOES_CLOTH_MORGANA
+Grandmaster's Bloodforged Catalyst:artefacts:7:T7_ARTEFACT_2H_CURSEDSTAFF_MORGANA
+Grandmaster's Hellish Sicklehead:artefacts:7:T7_ARTEFACT_2H_SCYTHE_HELL
+Grandmaster's Occult Orb:artefacts:7:T7_ARTEFACT_2H_ARCANESTAFF_HELL
+Grandmaster's Demonic Arrowheads:artefacts:7:T7_ARTEFACT_2H_BOW_HELL
+Grandmaster's Carved Bone:artefacts:7:T7_ARTEFACT_2H_BOW_KEEPER
+Grandmaster's Demonic Blade:artefacts:7:T7_ARTEFACT_2H_CLEAVER_HELL
+Grandmaster's Reinforced Morgana Pole:artefacts:7:T7_ARTEFACT_2H_COMBATSTAFF_MORGANA
+Grandmaster's Alluring Bolts:artefacts:7:T7_ARTEFACT_2H_CROSSBOWLARGE_MORGANA
+Grandmaster's Keeper Axeheads:artefacts:7:T7_ARTEFACT_2H_DUALAXE_KEEPER
+Grandmaster's Hellish Bolts:artefacts:7:T7_ARTEFACT_2H_DUALCROSSBOW_HELL
+Grandmaster's Hellish Hammer Heads:artefacts:7:T7_ARTEFACT_2H_DUALHAMMER_HELL
+Grandmaster's Cursed Blades:artefacts:7:T7_ARTEFACT_2H_DUALSCIMITAR_UNDEAD
+Grandmaster's Ghastly Blades:artefacts:7:T7_ARTEFACT_2H_DUALSICKLE_UNDEAD
+Grandmaster's Possessed Catalyst:artefacts:7:T7_ARTEFACT_2H_ENIGMATICORB_MORGANA
+Grandmaster's Burning Orb:artefacts:7:T7_ARTEFACT_2H_FIRESTAFF_HELL
+Grandmaster's Morgana Halberd Head:artefacts:7:T7_ARTEFACT_2H_HALBERD_MORGANA
+Grandmaster's Ancient Hammer Head:artefacts:7:T7_ARTEFACT_2H_HAMMER_UNDEAD
+Grandmaster's Infernal Harpoon Tip:artefacts:7:T7_ARTEFACT_2H_HARPOON_HELL
+Grandmaster's Possessed Scroll:artefacts:7:T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA
+Grandmaster's Infernal Scroll:artefacts:7:T7_ARTEFACT_2H_HOLYSTAFF_HELL
+Grandmaster's Ghastly Scroll:artefacts:7:T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD
+Grandmaster's Cursed Frozen Crystal:artefacts:7:T7_ARTEFACT_2H_ICECRYSTAL_UNDEAD
+Grandmaster's Icicle Orb:artefacts:7:T7_ARTEFACT_2H_ICEGAUNTLETS_HELL
+Grandmaster's Unholy Scroll:artefacts:7:T7_ARTEFACT_2H_INFERNOSTAFF_MORGANA
+Grandmaster's Black Leather:artefacts:7:T7_ARTEFACT_2H_IRONGAUNTLETS_HELL
+Grandmaster's Ghastly Arrows:artefacts:7:T7_ARTEFACT_2H_LONGBOW_UNDEAD
+Grandmaster's Imbued Mace Head:artefacts:7:T7_ARTEFACT_2H_MACE_MORGANA
+Grandmaster's Symbol of Blight:artefacts:7:T7_ARTEFACT_2H_NATURESTAFF_HELL
+Grandmaster's Preserved Log:artefacts:7:T7_ARTEFACT_2H_NATURESTAFF_KEEPER
+Grandmaster's Engraved Log:artefacts:7:T7_ARTEFACT_2H_RAM_KEEPER
+Grandmaster's Lost Crossbow Mechanism:artefacts:7:T7_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD
+Grandmaster's Preserved Rocks:artefacts:7:T7_ARTEFACT_2H_ROCKSTAFF_KEEPER
+Grandmaster's Cursed Jawbone:artefacts:7:T7_ARTEFACT_2H_SKULLORB_HELL
+Grandmaster's Cursed Barbs:artefacts:7:T7_ARTEFACT_2H_TRIDENT_UNDEAD
+Grandmaster's Hellish Sicklehead Pair:artefacts:7:T7_ARTEFACT_2H_TWINSCYTHE_HELL
+Grandmaster's Lost Arcane Crystal:artefacts:7:T7_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD
+Grandmaster's Lost Cursed Crystal:artefacts:7:T7_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD
+Grandmaster's Wildfire Orb:artefacts:7:T7_ARTEFACT_MAIN_FIRESTAFF_KEEPER
+Grandmaster's Hoarfrost Orb:artefacts:7:T7_ARTEFACT_MAIN_FROSTSTAFF_KEEPER
+Grandmaster's Infernal Mace Head:artefacts:7:T7_ARTEFACT_MAIN_MACE_HELL
+Grandmaster's Druidic Inscriptions:artefacts:7:T7_ARTEFACT_MAIN_NATURESTAFF_KEEPER
+Grandmaster's Hardened Debole:artefacts:7:T7_ARTEFACT_MAIN_RAPIER_MORGANA
+Grandmaster's Runed Rock:artefacts:7:T7_ARTEFACT_MAIN_ROCKMACE_KEEPER
+Grandmaster's Bloodforged Blade:artefacts:7:T7_ARTEFACT_MAIN_SCIMITAR_MORGANA
+Grandmaster's Keeper Spearhead:artefacts:7:T7_ARTEFACT_MAIN_SPEAR_KEEPER
+Grandmaster's Ancient Shield Core:artefacts:7:T7_ARTEFACT_OFF_TOWERSHIELD_UNDEAD
+Grandmaster's Infernal Shield Core:artefacts:7:T7_ARTEFACT_OFF_SHIELD_HELL
+Grandmaster's Bloodforged Spikes:artefacts:7:T7_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA
+Grandmaster's Alluring Crystal:artefacts:7:T7_ARTEFACT_OFF_ORB_MORGANA
+Grandmaster's Demonic Jawbone:artefacts:7:T7_ARTEFACT_OFF_DEMONSKULL_HELL
+Grandmaster's Inscribed Stone:artefacts:7:T7_ARTEFACT_OFF_TOTEM_KEEPER
+Grandmaster's Runed Horn:artefacts:7:T7_ARTEFACT_OFF_HORN_KEEPER
+Grandmaster's Hellish Handle:artefacts:7:T7_ARTEFACT_OFF_JESTERCANE_HELL
+Grandmaster's Ghastly Candle:artefacts:7:T7_ARTEFACT_OFF_LAMP_UNDEAD
+Grandmaster's Ancient Padding:artefacts:7:T7_ARTEFACT_HEAD_PLATE_UNDEAD
+Grandmaster's Ancient Chain Rings:artefacts:7:T7_ARTEFACT_ARMOR_PLATE_UNDEAD
+Grandmaster's Ancient Bindings:artefacts:7:T7_ARTEFACT_SHOES_PLATE_UNDEAD
+Grandmaster's Demonic Scraps:artefacts:7:T7_ARTEFACT_HEAD_PLATE_HELL
+Grandmaster's Demonic Plates:artefacts:7:T7_ARTEFACT_ARMOR_PLATE_HELL
+Grandmaster's Demonic Filling:artefacts:7:T7_ARTEFACT_SHOES_PLATE_HELL
+Grandmaster's Carved Skull Padding:artefacts:7:T7_ARTEFACT_HEAD_PLATE_KEEPER
+Grandmaster's Preserved Animal Fur:artefacts:7:T7_ARTEFACT_ARMOR_PLATE_KEEPER
+Grandmaster's Inscribed Bindings:artefacts:7:T7_ARTEFACT_SHOES_PLATE_KEEPER
+Grandmaster's Imbued Visor:artefacts:7:T7_ARTEFACT_HEAD_LEATHER_MORGANA
+Grandmaster's Imbued Leather Folds:artefacts:7:T7_ARTEFACT_ARMOR_LEATHER_MORGANA
+Grandmaster's Imbued Soles:artefacts:7:T7_ARTEFACT_SHOES_LEATHER_MORGANA
+Grandmaster's Demonhide Padding:artefacts:7:T7_ARTEFACT_HEAD_LEATHER_HELL
+Grandmaster's Demonhide Leather:artefacts:7:T7_ARTEFACT_ARMOR_LEATHER_HELL
+Grandmaster's Demonhide Bindings:artefacts:7:T7_ARTEFACT_SHOES_LEATHER_HELL
+Grandmaster's Ghastly Visor:artefacts:7:T7_ARTEFACT_HEAD_LEATHER_UNDEAD
+Grandmaster's Ghastly Leather:artefacts:7:T7_ARTEFACT_ARMOR_LEATHER_UNDEAD
+Grandmaster's Ghastly Bindings:artefacts:7:T7_ARTEFACT_SHOES_LEATHER_UNDEAD
+Grandmaster's Druidic Preserved Beak:artefacts:7:T7_ARTEFACT_HEAD_CLOTH_KEEPER
+Grandmaster's Druidic Feathers:artefacts:7:T7_ARTEFACT_ARMOR_CLOTH_KEEPER
+Grandmaster's Druidic Bindings:artefacts:7:T7_ARTEFACT_SHOES_CLOTH_KEEPER
+Grandmaster's Infernal Cloth Visor:artefacts:7:T7_ARTEFACT_HEAD_CLOTH_HELL
+Grandmaster's Infernal Cloth Folds:artefacts:7:T7_ARTEFACT_ARMOR_CLOTH_HELL
+Grandmaster's Infernal Cloth Bindings:artefacts:7:T7_ARTEFACT_SHOES_CLOTH_HELL
+Grandmaster's Alluring Padding:artefacts:7:T7_ARTEFACT_HEAD_CLOTH_MORGANA
+Grandmaster's Alluring Amulet:artefacts:7:T7_ARTEFACT_ARMOR_CLOTH_MORGANA
+Grandmaster's Alluring Bindings:artefacts:7:T7_ARTEFACT_SHOES_CLOTH_MORGANA
+Elder's Bloodforged Catalyst:artefacts:8:T8_ARTEFACT_2H_CURSEDSTAFF_MORGANA
+Elder's Hellish Sicklehead:artefacts:8:T8_ARTEFACT_2H_SCYTHE_HELL
+Elder's Occult Orb:artefacts:8:T8_ARTEFACT_2H_ARCANESTAFF_HELL
+Elder's Demonic Arrowheads:artefacts:8:T8_ARTEFACT_2H_BOW_HELL
+Elder's Carved bone:artefacts:8:T8_ARTEFACT_2H_BOW_KEEPER
+Elder's Demonic Blade:artefacts:8:T8_ARTEFACT_2H_CLEAVER_HELL
+Elder's Reinforced Morgana Pole:artefacts:8:T8_ARTEFACT_2H_COMBATSTAFF_MORGANA
+Elder's Alluring Bolts:artefacts:8:T8_ARTEFACT_2H_CROSSBOWLARGE_MORGANA
+Elder's Keeper Axeheads:artefacts:8:T8_ARTEFACT_2H_DUALAXE_KEEPER
+Elder's Hellish Bolts:artefacts:8:T8_ARTEFACT_2H_DUALCROSSBOW_HELL
+Elder's Hellish Hammer Heads:artefacts:8:T8_ARTEFACT_2H_DUALHAMMER_HELL
+Elder's Cursed Blades:artefacts:8:T8_ARTEFACT_2H_DUALSCIMITAR_UNDEAD
+Elder's Ghastly Blades:artefacts:8:T8_ARTEFACT_2H_DUALSICKLE_UNDEAD
+Elder's Possessed Catalyst:artefacts:8:T8_ARTEFACT_2H_ENIGMATICORB_MORGANA
+Elder's Burning Orb:artefacts:8:T8_ARTEFACT_2H_FIRESTAFF_HELL
+Elder's Morgana Halberd Head:artefacts:8:T8_ARTEFACT_2H_HALBERD_MORGANA
+Elder's Ancient Hammer Head:artefacts:8:T8_ARTEFACT_2H_HAMMER_UNDEAD
+Elder's Infernal Harpoon Tip:artefacts:8:T8_ARTEFACT_2H_HARPOON_HELL
+Elder's Possessed Scroll:artefacts:8:T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA
+Elder's Infernal Scroll:artefacts:8:T8_ARTEFACT_2H_HOLYSTAFF_HELL
+Elder's Ghastly Scroll:artefacts:8:T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD
+Elder's Cursed Frozen Crystal:artefacts:8:T8_ARTEFACT_2H_ICECRYSTAL_UNDEAD
+Elder's Icicle Orb:artefacts:8:T8_ARTEFACT_2H_ICEGAUNTLETS_HELL
+Elder's Unholy Scroll:artefacts:8:T8_ARTEFACT_2H_INFERNOSTAFF_MORGANA
+Elder's Black Leather:artefacts:8:T8_ARTEFACT_2H_IRONGAUNTLETS_HELL
+Elder's Ghastly Arrows:artefacts:8:T8_ARTEFACT_2H_LONGBOW_UNDEAD
+Elder's Imbued Mace Head:artefacts:8:T8_ARTEFACT_2H_MACE_MORGANA
+Elder's Symbol of Blight:artefacts:8:T8_ARTEFACT_2H_NATURESTAFF_HELL
+Elder's Preserved Log:artefacts:8:T8_ARTEFACT_2H_NATURESTAFF_KEEPER
+Elder's Engraved Log:artefacts:8:T8_ARTEFACT_2H_RAM_KEEPER
+Elder's Lost Crossbow Mechanism:artefacts:8:T8_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD
+Elder's Preserved Rocks:artefacts:8:T8_ARTEFACT_2H_ROCKSTAFF_KEEPER
+Elder's Cursed Jawbone:artefacts:8:T8_ARTEFACT_2H_SKULLORB_HELL
+Elder's Cursed Barbs:artefacts:8:T8_ARTEFACT_2H_TRIDENT_UNDEAD
+Elder's Hellish Sicklehead Pair:artefacts:8:T8_ARTEFACT_2H_TWINSCYTHE_HELL
+Elder's Lost Arcane Crystal:artefacts:8:T8_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD
+Elder's Lost Cursed Crystal:artefacts:8:T8_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD
+Elder's Wildfire Orb:artefacts:8:T8_ARTEFACT_MAIN_FIRESTAFF_KEEPER
+Elder's Hoarfrost Orb:artefacts:8:T8_ARTEFACT_MAIN_FROSTSTAFF_KEEPER
+Elder's Infernal Mace Head:artefacts:8:T8_ARTEFACT_MAIN_MACE_HELL
+Elder's Druidic Inscriptions:artefacts:8:T8_ARTEFACT_MAIN_NATURESTAFF_KEEPER
+Elder's Hardened Debole:artefacts:8:T8_ARTEFACT_MAIN_RAPIER_MORGANA
+Elder's Runed Rock:artefacts:8:T8_ARTEFACT_MAIN_ROCKMACE_KEEPER
+Elder's Bloodforged Blade:artefacts:8:T8_ARTEFACT_MAIN_SCIMITAR_MORGANA
+Elder's Keeper Spearhead:artefacts:8:T8_ARTEFACT_MAIN_SPEAR_KEEPER
+Elder's Ancient Shield Core:artefacts:8:T8_ARTEFACT_OFF_TOWERSHIELD_UNDEAD
+Elder's Infernal Shield Core:artefacts:8:T8_ARTEFACT_OFF_SHIELD_HELL
+Elder's Bloodforged Spikes:artefacts:8:T8_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA
+Elder's Alluring Crystal:artefacts:8:T8_ARTEFACT_OFF_ORB_MORGANA
+Elder's Demonic Jawbone:artefacts:8:T8_ARTEFACT_OFF_DEMONSKULL_HELL
+Elder's Inscribed Stone:artefacts:8:T8_ARTEFACT_OFF_TOTEM_KEEPER
+Elder's Runed Horn:artefacts:8:T8_ARTEFACT_OFF_HORN_KEEPER
+Elder's Hellish Handle:artefacts:8:T8_ARTEFACT_OFF_JESTERCANE_HELL
+Elder's Ghastly Candle:artefacts:8:T8_ARTEFACT_OFF_LAMP_UNDEAD
+Elder's Ancient Padding:artefacts:8:T8_ARTEFACT_HEAD_PLATE_UNDEAD
+Elder's Ancient Chain Rings:artefacts:8:T8_ARTEFACT_ARMOR_PLATE_UNDEAD
+Elder's Ancient Bindings:artefacts:8:T8_ARTEFACT_SHOES_PLATE_UNDEAD
+Elder's Demonic Scraps:artefacts:8:T8_ARTEFACT_HEAD_PLATE_HELL
+Elder's Demonic Plates:artefacts:8:T8_ARTEFACT_ARMOR_PLATE_HELL
+Elder's Demonic Filling:artefacts:8:T8_ARTEFACT_SHOES_PLATE_HELL
+Elder's Carved Skull Padding:artefacts:8:T8_ARTEFACT_HEAD_PLATE_KEEPER
+Elder's Preserved Animal Fur:artefacts:8:T8_ARTEFACT_ARMOR_PLATE_KEEPER
+Elder's Inscribed Bindings:artefacts:8:T8_ARTEFACT_SHOES_PLATE_KEEPER
+Elder's Imbued Visor:artefacts:8:T8_ARTEFACT_HEAD_LEATHER_MORGANA
+Elder's Imbued Leather Folds:artefacts:8:T8_ARTEFACT_ARMOR_LEATHER_MORGANA
+Elder's Imbued Soles:artefacts:8:T8_ARTEFACT_SHOES_LEATHER_MORGANA
+Elder's Demonhide Padding:artefacts:8:T8_ARTEFACT_HEAD_LEATHER_HELL
+Elder's Demonhide Leather:artefacts:8:T8_ARTEFACT_ARMOR_LEATHER_HELL
+Elder's Demonhide Bindings:artefacts:8:T8_ARTEFACT_SHOES_LEATHER_HELL
+Elder's Ghastly Visor:artefacts:8:T8_ARTEFACT_HEAD_LEATHER_UNDEAD
+Elder's Ghastly Leather:artefacts:8:T8_ARTEFACT_ARMOR_LEATHER_UNDEAD
+Elder's Ghastly Bindings:artefacts:8:T8_ARTEFACT_SHOES_LEATHER_UNDEAD
+Elder's Druidic Preserved Beak:artefacts:8:T8_ARTEFACT_HEAD_CLOTH_KEEPER
+Elder's Druidic Feathers:artefacts:8:T8_ARTEFACT_ARMOR_CLOTH_KEEPER
+Elder's Druidic Bindings:artefacts:8:T8_ARTEFACT_SHOES_CLOTH_KEEPER
+Elder's Infernal Cloth Visor:artefacts:8:T8_ARTEFACT_HEAD_CLOTH_HELL
+Elder's Infernal Cloth Folds:artefacts:8:T8_ARTEFACT_ARMOR_CLOTH_HELL
+Elder's Infernal Cloth Bindings:artefacts:8:T8_ARTEFACT_SHOES_CLOTH_HELL
+Elder's Alluring Padding:artefacts:8:T8_ARTEFACT_HEAD_CLOTH_MORGANA
+Elder's Alluring Amulet:artefacts:8:T8_ARTEFACT_ARMOR_CLOTH_MORGANA
+Elder's Alluring Bindings:artefacts:8:T8_ARTEFACT_SHOES_CLOTH_MORGANA

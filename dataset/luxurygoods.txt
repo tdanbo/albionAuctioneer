@@ -1,0 +1,18 @@
+Corrupted Scroll:luxurygoods:4:TREASURE_KNOWLEDGE_RARITY1
+Silver Cup:luxurygoods:4:TREASURE_SILVERWARE_RARITY1
+Simple Stone Toy:luxurygoods:4:TREASURE_DECORATIVE_RARITY1
+Ornamental Scepter:luxurygoods:4:TREASURE_CEREMONIAL_RARITY1
+Feather Talisman:luxurygoods:4:TREASURE_TRIBAL_RARITY1
+Ritual Candles:luxurygoods:4:TREASURE_RITUAL_RARITY1
+Thin Booklet:luxurygoods:5:TREASURE_KNOWLEDGE_RARITY2
+Silver Mirror:luxurygoods:5:TREASURE_SILVERWARE_RARITY2
+Stone Mask:luxurygoods:5:TREASURE_DECORATIVE_RARITY2
+Globus Cruciger:luxurygoods:5:TREASURE_CEREMONIAL_RARITY2
+Dreamcatcher:luxurygoods:5:TREASURE_TRIBAL_RARITY2
+Blood Chalice:luxurygoods:5:TREASURE_RITUAL_RARITY2
+Ancient Tome:luxurygoods:6:TREASURE_KNOWLEDGE_RARITY3
+Silver Chandelier:luxurygoods:6:TREASURE_SILVERWARE_RARITY3
+Stone Idol:luxurygoods:6:TREASURE_DECORATIVE_RARITY3
+Golden Crown:luxurygoods:6:TREASURE_CEREMONIAL_RARITY3
+Holy Fetish:luxurygoods:6:TREASURE_TRIBAL_RARITY3
+Sacrificial Dagger:luxurygoods:6:TREASURE_RITUAL_RARITY3

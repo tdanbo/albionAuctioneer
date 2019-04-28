@@ -1,0 +1,613 @@
+Beginner's Broadsword:melee:1:T1_MAIN_SWORD
+Novice's Broadsword:melee:2:T2_MAIN_SWORD
+Journeyman's Dagger:melee:3:T3_MAIN_DAGGER
+Recruiter's Beer Mug:melee:3:UNIQUE_VANITY_MAIN_BEERMUG_TELLAFRIEND
+Recruiter's Hunter Horn:melee:3:UNIQUE_VANITY_MAIN_HORN_TELLAFRIEND
+Recruiter's Fox Crop:melee:3:UNIQUE_VANITY_MAIN_FOXCROP_TELLAFRIEND
+Recruiter's Trumpet:melee:3:UNIQUE_VANITY_MAIN_TRUMPET_TELLAFRIEND
+Journeyman's Spear:melee:3:T3_MAIN_SPEAR
+Journeyman's Battleaxe:melee:3:T3_MAIN_AXE
+Journeyman's Broadsword:melee:3:T3_MAIN_SWORD
+Journeyman's Quarterstaff:melee:3:T3_2H_QUARTERSTAFF
+Journeyman's Hammer:melee:3:T3_MAIN_HAMMER
+Journeyman's Mace:melee:3:T3_MAIN_MACE
+Adept's Dagger:melee:4:T4_MAIN_DAGGER
+Adept's Dagger:melee:4:T4_MAIN_DAGGER@1
+Adept's Dagger:melee:4:T4_MAIN_DAGGER@2
+Adept's Dagger:melee:4:T4_MAIN_DAGGER@3
+Adept's Dagger Pair:melee:4:T4_2H_DAGGERPAIR
+Adept's Dagger Pair:melee:4:T4_2H_DAGGERPAIR@1
+Adept's Dagger Pair:melee:4:T4_2H_DAGGERPAIR@2
+Adept's Dagger Pair:melee:4:T4_2H_DAGGERPAIR@3
+Adept's Claws:melee:4:T4_2H_CLAWPAIR
+Adept's Claws:melee:4:T4_2H_CLAWPAIR@1
+Adept's Claws:melee:4:T4_2H_CLAWPAIR@2
+Adept's Claws:melee:4:T4_2H_CLAWPAIR@3
+Adept's Bloodletter:melee:4:T4_MAIN_RAPIER_MORGANA
+Adept's Bloodletter:melee:4:T4_MAIN_RAPIER_MORGANA@1
+Adept's Bloodletter:melee:4:T4_MAIN_RAPIER_MORGANA@2
+Adept's Bloodletter:melee:4:T4_MAIN_RAPIER_MORGANA@3
+Adept's Black Hands:melee:4:T4_2H_IRONGAUNTLETS_HELL
+Adept's Black Hands:melee:4:T4_2H_IRONGAUNTLETS_HELL@1
+Adept's Black Hands:melee:4:T4_2H_IRONGAUNTLETS_HELL@2
+Adept's Black Hands:melee:4:T4_2H_IRONGAUNTLETS_HELL@3
+Adept's Deathgivers:melee:4:T4_2H_DUALSICKLE_UNDEAD
+Adept's Deathgivers:melee:4:T4_2H_DUALSICKLE_UNDEAD@1
+Adept's Deathgivers:melee:4:T4_2H_DUALSICKLE_UNDEAD@2
+Adept's Deathgivers:melee:4:T4_2H_DUALSICKLE_UNDEAD@3
+Adept's Spear:melee:4:T4_MAIN_SPEAR
+Adept's Spear:melee:4:T4_MAIN_SPEAR@1
+Adept's Spear:melee:4:T4_MAIN_SPEAR@2
+Adept's Spear:melee:4:T4_MAIN_SPEAR@3
+Adept's Pike:melee:4:T4_2H_SPEAR
+Adept's Pike:melee:4:T4_2H_SPEAR@1
+Adept's Pike:melee:4:T4_2H_SPEAR@2
+Adept's Pike:melee:4:T4_2H_SPEAR@3
+Adept's Glaive:melee:4:T4_2H_GLAIVE
+Adept's Glaive:melee:4:T4_2H_GLAIVE@1
+Adept's Glaive:melee:4:T4_2H_GLAIVE@2
+Adept's Glaive:melee:4:T4_2H_GLAIVE@3
+Adept's Heron Spear:melee:4:T4_MAIN_SPEAR_KEEPER
+Adept's Heron Spear:melee:4:T4_MAIN_SPEAR_KEEPER@1
+Adept's Heron Spear:melee:4:T4_MAIN_SPEAR_KEEPER@2
+Adept's Heron Spear:melee:4:T4_MAIN_SPEAR_KEEPER@3
+Adept's Spirithunter:melee:4:T4_2H_HARPOON_HELL
+Adept's Spirithunter:melee:4:T4_2H_HARPOON_HELL@1
+Adept's Spirithunter:melee:4:T4_2H_HARPOON_HELL@2
+Adept's Spirithunter:melee:4:T4_2H_HARPOON_HELL@3
+Adept's Trinity Spear:melee:4:T4_2H_TRIDENT_UNDEAD
+Adept's Trinity Spear:melee:4:T4_2H_TRIDENT_UNDEAD@1
+Adept's Trinity Spear:melee:4:T4_2H_TRIDENT_UNDEAD@2
+Adept's Trinity Spear:melee:4:T4_2H_TRIDENT_UNDEAD@3
+Adept's Battleaxe:melee:4:T4_MAIN_AXE
+Adept's Battleaxe:melee:4:T4_MAIN_AXE@1
+Adept's Battleaxe:melee:4:T4_MAIN_AXE@2
+Adept's Battleaxe:melee:4:T4_MAIN_AXE@3
+Adept's Greataxe:melee:4:T4_2H_AXE
+Adept's Greataxe:melee:4:T4_2H_AXE@1
+Adept's Greataxe:melee:4:T4_2H_AXE@2
+Adept's Greataxe:melee:4:T4_2H_AXE@3
+Adept's Halberd:melee:4:T4_2H_HALBERD
+Adept's Halberd:melee:4:T4_2H_HALBERD@1
+Adept's Halberd:melee:4:T4_2H_HALBERD@2
+Adept's Halberd:melee:4:T4_2H_HALBERD@3
+Adept's Carrioncaller:melee:4:T4_2H_HALBERD_MORGANA
+Adept's Carrioncaller:melee:4:T4_2H_HALBERD_MORGANA@1
+Adept's Carrioncaller:melee:4:T4_2H_HALBERD_MORGANA@2
+Adept's Carrioncaller:melee:4:T4_2H_HALBERD_MORGANA@3
+Adept's Infernal Scythe:melee:4:T4_2H_SCYTHE_HELL
+Adept's Infernal Scythe:melee:4:T4_2H_SCYTHE_HELL@1
+Adept's Infernal Scythe:melee:4:T4_2H_SCYTHE_HELL@2
+Adept's Infernal Scythe:melee:4:T4_2H_SCYTHE_HELL@3
+Adept's Bear Paws:melee:4:T4_2H_DUALAXE_KEEPER
+Adept's Bear Paws:melee:4:T4_2H_DUALAXE_KEEPER@1
+Adept's Bear Paws:melee:4:T4_2H_DUALAXE_KEEPER@2
+Adept's Bear Paws:melee:4:T4_2H_DUALAXE_KEEPER@3
+Adept's Broadsword:melee:4:T4_MAIN_SWORD
+Adept's Broadsword:melee:4:T4_MAIN_SWORD@1
+Adept's Broadsword:melee:4:T4_MAIN_SWORD@2
+Adept's Broadsword:melee:4:T4_MAIN_SWORD@3
+Adept's Claymore:melee:4:T4_2H_CLAYMORE
+Adept's Claymore:melee:4:T4_2H_CLAYMORE@1
+Adept's Claymore:melee:4:T4_2H_CLAYMORE@2
+Adept's Claymore:melee:4:T4_2H_CLAYMORE@3
+Adept's Dual Swords:melee:4:T4_2H_DUALSWORD
+Adept's Dual Swords:melee:4:T4_2H_DUALSWORD@1
+Adept's Dual Swords:melee:4:T4_2H_DUALSWORD@2
+Adept's Dual Swords:melee:4:T4_2H_DUALSWORD@3
+Adept's Clarent Blade:melee:4:T4_MAIN_SCIMITAR_MORGANA
+Adept's Clarent Blade:melee:4:T4_MAIN_SCIMITAR_MORGANA@1
+Adept's Clarent Blade:melee:4:T4_MAIN_SCIMITAR_MORGANA@2
+Adept's Clarent Blade:melee:4:T4_MAIN_SCIMITAR_MORGANA@3
+Adept's Carving Sword:melee:4:T4_2H_CLEAVER_HELL
+Adept's Carving Sword:melee:4:T4_2H_CLEAVER_HELL@1
+Adept's Carving Sword:melee:4:T4_2H_CLEAVER_HELL@2
+Adept's Carving Sword:melee:4:T4_2H_CLEAVER_HELL@3
+Adept's Galatine Pair:melee:4:T4_2H_DUALSCIMITAR_UNDEAD
+Adept's Galatine Pair:melee:4:T4_2H_DUALSCIMITAR_UNDEAD@1
+Adept's Galatine Pair:melee:4:T4_2H_DUALSCIMITAR_UNDEAD@2
+Adept's Galatine Pair:melee:4:T4_2H_DUALSCIMITAR_UNDEAD@3
+Adept's Quarterstaff:melee:4:T4_2H_QUARTERSTAFF
+Adept's Quarterstaff:melee:4:T4_2H_QUARTERSTAFF@1
+Adept's Quarterstaff:melee:4:T4_2H_QUARTERSTAFF@2
+Adept's Quarterstaff:melee:4:T4_2H_QUARTERSTAFF@3
+Adept's Iron-clad Staff:melee:4:T4_2H_IRONCLADEDSTAFF
+Adept's Iron-clad Staff:melee:4:T4_2H_IRONCLADEDSTAFF@1
+Adept's Iron-clad Staff:melee:4:T4_2H_IRONCLADEDSTAFF@2
+Adept's Iron-clad Staff:melee:4:T4_2H_IRONCLADEDSTAFF@3
+Adept's Double Bladed Staff:melee:4:T4_2H_DOUBLEBLADEDSTAFF
+Adept's Double Bladed Staff:melee:4:T4_2H_DOUBLEBLADEDSTAFF@1
+Adept's Double Bladed Staff:melee:4:T4_2H_DOUBLEBLADEDSTAFF@2
+Adept's Double Bladed Staff:melee:4:T4_2H_DOUBLEBLADEDSTAFF@3
+Adept's Black Monk Stave:melee:4:T4_2H_COMBATSTAFF_MORGANA
+Adept's Black Monk Stave:melee:4:T4_2H_COMBATSTAFF_MORGANA@1
+Adept's Black Monk Stave:melee:4:T4_2H_COMBATSTAFF_MORGANA@2
+Adept's Black Monk Stave:melee:4:T4_2H_COMBATSTAFF_MORGANA@3
+Adept's Soulscythe:melee:4:T4_2H_TWINSCYTHE_HELL
+Adept's Soulscythe:melee:4:T4_2H_TWINSCYTHE_HELL@1
+Adept's Soulscythe:melee:4:T4_2H_TWINSCYTHE_HELL@2
+Adept's Soulscythe:melee:4:T4_2H_TWINSCYTHE_HELL@3
+Adept's Staff of Balance:melee:4:T4_2H_ROCKSTAFF_KEEPER
+Adept's Staff of Balance:melee:4:T4_2H_ROCKSTAFF_KEEPER@1
+Adept's Staff of Balance:melee:4:T4_2H_ROCKSTAFF_KEEPER@2
+Adept's Staff of Balance:melee:4:T4_2H_ROCKSTAFF_KEEPER@3
+Expert's Dagger:melee:5:T5_MAIN_DAGGER
+Expert's Dagger:melee:5:T5_MAIN_DAGGER@1
+Expert's Dagger:melee:5:T5_MAIN_DAGGER@2
+Expert's Dagger:melee:5:T5_MAIN_DAGGER@3
+Expert's Dagger Pair:melee:5:T5_2H_DAGGERPAIR
+Expert's Dagger Pair:melee:5:T5_2H_DAGGERPAIR@1
+Expert's Dagger Pair:melee:5:T5_2H_DAGGERPAIR@2
+Expert's Dagger Pair:melee:5:T5_2H_DAGGERPAIR@3
+Expert's Claws:melee:5:T5_2H_CLAWPAIR
+Expert's Claws:melee:5:T5_2H_CLAWPAIR@1
+Expert's Claws:melee:5:T5_2H_CLAWPAIR@2
+Expert's Claws:melee:5:T5_2H_CLAWPAIR@3
+Expert's Bloodletter:melee:5:T5_MAIN_RAPIER_MORGANA
+Expert's Bloodletter:melee:5:T5_MAIN_RAPIER_MORGANA@1
+Expert's Bloodletter:melee:5:T5_MAIN_RAPIER_MORGANA@2
+Expert's Bloodletter:melee:5:T5_MAIN_RAPIER_MORGANA@3
+Expert's Black Hands:melee:5:T5_2H_IRONGAUNTLETS_HELL
+Expert's Black Hands:melee:5:T5_2H_IRONGAUNTLETS_HELL@1
+Expert's Black Hands:melee:5:T5_2H_IRONGAUNTLETS_HELL@2
+Expert's Black Hands:melee:5:T5_2H_IRONGAUNTLETS_HELL@3
+Expert's Deathgivers:melee:5:T5_2H_DUALSICKLE_UNDEAD
+Expert's Deathgivers:melee:5:T5_2H_DUALSICKLE_UNDEAD@1
+Expert's Deathgivers:melee:5:T5_2H_DUALSICKLE_UNDEAD@2
+Expert's Deathgivers:melee:5:T5_2H_DUALSICKLE_UNDEAD@3
+Expert's Spear:melee:5:T5_MAIN_SPEAR
+Expert's Spear:melee:5:T5_MAIN_SPEAR@1
+Expert's Spear:melee:5:T5_MAIN_SPEAR@2
+Expert's Spear:melee:5:T5_MAIN_SPEAR@3
+Expert's Pike:melee:5:T5_2H_SPEAR
+Expert's Pike:melee:5:T5_2H_SPEAR@1
+Expert's Pike:melee:5:T5_2H_SPEAR@2
+Expert's Pike:melee:5:T5_2H_SPEAR@3
+Expert's Glaive:melee:5:T5_2H_GLAIVE
+Expert's Glaive:melee:5:T5_2H_GLAIVE@1
+Expert's Glaive:melee:5:T5_2H_GLAIVE@2
+Expert's Glaive:melee:5:T5_2H_GLAIVE@3
+Expert's Heron Spear:melee:5:T5_MAIN_SPEAR_KEEPER
+Expert's Heron Spear:melee:5:T5_MAIN_SPEAR_KEEPER@1
+Expert's Heron Spear:melee:5:T5_MAIN_SPEAR_KEEPER@2
+Expert's Heron Spear:melee:5:T5_MAIN_SPEAR_KEEPER@3
+Expert's Spirithunter:melee:5:T5_2H_HARPOON_HELL
+Expert's Spirithunter:melee:5:T5_2H_HARPOON_HELL@1
+Expert's Spirithunter:melee:5:T5_2H_HARPOON_HELL@2
+Expert's Spirithunter:melee:5:T5_2H_HARPOON_HELL@3
+Expert's Trinity Spear:melee:5:T5_2H_TRIDENT_UNDEAD
+Expert's Trinity Spear:melee:5:T5_2H_TRIDENT_UNDEAD@1
+Expert's Trinity Spear:melee:5:T5_2H_TRIDENT_UNDEAD@2
+Expert's Trinity Spear:melee:5:T5_2H_TRIDENT_UNDEAD@3
+Expert's Battleaxe:melee:5:T5_MAIN_AXE
+Expert's Battleaxe:melee:5:T5_MAIN_AXE@1
+Expert's Battleaxe:melee:5:T5_MAIN_AXE@2
+Expert's Battleaxe:melee:5:T5_MAIN_AXE@3
+Expert's Greataxe:melee:5:T5_2H_AXE
+Expert's Greataxe:melee:5:T5_2H_AXE@1
+Expert's Greataxe:melee:5:T5_2H_AXE@2
+Expert's Greataxe:melee:5:T5_2H_AXE@3
+Expert's Halberd:melee:5:T5_2H_HALBERD
+Expert's Halberd:melee:5:T5_2H_HALBERD@1
+Expert's Halberd:melee:5:T5_2H_HALBERD@2
+Expert's Halberd:melee:5:T5_2H_HALBERD@3
+Expert's Carrioncaller:melee:5:T5_2H_HALBERD_MORGANA
+Expert's Carrioncaller:melee:5:T5_2H_HALBERD_MORGANA@1
+Expert's Carrioncaller:melee:5:T5_2H_HALBERD_MORGANA@2
+Expert's Carrioncaller:melee:5:T5_2H_HALBERD_MORGANA@3
+Expert's Infernal Scythe:melee:5:T5_2H_SCYTHE_HELL
+Expert's Infernal Scythe:melee:5:T5_2H_SCYTHE_HELL@1
+Expert's Infernal Scythe:melee:5:T5_2H_SCYTHE_HELL@2
+Expert's Infernal Scythe:melee:5:T5_2H_SCYTHE_HELL@3
+Expert's Bear Paws:melee:5:T5_2H_DUALAXE_KEEPER
+Expert's Bear Paws:melee:5:T5_2H_DUALAXE_KEEPER@1
+Expert's Bear Paws:melee:5:T5_2H_DUALAXE_KEEPER@2
+Expert's Bear Paws:melee:5:T5_2H_DUALAXE_KEEPER@3
+Expert's Broadsword:melee:5:T5_MAIN_SWORD
+Expert's Broadsword:melee:5:T5_MAIN_SWORD@1
+Expert's Broadsword:melee:5:T5_MAIN_SWORD@2
+Expert's Broadsword:melee:5:T5_MAIN_SWORD@3
+Expert's Claymore:melee:5:T5_2H_CLAYMORE
+Expert's Claymore:melee:5:T5_2H_CLAYMORE@1
+Expert's Claymore:melee:5:T5_2H_CLAYMORE@2
+Expert's Claymore:melee:5:T5_2H_CLAYMORE@3
+Expert's Dual Swords:melee:5:T5_2H_DUALSWORD
+Expert's Dual Swords:melee:5:T5_2H_DUALSWORD@1
+Expert's Dual Swords:melee:5:T5_2H_DUALSWORD@2
+Expert's Dual Swords:melee:5:T5_2H_DUALSWORD@3
+Expert's Clarent Blade:melee:5:T5_MAIN_SCIMITAR_MORGANA
+Expert's Clarent Blade:melee:5:T5_MAIN_SCIMITAR_MORGANA@1
+Expert's Clarent Blade:melee:5:T5_MAIN_SCIMITAR_MORGANA@2
+Expert's Clarent Blade:melee:5:T5_MAIN_SCIMITAR_MORGANA@3
+Expert's Carving Sword:melee:5:T5_2H_CLEAVER_HELL
+Expert's Carving Sword:melee:5:T5_2H_CLEAVER_HELL@1
+Expert's Carving Sword:melee:5:T5_2H_CLEAVER_HELL@2
+Expert's Carving Sword:melee:5:T5_2H_CLEAVER_HELL@3
+Expert's Galatine Pair:melee:5:T5_2H_DUALSCIMITAR_UNDEAD
+Expert's Galatine Pair:melee:5:T5_2H_DUALSCIMITAR_UNDEAD@1
+Expert's Galatine Pair:melee:5:T5_2H_DUALSCIMITAR_UNDEAD@2
+Expert's Galatine Pair:melee:5:T5_2H_DUALSCIMITAR_UNDEAD@3
+Expert's Quarterstaff:melee:5:T5_2H_QUARTERSTAFF
+Expert's Quarterstaff:melee:5:T5_2H_QUARTERSTAFF@1
+Expert's Quarterstaff:melee:5:T5_2H_QUARTERSTAFF@2
+Expert's Quarterstaff:melee:5:T5_2H_QUARTERSTAFF@3
+Expert's Iron-clad Staff:melee:5:T5_2H_IRONCLADEDSTAFF
+Expert's Iron-clad Staff:melee:5:T5_2H_IRONCLADEDSTAFF@1
+Expert's Iron-clad Staff:melee:5:T5_2H_IRONCLADEDSTAFF@2
+Expert's Iron-clad Staff:melee:5:T5_2H_IRONCLADEDSTAFF@3
+Expert's Double Bladed Staff:melee:5:T5_2H_DOUBLEBLADEDSTAFF
+Expert's Double Bladed Staff:melee:5:T5_2H_DOUBLEBLADEDSTAFF@1
+Expert's Double Bladed Staff:melee:5:T5_2H_DOUBLEBLADEDSTAFF@2
+Expert's Double Bladed Staff:melee:5:T5_2H_DOUBLEBLADEDSTAFF@3
+Expert's Black Monk Stave:melee:5:T5_2H_COMBATSTAFF_MORGANA
+Expert's Black Monk Stave:melee:5:T5_2H_COMBATSTAFF_MORGANA@1
+Expert's Black Monk Stave:melee:5:T5_2H_COMBATSTAFF_MORGANA@2
+Expert's Black Monk Stave:melee:5:T5_2H_COMBATSTAFF_MORGANA@3
+Expert's Soulscythe:melee:5:T5_2H_TWINSCYTHE_HELL
+Expert's Soulscythe:melee:5:T5_2H_TWINSCYTHE_HELL@1
+Expert's Soulscythe:melee:5:T5_2H_TWINSCYTHE_HELL@2
+Expert's Soulscythe:melee:5:T5_2H_TWINSCYTHE_HELL@3
+Expert's Staff of Balance:melee:5:T5_2H_ROCKSTAFF_KEEPER
+Expert's Staff of Balance:melee:5:T5_2H_ROCKSTAFF_KEEPER@1
+Expert's Staff of Balance:melee:5:T5_2H_ROCKSTAFF_KEEPER@2
+Expert's Staff of Balance:melee:5:T5_2H_ROCKSTAFF_KEEPER@3
+Master's Dagger:melee:6:T6_MAIN_DAGGER
+Master's Dagger:melee:6:T6_MAIN_DAGGER@1
+Master's Dagger:melee:6:T6_MAIN_DAGGER@2
+Master's Dagger:melee:6:T6_MAIN_DAGGER@3
+Master's Dagger Pair:melee:6:T6_2H_DAGGERPAIR
+Master's Dagger Pair:melee:6:T6_2H_DAGGERPAIR@1
+Master's Dagger Pair:melee:6:T6_2H_DAGGERPAIR@2
+Master's Dagger Pair:melee:6:T6_2H_DAGGERPAIR@3
+Master's Claws:melee:6:T6_2H_CLAWPAIR
+Master's Claws:melee:6:T6_2H_CLAWPAIR@1
+Master's Claws:melee:6:T6_2H_CLAWPAIR@2
+Master's Claws:melee:6:T6_2H_CLAWPAIR@3
+Master's Bloodletter:melee:6:T6_MAIN_RAPIER_MORGANA
+Master's Bloodletter:melee:6:T6_MAIN_RAPIER_MORGANA@1
+Master's Bloodletter:melee:6:T6_MAIN_RAPIER_MORGANA@2
+Master's Bloodletter:melee:6:T6_MAIN_RAPIER_MORGANA@3
+Master's Black Hands:melee:6:T6_2H_IRONGAUNTLETS_HELL
+Master's Black Hands:melee:6:T6_2H_IRONGAUNTLETS_HELL@1
+Master's Black Hands:melee:6:T6_2H_IRONGAUNTLETS_HELL@2
+Master's Black Hands:melee:6:T6_2H_IRONGAUNTLETS_HELL@3
+Master's Deathgivers:melee:6:T6_2H_DUALSICKLE_UNDEAD
+Master's Deathgivers:melee:6:T6_2H_DUALSICKLE_UNDEAD@1
+Master's Deathgivers:melee:6:T6_2H_DUALSICKLE_UNDEAD@2
+Master's Deathgivers:melee:6:T6_2H_DUALSICKLE_UNDEAD@3
+Master's Spear:melee:6:T6_MAIN_SPEAR
+Master's Spear:melee:6:T6_MAIN_SPEAR@1
+Master's Spear:melee:6:T6_MAIN_SPEAR@2
+Master's Spear:melee:6:T6_MAIN_SPEAR@3
+Master's Pike:melee:6:T6_2H_SPEAR
+Master's Pike:melee:6:T6_2H_SPEAR@1
+Master's Pike:melee:6:T6_2H_SPEAR@2
+Master's Pike:melee:6:T6_2H_SPEAR@3
+Master's Glaive:melee:6:T6_2H_GLAIVE
+Master's Glaive:melee:6:T6_2H_GLAIVE@1
+Master's Glaive:melee:6:T6_2H_GLAIVE@2
+Master's Glaive:melee:6:T6_2H_GLAIVE@3
+Master's Heron Spear:melee:6:T6_MAIN_SPEAR_KEEPER
+Master's Heron Spear:melee:6:T6_MAIN_SPEAR_KEEPER@1
+Master's Heron Spear:melee:6:T6_MAIN_SPEAR_KEEPER@2
+Master's Heron Spear:melee:6:T6_MAIN_SPEAR_KEEPER@3
+Master's Spirithunter:melee:6:T6_2H_HARPOON_HELL
+Master's Spirithunter:melee:6:T6_2H_HARPOON_HELL@1
+Master's Spirithunter:melee:6:T6_2H_HARPOON_HELL@2
+Master's Spirithunter:melee:6:T6_2H_HARPOON_HELL@3
+Master's Trinity Spear:melee:6:T6_2H_TRIDENT_UNDEAD
+Master's Trinity Spear:melee:6:T6_2H_TRIDENT_UNDEAD@1
+Master's Trinity Spear:melee:6:T6_2H_TRIDENT_UNDEAD@2
+Master's Trinity Spear:melee:6:T6_2H_TRIDENT_UNDEAD@3
+Master's Battleaxe:melee:6:T6_MAIN_AXE
+Master's Battleaxe:melee:6:T6_MAIN_AXE@1
+Master's Battleaxe:melee:6:T6_MAIN_AXE@2
+Master's Battleaxe:melee:6:T6_MAIN_AXE@3
+Master's Greataxe:melee:6:T6_2H_AXE
+Master's Greataxe:melee:6:T6_2H_AXE@1
+Master's Greataxe:melee:6:T6_2H_AXE@2
+Master's Greataxe:melee:6:T6_2H_AXE@3
+Master's Halberd:melee:6:T6_2H_HALBERD
+Master's Halberd:melee:6:T6_2H_HALBERD@1
+Master's Halberd:melee:6:T6_2H_HALBERD@2
+Master's Halberd:melee:6:T6_2H_HALBERD@3
+Master's Carrioncaller:melee:6:T6_2H_HALBERD_MORGANA
+Master's Carrioncaller:melee:6:T6_2H_HALBERD_MORGANA@1
+Master's Carrioncaller:melee:6:T6_2H_HALBERD_MORGANA@2
+Master's Carrioncaller:melee:6:T6_2H_HALBERD_MORGANA@3
+Master's Infernal Scythe:melee:6:T6_2H_SCYTHE_HELL
+Master's Infernal Scythe:melee:6:T6_2H_SCYTHE_HELL@1
+Master's Infernal Scythe:melee:6:T6_2H_SCYTHE_HELL@2
+Master's Infernal Scythe:melee:6:T6_2H_SCYTHE_HELL@3
+Master's Bear Paws:melee:6:T6_2H_DUALAXE_KEEPER
+Master's Bear Paws:melee:6:T6_2H_DUALAXE_KEEPER@1
+Master's Bear Paws:melee:6:T6_2H_DUALAXE_KEEPER@2
+Master's Bear Paws:melee:6:T6_2H_DUALAXE_KEEPER@3
+Master's Broadsword:melee:6:T6_MAIN_SWORD
+Master's Broadsword:melee:6:T6_MAIN_SWORD@1
+Master's Broadsword:melee:6:T6_MAIN_SWORD@2
+Master's Broadsword:melee:6:T6_MAIN_SWORD@3
+Master's Claymore:melee:6:T6_2H_CLAYMORE
+Master's Claymore:melee:6:T6_2H_CLAYMORE@1
+Master's Claymore:melee:6:T6_2H_CLAYMORE@2
+Master's Claymore:melee:6:T6_2H_CLAYMORE@3
+Master's Dual Swords:melee:6:T6_2H_DUALSWORD
+Master's Dual Swords:melee:6:T6_2H_DUALSWORD@1
+Master's Dual Swords:melee:6:T6_2H_DUALSWORD@2
+Master's Dual Swords:melee:6:T6_2H_DUALSWORD@3
+Master's Clarent Blade:melee:6:T6_MAIN_SCIMITAR_MORGANA
+Master's Clarent Blade:melee:6:T6_MAIN_SCIMITAR_MORGANA@1
+Master's Clarent Blade:melee:6:T6_MAIN_SCIMITAR_MORGANA@2
+Master's Clarent Blade:melee:6:T6_MAIN_SCIMITAR_MORGANA@3
+Master's Carving Sword:melee:6:T6_2H_CLEAVER_HELL
+Master's Carving Sword:melee:6:T6_2H_CLEAVER_HELL@1
+Master's Carving Sword:melee:6:T6_2H_CLEAVER_HELL@2
+Master's Carving Sword:melee:6:T6_2H_CLEAVER_HELL@3
+Master's Galatine Pair:melee:6:T6_2H_DUALSCIMITAR_UNDEAD
+Master's Galatine Pair:melee:6:T6_2H_DUALSCIMITAR_UNDEAD@1
+Master's Galatine Pair:melee:6:T6_2H_DUALSCIMITAR_UNDEAD@2
+Master's Galatine Pair:melee:6:T6_2H_DUALSCIMITAR_UNDEAD@3
+Master's Quarterstaff:melee:6:T6_2H_QUARTERSTAFF
+Master's Quarterstaff:melee:6:T6_2H_QUARTERSTAFF@1
+Master's Quarterstaff:melee:6:T6_2H_QUARTERSTAFF@2
+Master's Quarterstaff:melee:6:T6_2H_QUARTERSTAFF@3
+Master's Iron-clad Staff:melee:6:T6_2H_IRONCLADEDSTAFF
+Master's Iron-clad Staff:melee:6:T6_2H_IRONCLADEDSTAFF@1
+Master's Iron-clad Staff:melee:6:T6_2H_IRONCLADEDSTAFF@2
+Master's Iron-clad Staff:melee:6:T6_2H_IRONCLADEDSTAFF@3
+Master's Double Bladed Staff:melee:6:T6_2H_DOUBLEBLADEDSTAFF
+Master's Double Bladed Staff:melee:6:T6_2H_DOUBLEBLADEDSTAFF@1
+Master's Double Bladed Staff:melee:6:T6_2H_DOUBLEBLADEDSTAFF@2
+Master's Double Bladed Staff:melee:6:T6_2H_DOUBLEBLADEDSTAFF@3
+Master's Black Monk Stave:melee:6:T6_2H_COMBATSTAFF_MORGANA
+Master's Black Monk Stave:melee:6:T6_2H_COMBATSTAFF_MORGANA@1
+Master's Black Monk Stave:melee:6:T6_2H_COMBATSTAFF_MORGANA@2
+Master's Black Monk Stave:melee:6:T6_2H_COMBATSTAFF_MORGANA@3
+Master's Soulscythe:melee:6:T6_2H_TWINSCYTHE_HELL
+Master's Soulscythe:melee:6:T6_2H_TWINSCYTHE_HELL@1
+Master's Soulscythe:melee:6:T6_2H_TWINSCYTHE_HELL@2
+Master's Soulscythe:melee:6:T6_2H_TWINSCYTHE_HELL@3
+Master's Staff of Balance:melee:6:T6_2H_ROCKSTAFF_KEEPER
+Master's Staff of Balance:melee:6:T6_2H_ROCKSTAFF_KEEPER@1
+Master's Staff of Balance:melee:6:T6_2H_ROCKSTAFF_KEEPER@2
+Master's Staff of Balance:melee:6:T6_2H_ROCKSTAFF_KEEPER@3
+Grandmaster's Dagger:melee:7:T7_MAIN_DAGGER
+Grandmaster's Dagger:melee:7:T7_MAIN_DAGGER@1
+Grandmaster's Dagger:melee:7:T7_MAIN_DAGGER@2
+Grandmaster's Dagger:melee:7:T7_MAIN_DAGGER@3
+Grandmaster's Dagger Pair:melee:7:T7_2H_DAGGERPAIR
+Grandmaster's Dagger Pair:melee:7:T7_2H_DAGGERPAIR@1
+Grandmaster's Dagger Pair:melee:7:T7_2H_DAGGERPAIR@2
+Grandmaster's Dagger Pair:melee:7:T7_2H_DAGGERPAIR@3
+Grandmaster's Claws:melee:7:T7_2H_CLAWPAIR
+Grandmaster's Claws:melee:7:T7_2H_CLAWPAIR@1
+Grandmaster's Claws:melee:7:T7_2H_CLAWPAIR@2
+Grandmaster's Claws:melee:7:T7_2H_CLAWPAIR@3
+Grandmaster's Bloodletter:melee:7:T7_MAIN_RAPIER_MORGANA
+Grandmaster's Bloodletter:melee:7:T7_MAIN_RAPIER_MORGANA@1
+Grandmaster's Bloodletter:melee:7:T7_MAIN_RAPIER_MORGANA@2
+Grandmaster's Bloodletter:melee:7:T7_MAIN_RAPIER_MORGANA@3
+Grandmaster's Black Hands:melee:7:T7_2H_IRONGAUNTLETS_HELL
+Grandmaster's Black Hands:melee:7:T7_2H_IRONGAUNTLETS_HELL@1
+Grandmaster's Black Hands:melee:7:T7_2H_IRONGAUNTLETS_HELL@2
+Grandmaster's Black Hands:melee:7:T7_2H_IRONGAUNTLETS_HELL@3
+Grandmaster's Deathgivers:melee:7:T7_2H_DUALSICKLE_UNDEAD
+Grandmaster's Deathgivers:melee:7:T7_2H_DUALSICKLE_UNDEAD@1
+Grandmaster's Deathgivers:melee:7:T7_2H_DUALSICKLE_UNDEAD@2
+Grandmaster's Deathgivers:melee:7:T7_2H_DUALSICKLE_UNDEAD@3
+Grandmaster's Spear:melee:7:T7_MAIN_SPEAR
+Grandmaster's Spear:melee:7:T7_MAIN_SPEAR@1
+Grandmaster's Spear:melee:7:T7_MAIN_SPEAR@2
+Grandmaster's Spear:melee:7:T7_MAIN_SPEAR@3
+Grandmaster's Pike:melee:7:T7_2H_SPEAR
+Grandmaster's Pike:melee:7:T7_2H_SPEAR@1
+Grandmaster's Pike:melee:7:T7_2H_SPEAR@2
+Grandmaster's Pike:melee:7:T7_2H_SPEAR@3
+Grandmaster's Glaive:melee:7:T7_2H_GLAIVE
+Grandmaster's Glaive:melee:7:T7_2H_GLAIVE@1
+Grandmaster's Glaive:melee:7:T7_2H_GLAIVE@2
+Grandmaster's Glaive:melee:7:T7_2H_GLAIVE@3
+Grandmaster's Heron Spear:melee:7:T7_MAIN_SPEAR_KEEPER
+Grandmaster's Heron Spear:melee:7:T7_MAIN_SPEAR_KEEPER@1
+Grandmaster's Heron Spear:melee:7:T7_MAIN_SPEAR_KEEPER@2
+Grandmaster's Heron Spear:melee:7:T7_MAIN_SPEAR_KEEPER@3
+Grandmaster's Spirithunter:melee:7:T7_2H_HARPOON_HELL
+Grandmaster's Spirithunter:melee:7:T7_2H_HARPOON_HELL@1
+Grandmaster's Spirithunter:melee:7:T7_2H_HARPOON_HELL@2
+Grandmaster's Spirithunter:melee:7:T7_2H_HARPOON_HELL@3
+Grandmaster's Trinity Spear:melee:7:T7_2H_TRIDENT_UNDEAD
+Grandmaster's Trinity Spear:melee:7:T7_2H_TRIDENT_UNDEAD@1
+Grandmaster's Trinity Spear:melee:7:T7_2H_TRIDENT_UNDEAD@2
+Grandmaster's Trinity Spear:melee:7:T7_2H_TRIDENT_UNDEAD@3
+Grandmaster's Battleaxe:melee:7:T7_MAIN_AXE
+Grandmaster's Battleaxe:melee:7:T7_MAIN_AXE@1
+Grandmaster's Battleaxe:melee:7:T7_MAIN_AXE@2
+Grandmaster's Battleaxe:melee:7:T7_MAIN_AXE@3
+Grandmaster's Greataxe:melee:7:T7_2H_AXE
+Grandmaster's Greataxe:melee:7:T7_2H_AXE@1
+Grandmaster's Greataxe:melee:7:T7_2H_AXE@2
+Grandmaster's Greataxe:melee:7:T7_2H_AXE@3
+Grandmaster's Halberd:melee:7:T7_2H_HALBERD
+Grandmaster's Halberd:melee:7:T7_2H_HALBERD@1
+Grandmaster's Halberd:melee:7:T7_2H_HALBERD@2
+Grandmaster's Halberd:melee:7:T7_2H_HALBERD@3
+Grandmaster's Carrioncaller:melee:7:T7_2H_HALBERD_MORGANA
+Grandmaster's Carrioncaller:melee:7:T7_2H_HALBERD_MORGANA@1
+Grandmaster's Carrioncaller:melee:7:T7_2H_HALBERD_MORGANA@2
+Grandmaster's Carrioncaller:melee:7:T7_2H_HALBERD_MORGANA@3
+Grandmaster's Infernal Scythe:melee:7:T7_2H_SCYTHE_HELL
+Grandmaster's Infernal Scythe:melee:7:T7_2H_SCYTHE_HELL@1
+Grandmaster's Infernal Scythe:melee:7:T7_2H_SCYTHE_HELL@2
+Grandmaster's Infernal Scythe:melee:7:T7_2H_SCYTHE_HELL@3
+Grandmaster's Bear Paws:melee:7:T7_2H_DUALAXE_KEEPER
+Grandmaster's Bear Paws:melee:7:T7_2H_DUALAXE_KEEPER@1
+Grandmaster's Bear Paws:melee:7:T7_2H_DUALAXE_KEEPER@2
+Grandmaster's Bear Paws:melee:7:T7_2H_DUALAXE_KEEPER@3
+Grandmaster's Broadsword:melee:7:T7_MAIN_SWORD
+Grandmaster's Broadsword:melee:7:T7_MAIN_SWORD@1
+Grandmaster's Broadsword:melee:7:T7_MAIN_SWORD@2
+Grandmaster's Broadsword:melee:7:T7_MAIN_SWORD@3
+Grandmaster's Claymore:melee:7:T7_2H_CLAYMORE
+Grandmaster's Claymore:melee:7:T7_2H_CLAYMORE@1
+Grandmaster's Claymore:melee:7:T7_2H_CLAYMORE@2
+Grandmaster's Claymore:melee:7:T7_2H_CLAYMORE@3
+Grandmaster's Dual Swords:melee:7:T7_2H_DUALSWORD
+Grandmaster's Dual Swords:melee:7:T7_2H_DUALSWORD@1
+Grandmaster's Dual Swords:melee:7:T7_2H_DUALSWORD@2
+Grandmaster's Dual Swords:melee:7:T7_2H_DUALSWORD@3
+Grandmaster's Clarent Blade:melee:7:T7_MAIN_SCIMITAR_MORGANA
+Grandmaster's Clarent Blade:melee:7:T7_MAIN_SCIMITAR_MORGANA@1
+Grandmaster's Clarent Blade:melee:7:T7_MAIN_SCIMITAR_MORGANA@2
+Grandmaster's Clarent Blade:melee:7:T7_MAIN_SCIMITAR_MORGANA@3
+Grandmaster's Carving Sword:melee:7:T7_2H_CLEAVER_HELL
+Grandmaster's Carving Sword:melee:7:T7_2H_CLEAVER_HELL@1
+Grandmaster's Carving Sword:melee:7:T7_2H_CLEAVER_HELL@2
+Grandmaster's Carving Sword:melee:7:T7_2H_CLEAVER_HELL@3
+Grandmaster's Galatine Pair:melee:7:T7_2H_DUALSCIMITAR_UNDEAD
+Grandmaster's Galatine Pair:melee:7:T7_2H_DUALSCIMITAR_UNDEAD@1
+Grandmaster's Galatine Pair:melee:7:T7_2H_DUALSCIMITAR_UNDEAD@2
+Grandmaster's Galatine Pair:melee:7:T7_2H_DUALSCIMITAR_UNDEAD@3
+Grandmaster's Quarterstaff:melee:7:T7_2H_QUARTERSTAFF
+Grandmaster's Quarterstaff:melee:7:T7_2H_QUARTERSTAFF@1
+Grandmaster's Quarterstaff:melee:7:T7_2H_QUARTERSTAFF@2
+Grandmaster's Quarterstaff:melee:7:T7_2H_QUARTERSTAFF@3
+Grandmaster's Iron-clad Staff:melee:7:T7_2H_IRONCLADEDSTAFF
+Grandmaster's Iron-clad Staff:melee:7:T7_2H_IRONCLADEDSTAFF@1
+Grandmaster's Iron-clad Staff:melee:7:T7_2H_IRONCLADEDSTAFF@2
+Grandmaster's Iron-clad Staff:melee:7:T7_2H_IRONCLADEDSTAFF@3
+Grandmaster's Double Bladed Staff:melee:7:T7_2H_DOUBLEBLADEDSTAFF
+Grandmaster's Double Bladed Staff:melee:7:T7_2H_DOUBLEBLADEDSTAFF@1
+Grandmaster's Double Bladed Staff:melee:7:T7_2H_DOUBLEBLADEDSTAFF@2
+Grandmaster's Double Bladed Staff:melee:7:T7_2H_DOUBLEBLADEDSTAFF@3
+Grandmaster's Black Monk Stave:melee:7:T7_2H_COMBATSTAFF_MORGANA
+Grandmaster's Black Monk Stave:melee:7:T7_2H_COMBATSTAFF_MORGANA@1
+Grandmaster's Black Monk Stave:melee:7:T7_2H_COMBATSTAFF_MORGANA@2
+Grandmaster's Black Monk Stave:melee:7:T7_2H_COMBATSTAFF_MORGANA@3
+Grandmaster's Soulscythe:melee:7:T7_2H_TWINSCYTHE_HELL
+Grandmaster's Soulscythe:melee:7:T7_2H_TWINSCYTHE_HELL@1
+Grandmaster's Soulscythe:melee:7:T7_2H_TWINSCYTHE_HELL@2
+Grandmaster's Soulscythe:melee:7:T7_2H_TWINSCYTHE_HELL@3
+Grandmaster's Staff of Balance:melee:7:T7_2H_ROCKSTAFF_KEEPER
+Grandmaster's Staff of Balance:melee:7:T7_2H_ROCKSTAFF_KEEPER@1
+Grandmaster's Staff of Balance:melee:7:T7_2H_ROCKSTAFF_KEEPER@2
+Grandmaster's Staff of Balance:melee:7:T7_2H_ROCKSTAFF_KEEPER@3
+Elder's Dagger:melee:8:T8_MAIN_DAGGER
+Elder's Dagger:melee:8:T8_MAIN_DAGGER@1
+Elder's Dagger:melee:8:T8_MAIN_DAGGER@2
+Elder's Dagger:melee:8:T8_MAIN_DAGGER@3
+Elder's Dagger Pair:melee:8:T8_2H_DAGGERPAIR
+Elder's Dagger Pair:melee:8:T8_2H_DAGGERPAIR@1
+Elder's Dagger Pair:melee:8:T8_2H_DAGGERPAIR@2
+Elder's Dagger Pair:melee:8:T8_2H_DAGGERPAIR@3
+Elder's Claws:melee:8:T8_2H_CLAWPAIR
+Elder's Claws:melee:8:T8_2H_CLAWPAIR@1
+Elder's Claws:melee:8:T8_2H_CLAWPAIR@2
+Elder's Claws:melee:8:T8_2H_CLAWPAIR@3
+Elder's Bloodletter:melee:8:T8_MAIN_RAPIER_MORGANA
+Elder's Bloodletter:melee:8:T8_MAIN_RAPIER_MORGANA@1
+Elder's Bloodletter:melee:8:T8_MAIN_RAPIER_MORGANA@2
+Elder's Bloodletter:melee:8:T8_MAIN_RAPIER_MORGANA@3
+Elder's Black Hands:melee:8:T8_2H_IRONGAUNTLETS_HELL
+Elder's Black Hands:melee:8:T8_2H_IRONGAUNTLETS_HELL@1
+Elder's Black Hands:melee:8:T8_2H_IRONGAUNTLETS_HELL@2
+Elder's Black Hands:melee:8:T8_2H_IRONGAUNTLETS_HELL@3
+Elder's Deathgivers:melee:8:T8_2H_DUALSICKLE_UNDEAD
+Elder's Deathgivers:melee:8:T8_2H_DUALSICKLE_UNDEAD@1
+Elder's Deathgivers:melee:8:T8_2H_DUALSICKLE_UNDEAD@2
+Elder's Deathgivers:melee:8:T8_2H_DUALSICKLE_UNDEAD@3
+Elder's Spear:melee:8:T8_MAIN_SPEAR
+Elder's Spear:melee:8:T8_MAIN_SPEAR@1
+Elder's Spear:melee:8:T8_MAIN_SPEAR@2
+Elder's Spear:melee:8:T8_MAIN_SPEAR@3
+Elder's Pike:melee:8:T8_2H_SPEAR
+Elder's Pike:melee:8:T8_2H_SPEAR@1
+Elder's Pike:melee:8:T8_2H_SPEAR@2
+Elder's Pike:melee:8:T8_2H_SPEAR@3
+Elder's Glaive:melee:8:T8_2H_GLAIVE
+Elder's Glaive:melee:8:T8_2H_GLAIVE@1
+Elder's Glaive:melee:8:T8_2H_GLAIVE@2
+Elder's Glaive:melee:8:T8_2H_GLAIVE@3
+Elder's Heron Spear:melee:8:T8_MAIN_SPEAR_KEEPER
+Elder's Heron Spear:melee:8:T8_MAIN_SPEAR_KEEPER@1
+Elder's Heron Spear:melee:8:T8_MAIN_SPEAR_KEEPER@2
+Elder's Heron Spear:melee:8:T8_MAIN_SPEAR_KEEPER@3
+Elder's Spirithunter:melee:8:T8_2H_HARPOON_HELL
+Elder's Spirithunter:melee:8:T8_2H_HARPOON_HELL@1
+Elder's Spirithunter:melee:8:T8_2H_HARPOON_HELL@2
+Elder's Spirithunter:melee:8:T8_2H_HARPOON_HELL@3
+Elder's Trinity Spear:melee:8:T8_2H_TRIDENT_UNDEAD
+Elder's Trinity Spear:melee:8:T8_2H_TRIDENT_UNDEAD@1
+Elder's Trinity Spear:melee:8:T8_2H_TRIDENT_UNDEAD@2
+Elder's Trinity Spear:melee:8:T8_2H_TRIDENT_UNDEAD@3
+Elder's Battleaxe:melee:8:T8_MAIN_AXE
+Elder's Battleaxe:melee:8:T8_MAIN_AXE@1
+Elder's Battleaxe:melee:8:T8_MAIN_AXE@2
+Elder's Battleaxe:melee:8:T8_MAIN_AXE@3
+The Hand of Khor:melee:8:T8_2H_AXE
+The Hand of Khor:melee:8:T8_2H_AXE@1
+The Hand of Khor:melee:8:T8_2H_AXE@2
+The Hand of Khor:melee:8:T8_2H_AXE@3
+Elder's Halberd:melee:8:T8_2H_HALBERD
+Elder's Halberd:melee:8:T8_2H_HALBERD@1
+Elder's Halberd:melee:8:T8_2H_HALBERD@2
+Elder's Halberd:melee:8:T8_2H_HALBERD@3
+Elder's Carrioncaller:melee:8:T8_2H_HALBERD_MORGANA
+Elder's Carrioncaller:melee:8:T8_2H_HALBERD_MORGANA@1
+Elder's Carrioncaller:melee:8:T8_2H_HALBERD_MORGANA@2
+Elder's Carrioncaller:melee:8:T8_2H_HALBERD_MORGANA@3
+Elder's Infernal Scythe:melee:8:T8_2H_SCYTHE_HELL
+Elder's Infernal Scythe:melee:8:T8_2H_SCYTHE_HELL@1
+Elder's Infernal Scythe:melee:8:T8_2H_SCYTHE_HELL@2
+Elder's Infernal Scythe:melee:8:T8_2H_SCYTHE_HELL@3
+Elder's Bear Paws:melee:8:T8_2H_DUALAXE_KEEPER
+Elder's Bear Paws:melee:8:T8_2H_DUALAXE_KEEPER@1
+Elder's Bear Paws:melee:8:T8_2H_DUALAXE_KEEPER@2
+Elder's Bear Paws:melee:8:T8_2H_DUALAXE_KEEPER@3
+Elder's Broadsword:melee:8:T8_MAIN_SWORD
+Elder's Broadsword:melee:8:T8_MAIN_SWORD@1
+Elder's Broadsword:melee:8:T8_MAIN_SWORD@2
+Elder's Broadsword:melee:8:T8_MAIN_SWORD@3
+Elder's Claymore:melee:8:T8_2H_CLAYMORE
+Elder's Claymore:melee:8:T8_2H_CLAYMORE@1
+Elder's Claymore:melee:8:T8_2H_CLAYMORE@2
+Elder's Claymore:melee:8:T8_2H_CLAYMORE@3
+Elder's Dual Swords:melee:8:T8_2H_DUALSWORD
+Elder's Dual Swords:melee:8:T8_2H_DUALSWORD@1
+Elder's Dual Swords:melee:8:T8_2H_DUALSWORD@2
+Elder's Dual Swords:melee:8:T8_2H_DUALSWORD@3
+Elder's Clarent Blade:melee:8:T8_MAIN_SCIMITAR_MORGANA
+Elder's Clarent Blade:melee:8:T8_MAIN_SCIMITAR_MORGANA@1
+Elder's Clarent Blade:melee:8:T8_MAIN_SCIMITAR_MORGANA@2
+Elder's Clarent Blade:melee:8:T8_MAIN_SCIMITAR_MORGANA@3
+Elder's Carving Sword:melee:8:T8_2H_CLEAVER_HELL
+Elder's Carving Sword:melee:8:T8_2H_CLEAVER_HELL@1
+Elder's Carving Sword:melee:8:T8_2H_CLEAVER_HELL@2
+Elder's Carving Sword:melee:8:T8_2H_CLEAVER_HELL@3
+Elder's Galatine Pair:melee:8:T8_2H_DUALSCIMITAR_UNDEAD
+Elder's Galatine Pair:melee:8:T8_2H_DUALSCIMITAR_UNDEAD@1
+Elder's Galatine Pair:melee:8:T8_2H_DUALSCIMITAR_UNDEAD@2
+Elder's Galatine Pair:melee:8:T8_2H_DUALSCIMITAR_UNDEAD@3
+Elder's Quarterstaff:melee:8:T8_2H_QUARTERSTAFF
+Elder's Quarterstaff:melee:8:T8_2H_QUARTERSTAFF@1
+Elder's Quarterstaff:melee:8:T8_2H_QUARTERSTAFF@2
+Elder's Quarterstaff:melee:8:T8_2H_QUARTERSTAFF@3
+Elder's Iron-clad Staff:melee:8:T8_2H_IRONCLADEDSTAFF
+Elder's Iron-clad Staff:melee:8:T8_2H_IRONCLADEDSTAFF@1
+Elder's Iron-clad Staff:melee:8:T8_2H_IRONCLADEDSTAFF@2
+Elder's Iron-clad Staff:melee:8:T8_2H_IRONCLADEDSTAFF@3
+Elder's Double Bladed Staff:melee:8:T8_2H_DOUBLEBLADEDSTAFF
+Elder's Double Bladed Staff:melee:8:T8_2H_DOUBLEBLADEDSTAFF@1
+Elder's Double Bladed Staff:melee:8:T8_2H_DOUBLEBLADEDSTAFF@2
+Elder's Double Bladed Staff:melee:8:T8_2H_DOUBLEBLADEDSTAFF@3
+Elder's Black Monk Stave:melee:8:T8_2H_COMBATSTAFF_MORGANA
+Elder's Black Monk Stave:melee:8:T8_2H_COMBATSTAFF_MORGANA@1
+Elder's Black Monk Stave:melee:8:T8_2H_COMBATSTAFF_MORGANA@2
+Elder's Black Monk Stave:melee:8:T8_2H_COMBATSTAFF_MORGANA@3
+Elder's Soulscythe:melee:8:T8_2H_TWINSCYTHE_HELL
+Elder's Soulscythe:melee:8:T8_2H_TWINSCYTHE_HELL@1
+Elder's Soulscythe:melee:8:T8_2H_TWINSCYTHE_HELL@2
+Elder's Soulscythe:melee:8:T8_2H_TWINSCYTHE_HELL@3
+Elder's Staff of Balance:melee:8:T8_2H_ROCKSTAFF_KEEPER
+Elder's Staff of Balance:melee:8:T8_2H_ROCKSTAFF_KEEPER@1
+Elder's Staff of Balance:melee:8:T8_2H_ROCKSTAFF_KEEPER@2
+Elder's Staff of Balance:melee:8:T8_2H_ROCKSTAFF_KEEPER@3

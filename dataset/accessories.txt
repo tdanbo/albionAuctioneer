@@ -1,0 +1,333 @@
+Novice's Cape:accessories:2:T2_CAPE
+Recruiter's Cape:accessories:2:UNIQUE_CAPE_TELLAFRIEND
+Riuros Cape:accessories:2:UNIQUE_CAPE_TELLAFRIEND_02
+Master of Bats Cape:accessories:2:UNIQUE_CAPE_TELLAFRIEND_BATRIDER
+Novice's Bag:accessories:2:T2_BAG
+Journeyman's Cape:accessories:3:T3_CAPE
+Recruiter's Banner:accessories:3:UNIQUE_CAPE_TELLAFRIEND_BANNER
+Ogronios Banner:accessories:3:UNIQUE_CAPE_TELLAFRIEND_BANNER_02
+Recruiter's Cape - Toad:accessories:3:UNIQUE_CAPE_TOAD_TELLAFRIEND
+Recruiter's Cape - Bloodhound:accessories:3:UNIQUE_CAPE_BLOODHOUND_TELLAFRIEND
+Recruiter's Tiger Cape:accessories:3:UNIQUE_CAPE_TIGER_TELLAFRIEND
+Recruiter's Fur Cape:accessories:3:UNIQUE_CAPE_RAM_TELLAFRIEND
+Recruiter's Grey Wolf Cape:accessories:3:UNIQUE_CAPE_WOLF_GREY_TELLAFRIEND
+Journeyman's Bag:accessories:3:T3_BAG
+Legendary Explorer's Cloak:accessories:3:UNIQUE_CAPE_FOUNDER_LEGENDARY
+Legendary Adventurer's Cloak:accessories:3:UNIQUE_CAPE_STARTERPACK_LEGENDARY
+Arena Veteran's Cape:accessories:3:UNIQUE_CAPE_VANITY_ARENA_SET_01
+Yule Backpack:accessories:3:UNIQUE_BACKPACK_VANITY_SANTACLAUS
+Groom Cape:accessories:3:UNIQUE_CAPE_VANITY_WEDDING_TUXEDO
+Bunny Stalker Basket:accessories:3:UNIQUE_BACKPACK_VANITY_EASTER
+Ragged Cape:accessories:3:UNIQUE_CAPE_VANITY_SKELETON
+Adept's Cape:accessories:4:T4_CAPE
+Adept's Cape:accessories:4:T4_CAPE@1
+Adept's Cape:accessories:4:T4_CAPE@2
+Adept's Cape:accessories:4:T4_CAPE@3
+Adept's Bridgewatch Cape:accessories:4:T4_CAPEITEM_FW_BRIDGEWATCH
+Adept's Bridgewatch Cape:accessories:4:T4_CAPEITEM_FW_BRIDGEWATCH@1
+Adept's Bridgewatch Cape:accessories:4:T4_CAPEITEM_FW_BRIDGEWATCH@2
+Adept's Bridgewatch Cape:accessories:4:T4_CAPEITEM_FW_BRIDGEWATCH@3
+Adept's Fort Sterling Cape:accessories:4:T4_CAPEITEM_FW_FORTSTERLING
+Adept's Fort Sterling Cape:accessories:4:T4_CAPEITEM_FW_FORTSTERLING@1
+Adept's Fort Sterling Cape:accessories:4:T4_CAPEITEM_FW_FORTSTERLING@2
+Adept's Fort Sterling Cape:accessories:4:T4_CAPEITEM_FW_FORTSTERLING@3
+Adept's Lymhurst Cape:accessories:4:T4_CAPEITEM_FW_LYMHURST
+Adept's Lymhurst Cape:accessories:4:T4_CAPEITEM_FW_LYMHURST@1
+Adept's Lymhurst Cape:accessories:4:T4_CAPEITEM_FW_LYMHURST@2
+Adept's Lymhurst Cape:accessories:4:T4_CAPEITEM_FW_LYMHURST@3
+Adept's Martlock Cape:accessories:4:T4_CAPEITEM_FW_MARTLOCK
+Adept's Martlock Cape:accessories:4:T4_CAPEITEM_FW_MARTLOCK@1
+Adept's Martlock Cape:accessories:4:T4_CAPEITEM_FW_MARTLOCK@2
+Adept's Martlock Cape:accessories:4:T4_CAPEITEM_FW_MARTLOCK@3
+Adept's Thetford Cape:accessories:4:T4_CAPEITEM_FW_THETFORD
+Adept's Thetford Cape:accessories:4:T4_CAPEITEM_FW_THETFORD@1
+Adept's Thetford Cape:accessories:4:T4_CAPEITEM_FW_THETFORD@2
+Adept's Thetford Cape:accessories:4:T4_CAPEITEM_FW_THETFORD@3
+Adept's Heretic Cape:accessories:4:T4_CAPEITEM_HERETIC
+Adept's Heretic Cape:accessories:4:T4_CAPEITEM_HERETIC@1
+Adept's Heretic Cape:accessories:4:T4_CAPEITEM_HERETIC@2
+Adept's Heretic Cape:accessories:4:T4_CAPEITEM_HERETIC@3
+Adept's Undead Cape:accessories:4:T4_CAPEITEM_UNDEAD
+Adept's Undead Cape:accessories:4:T4_CAPEITEM_UNDEAD@1
+Adept's Undead Cape:accessories:4:T4_CAPEITEM_UNDEAD@2
+Adept's Undead Cape:accessories:4:T4_CAPEITEM_UNDEAD@3
+Adept's Keeper Cape:accessories:4:T4_CAPEITEM_KEEPER
+Adept's Keeper Cape:accessories:4:T4_CAPEITEM_KEEPER@1
+Adept's Keeper Cape:accessories:4:T4_CAPEITEM_KEEPER@2
+Adept's Keeper Cape:accessories:4:T4_CAPEITEM_KEEPER@3
+Adept's Morgana Cape:accessories:4:T4_CAPEITEM_MORGANA
+Adept's Morgana Cape:accessories:4:T4_CAPEITEM_MORGANA@1
+Adept's Morgana Cape:accessories:4:T4_CAPEITEM_MORGANA@2
+Adept's Morgana Cape:accessories:4:T4_CAPEITEM_MORGANA@3
+Adept's Demon Cape:accessories:4:T4_CAPEITEM_DEMON
+Adept's Demon Cape:accessories:4:T4_CAPEITEM_DEMON@1
+Adept's Demon Cape:accessories:4:T4_CAPEITEM_DEMON@2
+Adept's Demon Cape:accessories:4:T4_CAPEITEM_DEMON@3
+Adept's Faction Fame Bag:accessories:4:T4_BAG_FW_BONUS_FAME
+Adept's Faction Fame Bag:accessories:4:T4_BAG_FW_BONUS_FAME@1
+Adept's Faction Fame Bag:accessories:4:T4_BAG_FW_BONUS_FAME@2
+Adept's Faction Fame Bag:accessories:4:T4_BAG_FW_BONUS_FAME@3
+Adept's Faction Yield Bag:accessories:4:T4_BAG_FW_BONUS_YIELD
+Adept's Faction Yield Bag:accessories:4:T4_BAG_FW_BONUS_YIELD@1
+Adept's Faction Yield Bag:accessories:4:T4_BAG_FW_BONUS_YIELD@2
+Adept's Faction Yield Bag:accessories:4:T4_BAG_FW_BONUS_YIELD@3
+Adept's Faction Silver Bag:accessories:4:T4_BAG_FW_BONUS_SILVER
+Adept's Faction Silver Bag:accessories:4:T4_BAG_FW_BONUS_SILVER@1
+Adept's Faction Silver Bag:accessories:4:T4_BAG_FW_BONUS_SILVER@2
+Adept's Faction Silver Bag:accessories:4:T4_BAG_FW_BONUS_SILVER@3
+Adept's Bag:accessories:4:T4_BAG
+Adept's Bag:accessories:4:T4_BAG@1
+Adept's Bag:accessories:4:T4_BAG@2
+Adept's Bag:accessories:4:T4_BAG@3
+Arena Veteran's Small Banner:accessories:4:T4_CAPE_ARENA_BANNER
+Expert's Cape:accessories:5:T5_CAPE
+Expert's Cape:accessories:5:T5_CAPE@1
+Expert's Cape:accessories:5:T5_CAPE@2
+Expert's Cape:accessories:5:T5_CAPE@3
+Expert's Bridgewatch Cape:accessories:5:T5_CAPEITEM_FW_BRIDGEWATCH
+Expert's Bridgewatch Cape:accessories:5:T5_CAPEITEM_FW_BRIDGEWATCH@1
+Expert's Bridgewatch Cape:accessories:5:T5_CAPEITEM_FW_BRIDGEWATCH@2
+Expert's Bridgewatch Cape:accessories:5:T5_CAPEITEM_FW_BRIDGEWATCH@3
+Expert's Fort Sterling Cape:accessories:5:T5_CAPEITEM_FW_FORTSTERLING
+Expert's Fort Sterling Cape:accessories:5:T5_CAPEITEM_FW_FORTSTERLING@1
+Expert's Fort Sterling Cape:accessories:5:T5_CAPEITEM_FW_FORTSTERLING@2
+Expert's Fort Sterling Cape:accessories:5:T5_CAPEITEM_FW_FORTSTERLING@3
+Expert's Lymhurst Cape:accessories:5:T5_CAPEITEM_FW_LYMHURST
+Expert's Lymhurst Cape:accessories:5:T5_CAPEITEM_FW_LYMHURST@1
+Expert's Lymhurst Cape:accessories:5:T5_CAPEITEM_FW_LYMHURST@2
+Expert's Lymhurst Cape:accessories:5:T5_CAPEITEM_FW_LYMHURST@3
+Expert's Martlock Cape:accessories:5:T5_CAPEITEM_FW_MARTLOCK
+Expert's Martlock Cape:accessories:5:T5_CAPEITEM_FW_MARTLOCK@1
+Expert's Martlock Cape:accessories:5:T5_CAPEITEM_FW_MARTLOCK@2
+Expert's Martlock Cape:accessories:5:T5_CAPEITEM_FW_MARTLOCK@3
+Expert's Thetford Cape:accessories:5:T5_CAPEITEM_FW_THETFORD
+Expert's Thetford Cape:accessories:5:T5_CAPEITEM_FW_THETFORD@1
+Expert's Thetford Cape:accessories:5:T5_CAPEITEM_FW_THETFORD@2
+Expert's Thetford Cape:accessories:5:T5_CAPEITEM_FW_THETFORD@3
+Expert's Heretic Cape:accessories:5:T5_CAPEITEM_HERETIC
+Expert's Heretic Cape:accessories:5:T5_CAPEITEM_HERETIC@1
+Expert's Heretic Cape:accessories:5:T5_CAPEITEM_HERETIC@2
+Expert's Heretic Cape:accessories:5:T5_CAPEITEM_HERETIC@3
+Expert's Undead Cape:accessories:5:T5_CAPEITEM_UNDEAD
+Expert's Undead Cape:accessories:5:T5_CAPEITEM_UNDEAD@1
+Expert's Undead Cape:accessories:5:T5_CAPEITEM_UNDEAD@2
+Expert's Undead Cape:accessories:5:T5_CAPEITEM_UNDEAD@3
+Expert's Keeper Cape:accessories:5:T5_CAPEITEM_KEEPER
+Expert's Keeper Cape:accessories:5:T5_CAPEITEM_KEEPER@1
+Expert's Keeper Cape:accessories:5:T5_CAPEITEM_KEEPER@2
+Expert's Keeper Cape:accessories:5:T5_CAPEITEM_KEEPER@3
+Expert's Morgana Cape:accessories:5:T5_CAPEITEM_MORGANA
+Expert's Morgana Cape:accessories:5:T5_CAPEITEM_MORGANA@1
+Expert's Morgana Cape:accessories:5:T5_CAPEITEM_MORGANA@2
+Expert's Morgana Cape:accessories:5:T5_CAPEITEM_MORGANA@3
+Expert's Demon Cape:accessories:5:T5_CAPEITEM_DEMON
+Expert's Demon Cape:accessories:5:T5_CAPEITEM_DEMON@1
+Expert's Demon Cape:accessories:5:T5_CAPEITEM_DEMON@2
+Expert's Demon Cape:accessories:5:T5_CAPEITEM_DEMON@3
+Expert's Faction Fame Bag:accessories:5:T5_BAG_FW_BONUS_FAME
+Expert's Faction Fame Bag:accessories:5:T5_BAG_FW_BONUS_FAME@1
+Expert's Faction Fame Bag:accessories:5:T5_BAG_FW_BONUS_FAME@2
+Expert's Faction Fame Bag:accessories:5:T5_BAG_FW_BONUS_FAME@3
+Expert's Faction Yield Bag:accessories:5:T5_BAG_FW_BONUS_YIELD
+Expert's Faction Yield Bag:accessories:5:T5_BAG_FW_BONUS_YIELD@1
+Expert's Faction Yield Bag:accessories:5:T5_BAG_FW_BONUS_YIELD@2
+Expert's Faction Yield Bag:accessories:5:T5_BAG_FW_BONUS_YIELD@3
+Expert's Faction Silver Bag:accessories:5:T5_BAG_FW_BONUS_SILVER
+Expert's Faction Silver Bag:accessories:5:T5_BAG_FW_BONUS_SILVER@1
+Expert's Faction Silver Bag:accessories:5:T5_BAG_FW_BONUS_SILVER@2
+Expert's Faction Silver Bag:accessories:5:T5_BAG_FW_BONUS_SILVER@3
+Expert's Bag:accessories:5:T5_BAG
+Expert's Bag:accessories:5:T5_BAG@1
+Expert's Bag:accessories:5:T5_BAG@2
+Expert's Bag:accessories:5:T5_BAG@3
+Master's Cape:accessories:6:T6_CAPE
+Master's Cape:accessories:6:T6_CAPE@1
+Master's Cape:accessories:6:T6_CAPE@2
+Master's Cape:accessories:6:T6_CAPE@3
+Master's Bridgewatch Cape:accessories:6:T6_CAPEITEM_FW_BRIDGEWATCH
+Master's Bridgewatch Cape:accessories:6:T6_CAPEITEM_FW_BRIDGEWATCH@1
+Master's Bridgewatch Cape:accessories:6:T6_CAPEITEM_FW_BRIDGEWATCH@2
+Master's Bridgewatch Cape:accessories:6:T6_CAPEITEM_FW_BRIDGEWATCH@3
+Master's Fort Sterling Cape:accessories:6:T6_CAPEITEM_FW_FORTSTERLING
+Master's Fort Sterling Cape:accessories:6:T6_CAPEITEM_FW_FORTSTERLING@1
+Master's Fort Sterling Cape:accessories:6:T6_CAPEITEM_FW_FORTSTERLING@2
+Master's Fort Sterling Cape:accessories:6:T6_CAPEITEM_FW_FORTSTERLING@3
+Master's Lymhurst Cape:accessories:6:T6_CAPEITEM_FW_LYMHURST
+Master's Lymhurst Cape:accessories:6:T6_CAPEITEM_FW_LYMHURST@1
+Master's Lymhurst Cape:accessories:6:T6_CAPEITEM_FW_LYMHURST@2
+Master's Lymhurst Cape:accessories:6:T6_CAPEITEM_FW_LYMHURST@3
+Master's Martlock Cape:accessories:6:T6_CAPEITEM_FW_MARTLOCK
+Master's Martlock Cape:accessories:6:T6_CAPEITEM_FW_MARTLOCK@1
+Master's Martlock Cape:accessories:6:T6_CAPEITEM_FW_MARTLOCK@2
+Master's Martlock Cape:accessories:6:T6_CAPEITEM_FW_MARTLOCK@3
+Master's Thetford Cape:accessories:6:T6_CAPEITEM_FW_THETFORD
+Master's Thetford Cape:accessories:6:T6_CAPEITEM_FW_THETFORD@1
+Master's Thetford Cape:accessories:6:T6_CAPEITEM_FW_THETFORD@2
+Master's Thetford Cape:accessories:6:T6_CAPEITEM_FW_THETFORD@3
+Master's Heretic Cape:accessories:6:T6_CAPEITEM_HERETIC
+Master's Heretic Cape:accessories:6:T6_CAPEITEM_HERETIC@1
+Master's Heretic Cape:accessories:6:T6_CAPEITEM_HERETIC@2
+Master's Heretic Cape:accessories:6:T6_CAPEITEM_HERETIC@3
+Master's Undead Cape:accessories:6:T6_CAPEITEM_UNDEAD
+Master's Undead Cape:accessories:6:T6_CAPEITEM_UNDEAD@1
+Master's Undead Cape:accessories:6:T6_CAPEITEM_UNDEAD@2
+Master's Undead Cape:accessories:6:T6_CAPEITEM_UNDEAD@3
+Master's Keeper Cape:accessories:6:T6_CAPEITEM_KEEPER
+Master's Keeper Cape:accessories:6:T6_CAPEITEM_KEEPER@1
+Master's Keeper Cape:accessories:6:T6_CAPEITEM_KEEPER@2
+Master's Keeper Cape:accessories:6:T6_CAPEITEM_KEEPER@3
+Master's Morgana Cape:accessories:6:T6_CAPEITEM_MORGANA
+Master's Morgana Cape:accessories:6:T6_CAPEITEM_MORGANA@1
+Master's Morgana Cape:accessories:6:T6_CAPEITEM_MORGANA@2
+Master's Morgana Cape:accessories:6:T6_CAPEITEM_MORGANA@3
+Master's Demon Cape:accessories:6:T6_CAPEITEM_DEMON
+Master's Demon Cape:accessories:6:T6_CAPEITEM_DEMON@1
+Master's Demon Cape:accessories:6:T6_CAPEITEM_DEMON@2
+Master's Demon Cape:accessories:6:T6_CAPEITEM_DEMON@3
+Master's Faction Fame Bag:accessories:6:T6_BAG_FW_BONUS_FAME
+Master's Faction Fame Bag:accessories:6:T6_BAG_FW_BONUS_FAME@1
+Master's Faction Fame Bag:accessories:6:T6_BAG_FW_BONUS_FAME@2
+Master's Faction Fame Bag:accessories:6:T6_BAG_FW_BONUS_FAME@3
+Master's Faction Yield Bag:accessories:6:T6_BAG_FW_BONUS_YIELD
+Master's Faction Yield Bag:accessories:6:T6_BAG_FW_BONUS_YIELD@1
+Master's Faction Yield Bag:accessories:6:T6_BAG_FW_BONUS_YIELD@2
+Master's Faction Yield Bag:accessories:6:T6_BAG_FW_BONUS_YIELD@3
+Master's Faction Silver Bag:accessories:6:T6_BAG_FW_BONUS_SILVER
+Master's Faction Silver Bag:accessories:6:T6_BAG_FW_BONUS_SILVER@1
+Master's Faction Silver Bag:accessories:6:T6_BAG_FW_BONUS_SILVER@2
+Master's Faction Silver Bag:accessories:6:T6_BAG_FW_BONUS_SILVER@3
+Master's Bag:accessories:6:T6_BAG
+Master's Bag:accessories:6:T6_BAG@1
+Master's Bag:accessories:6:T6_BAG@2
+Master's Bag:accessories:6:T6_BAG@3
+Decorative Undead Platemail Cape:accessories:6:T6_CAPE_PLATE_UNDEAD
+Decorative Undead Leather Cape:accessories:6:T6_CAPE_LEATHER_UNDEAD
+Decorative Undead Cloth Cape:accessories:6:T6_CAPE_CLOTH_UNDEAD
+Decorative Keeper Platemail Cape:accessories:6:T6_CAPE_PLATE_KEEPER
+Decorative Keeper Leather Cape:accessories:6:T6_CAPE_LEATHER_KEEPER
+Decorative Keeper Cloth Cape:accessories:6:T6_CAPE_CLOTH_KEEPER
+Decorative Morgana Platemail Cape:accessories:6:T6_CAPE_PLATE_MORGANA
+Decorative Morgana Leather Cape:accessories:6:T6_CAPE_LEATHER_MORGANA
+Decorative Morgana Cloth Cape:accessories:6:T6_CAPE_CLOTH_MORGANA
+Arena Veteran's Medium Banner:accessories:6:T6_CAPE_ARENA_BANNER
+Grandmaster's Cape:accessories:7:T7_CAPE
+Grandmaster's Cape:accessories:7:T7_CAPE@1
+Grandmaster's Cape:accessories:7:T7_CAPE@2
+Grandmaster's Cape:accessories:7:T7_CAPE@3
+Grandmaster's Bridgewatch Cape:accessories:7:T7_CAPEITEM_FW_BRIDGEWATCH
+Grandmaster's Bridgewatch Cape:accessories:7:T7_CAPEITEM_FW_BRIDGEWATCH@1
+Grandmaster's Bridgewatch Cape:accessories:7:T7_CAPEITEM_FW_BRIDGEWATCH@2
+Grandmaster's Bridgewatch Cape:accessories:7:T7_CAPEITEM_FW_BRIDGEWATCH@3
+Grandmaster's Fort Sterling Cape:accessories:7:T7_CAPEITEM_FW_FORTSTERLING
+Grandmaster's Fort Sterling Cape:accessories:7:T7_CAPEITEM_FW_FORTSTERLING@1
+Grandmaster's Fort Sterling Cape:accessories:7:T7_CAPEITEM_FW_FORTSTERLING@2
+Grandmaster's Fort Sterling Cape:accessories:7:T7_CAPEITEM_FW_FORTSTERLING@3
+Grandmaster's Lymhurst Cape:accessories:7:T7_CAPEITEM_FW_LYMHURST
+Grandmaster's Lymhurst Cape:accessories:7:T7_CAPEITEM_FW_LYMHURST@1
+Grandmaster's Lymhurst Cape:accessories:7:T7_CAPEITEM_FW_LYMHURST@2
+Grandmaster's Lymhurst Cape:accessories:7:T7_CAPEITEM_FW_LYMHURST@3
+Grandmaster's Martlock Cape:accessories:7:T7_CAPEITEM_FW_MARTLOCK
+Grandmaster's Martlock Cape:accessories:7:T7_CAPEITEM_FW_MARTLOCK@1
+Grandmaster's Martlock Cape:accessories:7:T7_CAPEITEM_FW_MARTLOCK@2
+Grandmaster's Martlock Cape:accessories:7:T7_CAPEITEM_FW_MARTLOCK@3
+Grandmaster's Thetford Cape:accessories:7:T7_CAPEITEM_FW_THETFORD
+Grandmaster's Thetford Cape:accessories:7:T7_CAPEITEM_FW_THETFORD@1
+Grandmaster's Thetford Cape:accessories:7:T7_CAPEITEM_FW_THETFORD@2
+Grandmaster's Thetford Cape:accessories:7:T7_CAPEITEM_FW_THETFORD@3
+Grandmaster's Heretic Cape:accessories:7:T7_CAPEITEM_HERETIC
+Grandmaster's Heretic Cape:accessories:7:T7_CAPEITEM_HERETIC@1
+Grandmaster's Heretic Cape:accessories:7:T7_CAPEITEM_HERETIC@2
+Grandmaster's Heretic Cape:accessories:7:T7_CAPEITEM_HERETIC@3
+Grandmaster's Undead Cape:accessories:7:T7_CAPEITEM_UNDEAD
+Grandmaster's Undead Cape:accessories:7:T7_CAPEITEM_UNDEAD@1
+Grandmaster's Undead Cape:accessories:7:T7_CAPEITEM_UNDEAD@2
+Grandmaster's Undead Cape:accessories:7:T7_CAPEITEM_UNDEAD@3
+Grandmaster's Keeper Cape:accessories:7:T7_CAPEITEM_KEEPER
+Grandmaster's Keeper Cape:accessories:7:T7_CAPEITEM_KEEPER@1
+Grandmaster's Keeper Cape:accessories:7:T7_CAPEITEM_KEEPER@2
+Grandmaster's Keeper Cape:accessories:7:T7_CAPEITEM_KEEPER@3
+Grandmaster's Morgana Cape:accessories:7:T7_CAPEITEM_MORGANA
+Grandmaster's Morgana Cape:accessories:7:T7_CAPEITEM_MORGANA@1
+Grandmaster's Morgana Cape:accessories:7:T7_CAPEITEM_MORGANA@2
+Grandmaster's Morgana Cape:accessories:7:T7_CAPEITEM_MORGANA@3
+Grandmaster's Demon Cape:accessories:7:T7_CAPEITEM_DEMON
+Grandmaster's Demon Cape:accessories:7:T7_CAPEITEM_DEMON@1
+Grandmaster's Demon Cape:accessories:7:T7_CAPEITEM_DEMON@2
+Grandmaster's Demon Cape:accessories:7:T7_CAPEITEM_DEMON@3
+Grandmaster's Faction Fame Bag:accessories:7:T7_BAG_FW_BONUS_FAME
+Grandmaster's Faction Fame Bag:accessories:7:T7_BAG_FW_BONUS_FAME@1
+Grandmaster's Faction Fame Bag:accessories:7:T7_BAG_FW_BONUS_FAME@2
+Grandmaster's Faction Fame Bag:accessories:7:T7_BAG_FW_BONUS_FAME@3
+Grandmaster's Faction Yield Bag:accessories:7:T7_BAG_FW_BONUS_YIELD
+Grandmaster's Faction Yield Bag:accessories:7:T7_BAG_FW_BONUS_YIELD@1
+Grandmaster's Faction Yield Bag:accessories:7:T7_BAG_FW_BONUS_YIELD@2
+Grandmaster's Faction Yield Bag:accessories:7:T7_BAG_FW_BONUS_YIELD@3
+Grandmaster's Faction Silver Bag:accessories:7:T7_BAG_FW_BONUS_SILVER
+Grandmaster's Faction Silver Bag:accessories:7:T7_BAG_FW_BONUS_SILVER@1
+Grandmaster's Faction Silver Bag:accessories:7:T7_BAG_FW_BONUS_SILVER@2
+Grandmaster's Faction Silver Bag:accessories:7:T7_BAG_FW_BONUS_SILVER@3
+Grandmaster's Bag:accessories:7:T7_BAG
+Grandmaster's Bag:accessories:7:T7_BAG@1
+Grandmaster's Bag:accessories:7:T7_BAG@2
+Grandmaster's Bag:accessories:7:T7_BAG@3
+Elder's Cape:accessories:8:T8_CAPE
+Elder's Cape:accessories:8:T8_CAPE@1
+Elder's Cape:accessories:8:T8_CAPE@2
+Elder's Cape:accessories:8:T8_CAPE@3
+Elder's Bridgewatch Cape:accessories:8:T8_CAPEITEM_FW_BRIDGEWATCH
+Elder's Bridgewatch Cape:accessories:8:T8_CAPEITEM_FW_BRIDGEWATCH@1
+Elder's Bridgewatch Cape:accessories:8:T8_CAPEITEM_FW_BRIDGEWATCH@2
+Elder's Bridgewatch Cape:accessories:8:T8_CAPEITEM_FW_BRIDGEWATCH@3
+Elder's Fort Sterling Cape:accessories:8:T8_CAPEITEM_FW_FORTSTERLING
+Elder's Fort Sterling Cape:accessories:8:T8_CAPEITEM_FW_FORTSTERLING@1
+Elder's Fort Sterling Cape:accessories:8:T8_CAPEITEM_FW_FORTSTERLING@2
+Elder's Fort Sterling Cape:accessories:8:T8_CAPEITEM_FW_FORTSTERLING@3
+Elder's Lymhurst Cape:accessories:8:T8_CAPEITEM_FW_LYMHURST
+Elder's Lymhurst Cape:accessories:8:T8_CAPEITEM_FW_LYMHURST@1
+Elder's Lymhurst Cape:accessories:8:T8_CAPEITEM_FW_LYMHURST@2
+Elder's Lymhurst Cape:accessories:8:T8_CAPEITEM_FW_LYMHURST@3
+Elder's Martlock Cape:accessories:8:T8_CAPEITEM_FW_MARTLOCK
+Elder's Martlock Cape:accessories:8:T8_CAPEITEM_FW_MARTLOCK@1
+Elder's Martlock Cape:accessories:8:T8_CAPEITEM_FW_MARTLOCK@2
+Elder's Martlock Cape:accessories:8:T8_CAPEITEM_FW_MARTLOCK@3
+Elder's Thetford Cape:accessories:8:T8_CAPEITEM_FW_THETFORD
+Elder's Thetford Cape:accessories:8:T8_CAPEITEM_FW_THETFORD@1
+Elder's Thetford Cape:accessories:8:T8_CAPEITEM_FW_THETFORD@2
+Elder's Thetford Cape:accessories:8:T8_CAPEITEM_FW_THETFORD@3
+Elder's Heretic Cape:accessories:8:T8_CAPEITEM_HERETIC
+Elder's Heretic Cape:accessories:8:T8_CAPEITEM_HERETIC@1
+Elder's Heretic Cape:accessories:8:T8_CAPEITEM_HERETIC@2
+Elder's Heretic Cape:accessories:8:T8_CAPEITEM_HERETIC@3
+Elder's Undead Cape:accessories:8:T8_CAPEITEM_UNDEAD
+Elder's Undead Cape:accessories:8:T8_CAPEITEM_UNDEAD@1
+Elder's Undead Cape:accessories:8:T8_CAPEITEM_UNDEAD@2
+Elder's Undead Cape:accessories:8:T8_CAPEITEM_UNDEAD@3
+Elder's Keeper Cape:accessories:8:T8_CAPEITEM_KEEPER
+Elder's Keeper Cape:accessories:8:T8_CAPEITEM_KEEPER@1
+Elder's Keeper Cape:accessories:8:T8_CAPEITEM_KEEPER@2
+Elder's Keeper Cape:accessories:8:T8_CAPEITEM_KEEPER@3
+Elder's Morgana Cape:accessories:8:T8_CAPEITEM_MORGANA
+Elder's Morgana Cape:accessories:8:T8_CAPEITEM_MORGANA@1
+Elder's Morgana Cape:accessories:8:T8_CAPEITEM_MORGANA@2
+Elder's Morgana Cape:accessories:8:T8_CAPEITEM_MORGANA@3
+Elder's Demon Cape:accessories:8:T8_CAPEITEM_DEMON
+Elder's Demon Cape:accessories:8:T8_CAPEITEM_DEMON@1
+Elder's Demon Cape:accessories:8:T8_CAPEITEM_DEMON@2
+Elder's Demon Cape:accessories:8:T8_CAPEITEM_DEMON@3
+Elder's Faction Fame Bag:accessories:8:T8_BAG_FW_BONUS_FAME
+Elder's Faction Fame Bag:accessories:8:T8_BAG_FW_BONUS_FAME@1
+Elder's Faction Fame Bag:accessories:8:T8_BAG_FW_BONUS_FAME@2
+Elder's Faction Fame Bag:accessories:8:T8_BAG_FW_BONUS_FAME@3
+Elder's Faction Yield Bag:accessories:8:T8_BAG_FW_BONUS_YIELD
+Elder's Faction Yield Bag:accessories:8:T8_BAG_FW_BONUS_YIELD@1
+Elder's Faction Yield Bag:accessories:8:T8_BAG_FW_BONUS_YIELD@2
+Elder's Faction Yield Bag:accessories:8:T8_BAG_FW_BONUS_YIELD@3
+Elder's Faction Silver Bag:accessories:8:T8_BAG_FW_BONUS_SILVER
+Elder's Faction Silver Bag:accessories:8:T8_BAG_FW_BONUS_SILVER@1
+Elder's Faction Silver Bag:accessories:8:T8_BAG_FW_BONUS_SILVER@2
+Elder's Faction Silver Bag:accessories:8:T8_BAG_FW_BONUS_SILVER@3
+Elder's Bag:accessories:8:T8_BAG
+Elder's Bag:accessories:8:T8_BAG@1
+Elder's Bag:accessories:8:T8_BAG@2
+Elder's Bag:accessories:8:T8_BAG@3
+Arena Veteran's Large Banner:accessories:8:T8_CAPE_ARENA_BANNER

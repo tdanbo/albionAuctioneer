@@ -1,0 +1,252 @@
+Beginner's Shield:offhand:1:T1_OFF_SHIELD
+Novice's Shield:offhand:2:T2_OFF_SHIELD
+Novice's Tome of Spells:offhand:2:T2_OFF_BOOK
+Journeyman's Shield:offhand:3:T3_OFF_SHIELD
+Journeyman's Tome of Spells:offhand:3:T3_OFF_BOOK
+Journeyman's Torch:offhand:3:T3_OFF_TORCH
+Bridal Bouquet:offhand:3:UNIQUE_OFF_VANITY_WEDDING_DRESS
+Wedding Ring:offhand:3:UNIQUE_OFF_VANITY_WEDDING_TUXEDO
+UNIQUE_OFF_VANITY_PRIEST:offhand:3:UNIQUE_OFF_VANITY_PRIEST
+UNIQUE_OFF_VANITY_INNKEEPER:offhand:3:UNIQUE_OFF_VANITY_INNKEEPER
+Navigator's Parrot Cage:offhand:3:UNIQUE_OFF_VANITY_PIRATE
+Adept's Shield:offhand:4:T4_OFF_SHIELD
+Adept's Shield:offhand:4:T4_OFF_SHIELD@1
+Adept's Shield:offhand:4:T4_OFF_SHIELD@2
+Adept's Shield:offhand:4:T4_OFF_SHIELD@3
+Adept's Sarcophagus:offhand:4:T4_OFF_TOWERSHIELD_UNDEAD
+Adept's Sarcophagus:offhand:4:T4_OFF_TOWERSHIELD_UNDEAD@1
+Adept's Sarcophagus:offhand:4:T4_OFF_TOWERSHIELD_UNDEAD@2
+Adept's Sarcophagus:offhand:4:T4_OFF_TOWERSHIELD_UNDEAD@3
+Adept's Caitiff Shield:offhand:4:T4_OFF_SHIELD_HELL
+Adept's Caitiff Shield:offhand:4:T4_OFF_SHIELD_HELL@1
+Adept's Caitiff Shield:offhand:4:T4_OFF_SHIELD_HELL@2
+Adept's Caitiff Shield:offhand:4:T4_OFF_SHIELD_HELL@3
+Adept's Facebreaker:offhand:4:T4_OFF_SPIKEDSHIELD_MORGANA
+Adept's Facebreaker:offhand:4:T4_OFF_SPIKEDSHIELD_MORGANA@1
+Adept's Facebreaker:offhand:4:T4_OFF_SPIKEDSHIELD_MORGANA@2
+Adept's Facebreaker:offhand:4:T4_OFF_SPIKEDSHIELD_MORGANA@3
+Adept's Tome of Spells:offhand:4:T4_OFF_BOOK
+Adept's Tome of Spells:offhand:4:T4_OFF_BOOK@1
+Adept's Tome of Spells:offhand:4:T4_OFF_BOOK@2
+Adept's Tome of Spells:offhand:4:T4_OFF_BOOK@3
+Adept's Eye of Secrets:offhand:4:T4_OFF_ORB_MORGANA
+Adept's Eye of Secrets:offhand:4:T4_OFF_ORB_MORGANA@1
+Adept's Eye of Secrets:offhand:4:T4_OFF_ORB_MORGANA@2
+Adept's Eye of Secrets:offhand:4:T4_OFF_ORB_MORGANA@3
+Adept's Muisak:offhand:4:T4_OFF_DEMONSKULL_HELL
+Adept's Muisak:offhand:4:T4_OFF_DEMONSKULL_HELL@1
+Adept's Muisak:offhand:4:T4_OFF_DEMONSKULL_HELL@2
+Adept's Muisak:offhand:4:T4_OFF_DEMONSKULL_HELL@3
+Adept's Taproot:offhand:4:T4_OFF_TOTEM_KEEPER
+Adept's Taproot:offhand:4:T4_OFF_TOTEM_KEEPER@1
+Adept's Taproot:offhand:4:T4_OFF_TOTEM_KEEPER@2
+Adept's Taproot:offhand:4:T4_OFF_TOTEM_KEEPER@3
+Adept's Torch:offhand:4:T4_OFF_TORCH
+Adept's Torch:offhand:4:T4_OFF_TORCH@1
+Adept's Torch:offhand:4:T4_OFF_TORCH@2
+Adept's Torch:offhand:4:T4_OFF_TORCH@3
+Adept's Mistcaller:offhand:4:T4_OFF_HORN_KEEPER
+Adept's Mistcaller:offhand:4:T4_OFF_HORN_KEEPER@1
+Adept's Mistcaller:offhand:4:T4_OFF_HORN_KEEPER@2
+Adept's Mistcaller:offhand:4:T4_OFF_HORN_KEEPER@3
+Adept's Leering Cane:offhand:4:T4_OFF_JESTERCANE_HELL
+Adept's Leering Cane:offhand:4:T4_OFF_JESTERCANE_HELL@1
+Adept's Leering Cane:offhand:4:T4_OFF_JESTERCANE_HELL@2
+Adept's Leering Cane:offhand:4:T4_OFF_JESTERCANE_HELL@3
+Adept's Cryptcandle:offhand:4:T4_OFF_LAMP_UNDEAD
+Adept's Cryptcandle:offhand:4:T4_OFF_LAMP_UNDEAD@1
+Adept's Cryptcandle:offhand:4:T4_OFF_LAMP_UNDEAD@2
+Adept's Cryptcandle:offhand:4:T4_OFF_LAMP_UNDEAD@3
+Scroll of the Law:offhand:4:UNIQUE_INTERNAL_OFF_SCROLL_GAMEMASTER
+Expert's Shield:offhand:5:T5_OFF_SHIELD
+Expert's Shield:offhand:5:T5_OFF_SHIELD@1
+Expert's Shield:offhand:5:T5_OFF_SHIELD@2
+Expert's Shield:offhand:5:T5_OFF_SHIELD@3
+Expert's Sarcophagus:offhand:5:T5_OFF_TOWERSHIELD_UNDEAD
+Expert's Sarcophagus:offhand:5:T5_OFF_TOWERSHIELD_UNDEAD@1
+Expert's Sarcophagus:offhand:5:T5_OFF_TOWERSHIELD_UNDEAD@2
+Expert's Sarcophagus:offhand:5:T5_OFF_TOWERSHIELD_UNDEAD@3
+Expert's Caitiff Shield:offhand:5:T5_OFF_SHIELD_HELL
+Expert's Caitiff Shield:offhand:5:T5_OFF_SHIELD_HELL@1
+Expert's Caitiff Shield:offhand:5:T5_OFF_SHIELD_HELL@2
+Expert's Caitiff Shield:offhand:5:T5_OFF_SHIELD_HELL@3
+Expert's Facebreaker:offhand:5:T5_OFF_SPIKEDSHIELD_MORGANA
+Expert's Facebreaker:offhand:5:T5_OFF_SPIKEDSHIELD_MORGANA@1
+Expert's Facebreaker:offhand:5:T5_OFF_SPIKEDSHIELD_MORGANA@2
+Expert's Facebreaker:offhand:5:T5_OFF_SPIKEDSHIELD_MORGANA@3
+Expert's Tome of Spells:offhand:5:T5_OFF_BOOK
+Expert's Tome of Spells:offhand:5:T5_OFF_BOOK@1
+Expert's Tome of Spells:offhand:5:T5_OFF_BOOK@2
+Expert's Tome of Spells:offhand:5:T5_OFF_BOOK@3
+Expert's Eye of Secrets:offhand:5:T5_OFF_ORB_MORGANA
+Expert's Eye of Secrets:offhand:5:T5_OFF_ORB_MORGANA@1
+Expert's Eye of Secrets:offhand:5:T5_OFF_ORB_MORGANA@2
+Expert's Eye of Secrets:offhand:5:T5_OFF_ORB_MORGANA@3
+Expert's Muisak:offhand:5:T5_OFF_DEMONSKULL_HELL
+Expert's Muisak:offhand:5:T5_OFF_DEMONSKULL_HELL@1
+Expert's Muisak:offhand:5:T5_OFF_DEMONSKULL_HELL@2
+Expert's Muisak:offhand:5:T5_OFF_DEMONSKULL_HELL@3
+Expert's Taproot:offhand:5:T5_OFF_TOTEM_KEEPER
+Expert's Taproot:offhand:5:T5_OFF_TOTEM_KEEPER@1
+Expert's Taproot:offhand:5:T5_OFF_TOTEM_KEEPER@2
+Expert's Taproot:offhand:5:T5_OFF_TOTEM_KEEPER@3
+Expert's Torch:offhand:5:T5_OFF_TORCH
+Expert's Torch:offhand:5:T5_OFF_TORCH@1
+Expert's Torch:offhand:5:T5_OFF_TORCH@2
+Expert's Torch:offhand:5:T5_OFF_TORCH@3
+Expert's Mistcaller:offhand:5:T5_OFF_HORN_KEEPER
+Expert's Mistcaller:offhand:5:T5_OFF_HORN_KEEPER@1
+Expert's Mistcaller:offhand:5:T5_OFF_HORN_KEEPER@2
+Expert's Mistcaller:offhand:5:T5_OFF_HORN_KEEPER@3
+Expert's Leering Cane:offhand:5:T5_OFF_JESTERCANE_HELL
+Expert's Leering Cane:offhand:5:T5_OFF_JESTERCANE_HELL@1
+Expert's Leering Cane:offhand:5:T5_OFF_JESTERCANE_HELL@2
+Expert's Leering Cane:offhand:5:T5_OFF_JESTERCANE_HELL@3
+Expert's Cryptcandle:offhand:5:T5_OFF_LAMP_UNDEAD
+Expert's Cryptcandle:offhand:5:T5_OFF_LAMP_UNDEAD@1
+Expert's Cryptcandle:offhand:5:T5_OFF_LAMP_UNDEAD@2
+Expert's Cryptcandle:offhand:5:T5_OFF_LAMP_UNDEAD@3
+Master's Shield:offhand:6:T6_OFF_SHIELD
+Master's Shield:offhand:6:T6_OFF_SHIELD@1
+Master's Shield:offhand:6:T6_OFF_SHIELD@2
+Master's Shield:offhand:6:T6_OFF_SHIELD@3
+Master's Sarcophagus:offhand:6:T6_OFF_TOWERSHIELD_UNDEAD
+Master's Sarcophagus:offhand:6:T6_OFF_TOWERSHIELD_UNDEAD@1
+Master's Sarcophagus:offhand:6:T6_OFF_TOWERSHIELD_UNDEAD@2
+Master's Sarcophagus:offhand:6:T6_OFF_TOWERSHIELD_UNDEAD@3
+Master's Caitiff Shield:offhand:6:T6_OFF_SHIELD_HELL
+Master's Caitiff Shield:offhand:6:T6_OFF_SHIELD_HELL@1
+Master's Caitiff Shield:offhand:6:T6_OFF_SHIELD_HELL@2
+Master's Caitiff Shield:offhand:6:T6_OFF_SHIELD_HELL@3
+Master's Facebreaker:offhand:6:T6_OFF_SPIKEDSHIELD_MORGANA
+Master's Facebreaker:offhand:6:T6_OFF_SPIKEDSHIELD_MORGANA@1
+Master's Facebreaker:offhand:6:T6_OFF_SPIKEDSHIELD_MORGANA@2
+Master's Facebreaker:offhand:6:T6_OFF_SPIKEDSHIELD_MORGANA@3
+Master's Tome of Spells:offhand:6:T6_OFF_BOOK
+Master's Tome of Spells:offhand:6:T6_OFF_BOOK@1
+Master's Tome of Spells:offhand:6:T6_OFF_BOOK@2
+Master's Tome of Spells:offhand:6:T6_OFF_BOOK@3
+Master's Eye of Secrets:offhand:6:T6_OFF_ORB_MORGANA
+Master's Eye of Secrets:offhand:6:T6_OFF_ORB_MORGANA@1
+Master's Eye of Secrets:offhand:6:T6_OFF_ORB_MORGANA@2
+Master's Eye of Secrets:offhand:6:T6_OFF_ORB_MORGANA@3
+Master's Muisak:offhand:6:T6_OFF_DEMONSKULL_HELL
+Master's Muisak:offhand:6:T6_OFF_DEMONSKULL_HELL@1
+Master's Muisak:offhand:6:T6_OFF_DEMONSKULL_HELL@2
+Master's Muisak:offhand:6:T6_OFF_DEMONSKULL_HELL@3
+Master's Taproot:offhand:6:T6_OFF_TOTEM_KEEPER
+Master's Taproot:offhand:6:T6_OFF_TOTEM_KEEPER@1
+Master's Taproot:offhand:6:T6_OFF_TOTEM_KEEPER@2
+Master's Taproot:offhand:6:T6_OFF_TOTEM_KEEPER@3
+Master's Torch:offhand:6:T6_OFF_TORCH
+Master's Torch:offhand:6:T6_OFF_TORCH@1
+Master's Torch:offhand:6:T6_OFF_TORCH@2
+Master's Torch:offhand:6:T6_OFF_TORCH@3
+Master's Mistcaller:offhand:6:T6_OFF_HORN_KEEPER
+Master's Mistcaller:offhand:6:T6_OFF_HORN_KEEPER@1
+Master's Mistcaller:offhand:6:T6_OFF_HORN_KEEPER@2
+Master's Mistcaller:offhand:6:T6_OFF_HORN_KEEPER@3
+Master's Leering Cane:offhand:6:T6_OFF_JESTERCANE_HELL
+Master's Leering Cane:offhand:6:T6_OFF_JESTERCANE_HELL@1
+Master's Leering Cane:offhand:6:T6_OFF_JESTERCANE_HELL@2
+Master's Leering Cane:offhand:6:T6_OFF_JESTERCANE_HELL@3
+Master's Cryptcandle:offhand:6:T6_OFF_LAMP_UNDEAD
+Master's Cryptcandle:offhand:6:T6_OFF_LAMP_UNDEAD@1
+Master's Cryptcandle:offhand:6:T6_OFF_LAMP_UNDEAD@2
+Master's Cryptcandle:offhand:6:T6_OFF_LAMP_UNDEAD@3
+Grandmaster's Shield:offhand:7:T7_OFF_SHIELD
+Grandmaster's Shield:offhand:7:T7_OFF_SHIELD@1
+Grandmaster's Shield:offhand:7:T7_OFF_SHIELD@2
+Grandmaster's Shield:offhand:7:T7_OFF_SHIELD@3
+Grandmaster's Sarcophagus:offhand:7:T7_OFF_TOWERSHIELD_UNDEAD
+Grandmaster's Sarcophagus:offhand:7:T7_OFF_TOWERSHIELD_UNDEAD@1
+Grandmaster's Sarcophagus:offhand:7:T7_OFF_TOWERSHIELD_UNDEAD@2
+Grandmaster's Sarcophagus:offhand:7:T7_OFF_TOWERSHIELD_UNDEAD@3
+Grandmaster's Caitiff Shield:offhand:7:T7_OFF_SHIELD_HELL
+Grandmaster's Caitiff Shield:offhand:7:T7_OFF_SHIELD_HELL@1
+Grandmaster's Caitiff Shield:offhand:7:T7_OFF_SHIELD_HELL@2
+Grandmaster's Caitiff Shield:offhand:7:T7_OFF_SHIELD_HELL@3
+Grandmaster's Facebreaker:offhand:7:T7_OFF_SPIKEDSHIELD_MORGANA
+Grandmaster's Facebreaker:offhand:7:T7_OFF_SPIKEDSHIELD_MORGANA@1
+Grandmaster's Facebreaker:offhand:7:T7_OFF_SPIKEDSHIELD_MORGANA@2
+Grandmaster's Facebreaker:offhand:7:T7_OFF_SPIKEDSHIELD_MORGANA@3
+Grandmaster's Tome of Spells:offhand:7:T7_OFF_BOOK
+Grandmaster's Tome of Spells:offhand:7:T7_OFF_BOOK@1
+Grandmaster's Tome of Spells:offhand:7:T7_OFF_BOOK@2
+Grandmaster's Tome of Spells:offhand:7:T7_OFF_BOOK@3
+Grandmaster's Eye of Secrets:offhand:7:T7_OFF_ORB_MORGANA
+Grandmaster's Eye of Secrets:offhand:7:T7_OFF_ORB_MORGANA@1
+Grandmaster's Eye of Secrets:offhand:7:T7_OFF_ORB_MORGANA@2
+Grandmaster's Eye of Secrets:offhand:7:T7_OFF_ORB_MORGANA@3
+Grandmaster's Muisak:offhand:7:T7_OFF_DEMONSKULL_HELL
+Grandmaster's Muisak:offhand:7:T7_OFF_DEMONSKULL_HELL@1
+Grandmaster's Muisak:offhand:7:T7_OFF_DEMONSKULL_HELL@2
+Grandmaster's Muisak:offhand:7:T7_OFF_DEMONSKULL_HELL@3
+Grandmaster's Taproot:offhand:7:T7_OFF_TOTEM_KEEPER
+Grandmaster's Taproot:offhand:7:T7_OFF_TOTEM_KEEPER@1
+Grandmaster's Taproot:offhand:7:T7_OFF_TOTEM_KEEPER@2
+Grandmaster's Taproot:offhand:7:T7_OFF_TOTEM_KEEPER@3
+Grandmaster's Torch:offhand:7:T7_OFF_TORCH
+Grandmaster's Torch:offhand:7:T7_OFF_TORCH@1
+Grandmaster's Torch:offhand:7:T7_OFF_TORCH@2
+Grandmaster's Torch:offhand:7:T7_OFF_TORCH@3
+Grandmaster's Mistcaller:offhand:7:T7_OFF_HORN_KEEPER
+Grandmaster's Mistcaller:offhand:7:T7_OFF_HORN_KEEPER@1
+Grandmaster's Mistcaller:offhand:7:T7_OFF_HORN_KEEPER@2
+Grandmaster's Mistcaller:offhand:7:T7_OFF_HORN_KEEPER@3
+Grandmaster's Leering Cane:offhand:7:T7_OFF_JESTERCANE_HELL
+Grandmaster's Leering Cane:offhand:7:T7_OFF_JESTERCANE_HELL@1
+Grandmaster's Leering Cane:offhand:7:T7_OFF_JESTERCANE_HELL@2
+Grandmaster's Leering Cane:offhand:7:T7_OFF_JESTERCANE_HELL@3
+Grandmaster's Cryptcandle:offhand:7:T7_OFF_LAMP_UNDEAD
+Grandmaster's Cryptcandle:offhand:7:T7_OFF_LAMP_UNDEAD@1
+Grandmaster's Cryptcandle:offhand:7:T7_OFF_LAMP_UNDEAD@2
+Grandmaster's Cryptcandle:offhand:7:T7_OFF_LAMP_UNDEAD@3
+Elder's Shield:offhand:8:T8_OFF_SHIELD
+Elder's Shield:offhand:8:T8_OFF_SHIELD@1
+Elder's Shield:offhand:8:T8_OFF_SHIELD@2
+Elder's Shield:offhand:8:T8_OFF_SHIELD@3
+Elder's Sarcophagus:offhand:8:T8_OFF_TOWERSHIELD_UNDEAD
+Elder's Sarcophagus:offhand:8:T8_OFF_TOWERSHIELD_UNDEAD@1
+Elder's Sarcophagus:offhand:8:T8_OFF_TOWERSHIELD_UNDEAD@2
+Elder's Sarcophagus:offhand:8:T8_OFF_TOWERSHIELD_UNDEAD@3
+Elder's Caitiff Shield:offhand:8:T8_OFF_SHIELD_HELL
+Elder's Caitiff Shield:offhand:8:T8_OFF_SHIELD_HELL@1
+Elder's Caitiff Shield:offhand:8:T8_OFF_SHIELD_HELL@2
+Elder's Caitiff Shield:offhand:8:T8_OFF_SHIELD_HELL@3
+Elder's Facebreaker:offhand:8:T8_OFF_SPIKEDSHIELD_MORGANA
+Elder's Facebreaker:offhand:8:T8_OFF_SPIKEDSHIELD_MORGANA@1
+Elder's Facebreaker:offhand:8:T8_OFF_SPIKEDSHIELD_MORGANA@2
+Elder's Facebreaker:offhand:8:T8_OFF_SPIKEDSHIELD_MORGANA@3
+Rosalia's Diary:offhand:8:T8_OFF_BOOK
+Rosalia's Diary:offhand:8:T8_OFF_BOOK@1
+Rosalia's Diary:offhand:8:T8_OFF_BOOK@2
+Rosalia's Diary:offhand:8:T8_OFF_BOOK@3
+Elder's Eye of Secrets:offhand:8:T8_OFF_ORB_MORGANA
+Elder's Eye of Secrets:offhand:8:T8_OFF_ORB_MORGANA@1
+Elder's Eye of Secrets:offhand:8:T8_OFF_ORB_MORGANA@2
+Elder's Eye of Secrets:offhand:8:T8_OFF_ORB_MORGANA@3
+Elder's Muisak:offhand:8:T8_OFF_DEMONSKULL_HELL
+Elder's Muisak:offhand:8:T8_OFF_DEMONSKULL_HELL@1
+Elder's Muisak:offhand:8:T8_OFF_DEMONSKULL_HELL@2
+Elder's Muisak:offhand:8:T8_OFF_DEMONSKULL_HELL@3
+Elder's Taproot:offhand:8:T8_OFF_TOTEM_KEEPER
+Elder's Taproot:offhand:8:T8_OFF_TOTEM_KEEPER@1
+Elder's Taproot:offhand:8:T8_OFF_TOTEM_KEEPER@2
+Elder's Taproot:offhand:8:T8_OFF_TOTEM_KEEPER@3
+Elder's Torch:offhand:8:T8_OFF_TORCH
+Elder's Torch:offhand:8:T8_OFF_TORCH@1
+Elder's Torch:offhand:8:T8_OFF_TORCH@2
+Elder's Torch:offhand:8:T8_OFF_TORCH@3
+Elder's Mistcaller:offhand:8:T8_OFF_HORN_KEEPER
+Elder's Mistcaller:offhand:8:T8_OFF_HORN_KEEPER@1
+Elder's Mistcaller:offhand:8:T8_OFF_HORN_KEEPER@2
+Elder's Mistcaller:offhand:8:T8_OFF_HORN_KEEPER@3
+Elder's Leering Cane:offhand:8:T8_OFF_JESTERCANE_HELL
+Elder's Leering Cane:offhand:8:T8_OFF_JESTERCANE_HELL@1
+Elder's Leering Cane:offhand:8:T8_OFF_JESTERCANE_HELL@2
+Elder's Leering Cane:offhand:8:T8_OFF_JESTERCANE_HELL@3
+Elder's Cryptcandle:offhand:8:T8_OFF_LAMP_UNDEAD
+Elder's Cryptcandle:offhand:8:T8_OFF_LAMP_UNDEAD@1
+Elder's Cryptcandle:offhand:8:T8_OFF_LAMP_UNDEAD@2
+Elder's Cryptcandle:offhand:8:T8_OFF_LAMP_UNDEAD@3

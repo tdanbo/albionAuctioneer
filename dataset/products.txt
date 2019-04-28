@@ -1,0 +1,207 @@
+Carrots:products:1:T1_CARROT
+Beans:products:2:T2_BEAN
+Arcane Agaric:products:2:T2_AGARIC
+Novice Lumberjack's Journal (Partially Full):products:2:T2_JOURNAL_WOOD
+Novice Stonecutter's Journal (Partially Full):products:2:T2_JOURNAL_STONE
+Novice Prospector's Journal (Partially Full):products:2:T2_JOURNAL_ORE
+Novice Cropper's Journal (Partially Full):products:2:T2_JOURNAL_FIBER
+Novice Gamekeeper's Journal (Partially Full):products:2:T2_JOURNAL_HIDE
+Novice Blacksmith's Journal (Partially Full):products:2:T2_JOURNAL_WARRIOR
+Novice Fletcher's Journal (Partially Full):products:2:T2_JOURNAL_HUNTER
+Novice Imbuer's Journal (Partially Full):products:2:T2_JOURNAL_MAGE
+Novice Tinker's Journal (Partially Full):products:2:T2_JOURNAL_TOOLMAKER
+Novice Mercenary's Journal (Partially Full):products:2:T2_JOURNAL_MERCENARY
+Novice's Generalist Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_GENERAL
+Novice Mercenary's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_MERCENARY
+Novice Gamekeeper's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_HIDE
+Novice Lumberjack's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_WOOD
+Novice Stonecutter's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_STONE
+Novice Prospector's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_ORE
+Novice Cropper's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_FIBER
+Novice Fisherman's Trophy Journal (Partially Full):products:2:T2_JOURNAL_TROPHY_FISHING
+Novice Fisherman's Journal (Partially Full):products:2:T2_JOURNAL_FISHING
+Journeyman's Ox:products:3:T3_FARM_OX_GROWN
+Journeyman's Horse:products:3:T3_FARM_HORSE_GROWN
+Chicken:products:3:T3_FARM_CHICKEN_GROWN
+Decorative Ram Bridle:products:3:UNIQUE_MOUNTUPGRADE_RAM_XMAS
+Sheaf of Wheat:products:3:T3_WHEAT
+Brightleaf Comfrey:products:3:T3_COMFREY
+Hen Eggs:products:3:T3_EGG
+Raw Chicken:products:3:T3_MEAT
+Flour:products:3:T3_FLOUR
+Journeyman Lumberjack's Journal (Partially Full):products:3:T3_JOURNAL_WOOD
+Journeyman Stonecutter's Journal (Partially Full):products:3:T3_JOURNAL_STONE
+Journeyman Prospector's Journal (Partially Full):products:3:T3_JOURNAL_ORE
+Journeyman Cropper's Journal (Partially Full):products:3:T3_JOURNAL_FIBER
+Journeyman Gamekeeper's Journal (Partially Full):products:3:T3_JOURNAL_HIDE
+Journeyman Blacksmith's Journal (Partially Full):products:3:T3_JOURNAL_WARRIOR
+Journeyman Fletcher's Journal (Partially Full):products:3:T3_JOURNAL_HUNTER
+Journeyman Imbuer's Journal (Partially Full):products:3:T3_JOURNAL_MAGE
+Journeyman Tinker's Journal (Partially Full):products:3:T3_JOURNAL_TOOLMAKER
+Journeyman Mercenary's Journal (Partially Full):products:3:T3_JOURNAL_MERCENARY
+Journeyman's Generalist Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_GENERAL
+Journeyman Mercenary's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_MERCENARY
+Journeyman Gamekeeper's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_HIDE
+Journeyman Lumberjack's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_WOOD
+Journeyman Stonecutter's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_STONE
+Journeyman Prospector's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_ORE
+Journeyman Cropper's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_FIBER
+Journeyman Fisherman's Trophy Journal (Partially Full):products:3:T3_JOURNAL_TROPHY_FISHING
+Journeyman Fisherman's Journal (Partially Full):products:3:T3_JOURNAL_FISHING
+Adept's Ox:products:4:T4_FARM_OX_GROWN
+Adept's Horse:products:4:T4_FARM_HORSE_GROWN
+Adept's Tame Giant Stag:products:4:T4_FARM_GIANTSTAG_GROWN
+Goat:products:4:T4_FARM_GOAT_GROWN
+Turnips:products:4:T4_TURNIP
+Crenellated Burdock:products:4:T4_BURDOCK
+Goat's Milk:products:4:T4_MILK
+Raw Goat:products:4:T4_MEAT
+Goat's Butter:products:4:T4_BUTTER
+Bread:products:4:T4_BREAD
+Adept Lumberjack's Journal (Partially Full):products:4:T4_JOURNAL_WOOD
+Adept Stonecutter's Journal (Partially Full):products:4:T4_JOURNAL_STONE
+Adept Prospector's Journal (Partially Full):products:4:T4_JOURNAL_ORE
+Adept Cropper's Journal (Partially Full):products:4:T4_JOURNAL_FIBER
+Adept Gamekeeper's Journal (Partially Full):products:4:T4_JOURNAL_HIDE
+Adept Blacksmith's Journal (Partially Full):products:4:T4_JOURNAL_WARRIOR
+Adept Fletcher's Journal (Partially Full):products:4:T4_JOURNAL_HUNTER
+Adept Imbuer's Journal (Partially Full):products:4:T4_JOURNAL_MAGE
+Adept Tinker's Journal (Partially Full):products:4:T4_JOURNAL_TOOLMAKER
+Adept Mercenary's Journal (Partially Full):products:4:T4_JOURNAL_MERCENARY
+Adept's Generalist Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_GENERAL
+Adept Mercenary's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_MERCENARY
+Adept Gamekeeper's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_HIDE
+Adept Lumberjack's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_WOOD
+Adept Stonecutter's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_STONE
+Adept Prospector's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_ORE
+Adept Cropper's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_FIBER
+Adept Fisherman's Trophy Journal (Partially Full):products:4:T4_JOURNAL_TROPHY_FISHING
+Adept Fisherman's Journal (Partially Full):products:4:T4_JOURNAL_FISHING
+Expert's Ox:products:5:T5_FARM_OX_GROWN
+Expert's Horse:products:5:T5_FARM_HORSE_GROWN
+Tame Swiftclaw:products:5:T5_FARM_COUGAR_GROWN
+Tame Moabird:products:5:T5_FARM_MOABIRD_FW_BRIDGEWATCH_GROWN
+Tame Winter Bear:products:5:T5_FARM_DIREBEAR_FW_FORTSTERLING_GROWN
+Tame Wild Boar:products:5:T5_FARM_DIREBOAR_FW_LYMHURST_GROWN
+Tame Bighorn Ram:products:5:T5_FARM_RAM_FW_MARTLOCK_GROWN
+Tame Swamp Salamander:products:5:T5_FARM_SWAMPDRAGON_FW_THETFORD_GROWN
+Goose:products:5:T5_FARM_GOOSE_GROWN
+Necromantic Elixir:products:5:T5_MOUNTUPGRADE_HORSE_CURSE
+Morgana Mare Saddle:products:5:T5_MOUNTUPGRADE_HORSE_MORGANA
+Cabbage:products:5:T5_CABBAGE
+Dragon Teasel:products:5:T5_TEASEL
+Goose Eggs:products:5:T5_EGG
+Raw Goose:products:5:T5_MEAT
+Expert Lumberjack's Journal (Partially Full):products:5:T5_JOURNAL_WOOD
+Expert Stonecutter's Journal (Partially Full):products:5:T5_JOURNAL_STONE
+Expert Prospector's Journal (Partially Full):products:5:T5_JOURNAL_ORE
+Expert Cropper's Journal (Partially Full):products:5:T5_JOURNAL_FIBER
+Expert Gamekeeper's Journal (Partially Full):products:5:T5_JOURNAL_HIDE
+Expert Blacksmith's Journal (Partially Full):products:5:T5_JOURNAL_WARRIOR
+Expert Fletcher's Journal (Partially Full):products:5:T5_JOURNAL_HUNTER
+Expert Imbuer's Journal (Partially Full):products:5:T5_JOURNAL_MAGE
+Expert Tinker's Journal (Partially Full):products:5:T5_JOURNAL_TOOLMAKER
+Expert Mercenary's Journal (Partially Full):products:5:T5_JOURNAL_MERCENARY
+Expert's Generalist Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_GENERAL
+Expert Mercenary's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_MERCENARY
+Expert Gamekeeper's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_HIDE
+Expert Lumberjack's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_WOOD
+Expert Stonecutter's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_STONE
+Expert Prospector's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_ORE
+Expert Cropper's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_FIBER
+Expert Fisherman's Trophy Journal (Partially Full):products:5:T5_JOURNAL_TROPHY_FISHING
+Expert Fisherman's Journal (Partially Full):products:5:T5_JOURNAL_FISHING
+Master's Ox:products:6:T6_FARM_OX_GROWN
+Master's Horse:products:6:T6_FARM_HORSE_GROWN
+Tame Direwolf:products:6:T6_FARM_DIREWOLF_GROWN
+Master's Tame Giant Stag:products:6:T6_FARM_GIANTSTAG_GROWN
+Sheep:products:6:T6_FARM_SHEEP_GROWN
+Decorative Stag Bridle:products:6:T6_MOUNTUPGRADE_GIANTSTAG_XMAS
+Potatoes:products:6:T6_POTATO
+Elusive Foxglove:products:6:T6_FOXGLOVE
+Sheep's Milk:products:6:T6_MILK
+Raw Mutton:products:6:T6_MEAT
+Sheep's Butter:products:6:T6_BUTTER
+Potato Schnapps:products:6:T6_ALCOHOL
+Master Lumberjack's Journal (Partially Full):products:6:T6_JOURNAL_WOOD
+Master Stonecutter's Journal (Partially Full):products:6:T6_JOURNAL_STONE
+Master Prospector's Journal (Partially Full):products:6:T6_JOURNAL_ORE
+Master Cropper's Journal (Partially Full):products:6:T6_JOURNAL_FIBER
+Master Gamekeeper's Journal (Partially Full):products:6:T6_JOURNAL_HIDE
+Master Blacksmith's Journal (Partially Full):products:6:T6_JOURNAL_WARRIOR
+Master Fletcher's Journal (Partially Full):products:6:T6_JOURNAL_HUNTER
+Master Imbuer's Journal (Partially Full):products:6:T6_JOURNAL_MAGE
+Master Tinker's Journal (Partially Full):products:6:T6_JOURNAL_TOOLMAKER
+Master Mercenary's Journal (Partially Full):products:6:T6_JOURNAL_MERCENARY
+Master's Generalist Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_GENERAL
+Master Mercenary's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_MERCENARY
+Master Gamekeeper's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_HIDE
+Master Lumberjack's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_WOOD
+Master Stonecutter's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_STONE
+Master Prospector's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_ORE
+Master Cropper's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_FIBER
+Master Fisherman's Trophy Journal (Partially Full):products:6:T6_JOURNAL_TROPHY_FISHING
+Master Fisherman's Journal (Partially Full):products:6:T6_JOURNAL_FISHING
+Grandmaster's Ox:products:7:T7_FARM_OX_GROWN
+Grandmaster's Horse:products:7:T7_FARM_HORSE_GROWN
+Tame Direboar:products:7:T7_FARM_DIREBOAR_GROWN
+Tame Swamp Dragon:products:7:T7_FARM_SWAMPDRAGON_GROWN
+Pig:products:7:T7_FARM_PIG_GROWN
+Bundle of Corn:products:7:T7_CORN
+Firetouched Mullein:products:7:T7_MULLEIN
+Raw Pork:products:7:T7_MEAT
+Corn Hooch:products:7:T7_ALCOHOL
+Grandmaster Lumberjack's Journal (Partially Full):products:7:T7_JOURNAL_WOOD
+Grandmaster Stonecutter's Journal (Partially Full):products:7:T7_JOURNAL_STONE
+Grandmaster Prospector's Journal (Partially Full):products:7:T7_JOURNAL_ORE
+Grandmaster Cropper's Journal (Partially Full):products:7:T7_JOURNAL_FIBER
+Grandmaster Gamekeeper's Journal (Partially Full):products:7:T7_JOURNAL_HIDE
+Grandmaster Blacksmith's Journal (Partially Full):products:7:T7_JOURNAL_WARRIOR
+Grandmaster Fletcher's Journal (Partially Full):products:7:T7_JOURNAL_HUNTER
+Grandmaster Imbuer's Journal (Partially Full):products:7:T7_JOURNAL_MAGE
+Grandmaster Tinker's Journal (Partially Full):products:7:T7_JOURNAL_TOOLMAKER
+Grandmaster Mercenary's Journal (Partially Full):products:7:T7_JOURNAL_MERCENARY
+Grandmaster's Generalist Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_GENERAL
+Grandmaster Mercenary's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_MERCENARY
+Grandmaster Gamekeeper's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_HIDE
+Grandmaster Lumberjack's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_WOOD
+Grandmaster Stonecutter's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_STONE
+Grandmaster Prospector's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_ORE
+Grandmaster Cropper's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_FIBER
+Grandmaster Fisherman's Trophy Journal (Partially Full):products:7:T7_JOURNAL_TROPHY_FISHING
+Grandmaster Fisherman's Journal (Partially Full):products:7:T7_JOURNAL_FISHING
+Elder's Ox:products:8:T8_FARM_OX_GROWN
+Elder's Horse:products:8:T8_FARM_HORSE_GROWN
+Tame Direbear:products:8:T8_FARM_DIREBEAR_GROWN
+Tame Mammoth:products:8:T8_FARM_MAMMOTH_GROWN
+Tame Ghostwolf:products:8:T8_FARM_DIREWOLF_GROWN
+Cow:products:8:T8_FARM_COW_GROWN
+Spectral Mask:products:8:T8_MOUNTUPGRADE_HORSE_CURSE
+Sacred Bone Marrow:products:8:T8_MOUNTUPGRADE_COUGAR_KEEPER
+Infernal Horseshoes:products:8:T8_MOUNTUPGRADE_HORSE_MORGANA
+T8_MOUNTUPGRADE_COMMAND_MAMMOTH:products:8:T8_MOUNTUPGRADE_COMMAND_MAMMOTH
+Pumpkin:products:8:T8_PUMPKIN
+Ghoul Yarrow:products:8:T8_YARROW
+Cow's Milk:products:8:T8_MILK
+Raw Beef:products:8:T8_MEAT
+Cow's Butter:products:8:T8_BUTTER
+Pumpkin Moonshine:products:8:T8_ALCOHOL
+Elder Lumberjack's Journal (Partially Full):products:8:T8_JOURNAL_WOOD
+Elder Stonecutter's Journal (Partially Full):products:8:T8_JOURNAL_STONE
+Elder Prospector's Journal (Partially Full):products:8:T8_JOURNAL_ORE
+Elder Cropper's Journal (Partially Full):products:8:T8_JOURNAL_FIBER
+Elder Gamekeeper's Journal (Partially Full):products:8:T8_JOURNAL_HIDE
+Elder Blacksmith's Journal (Partially Full):products:8:T8_JOURNAL_WARRIOR
+Elder Fletcher's Journal (Partially Full):products:8:T8_JOURNAL_HUNTER
+Elder Imbuer's Journal (Partially Full):products:8:T8_JOURNAL_MAGE
+Elder Tinker's Journal (Partially Full):products:8:T8_JOURNAL_TOOLMAKER
+Elder Mercenary's Journal (Partially Full):products:8:T8_JOURNAL_MERCENARY
+Elder's Generalist Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_GENERAL
+Elder Mercenary's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_MERCENARY
+Elder Gamekeeper's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_HIDE
+Elder Lumberjack's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_WOOD
+Elder Stonecutter's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_STONE
+Elder Prospector's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_ORE
+Elder Cropper's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_FIBER
+Elder Fisherman's Trophy Journal (Partially Full):products:8:T8_JOURNAL_TROPHY_FISHING
+Elder Fisherman's Journal (Partially Full):products:8:T8_JOURNAL_FISHING

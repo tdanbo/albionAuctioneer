@@ -1,0 +1,244 @@
+Novice's Bow:ranged:2:T2_2H_BOW
+Journeyman's Bow:ranged:3:T3_2H_BOW
+Journeyman's Crossbow:ranged:3:T3_2H_CROSSBOW
+Recruiter's Portal Cannon:ranged:4:UNIQUE_VANITY_2H_PORTALGUN_TELLAFRIEND
+Adept's Bow:ranged:4:T4_2H_BOW
+Adept's Bow:ranged:4:T4_2H_BOW@1
+Adept's Bow:ranged:4:T4_2H_BOW@2
+Adept's Bow:ranged:4:T4_2H_BOW@3
+Adept's Warbow:ranged:4:T4_2H_WARBOW
+Adept's Warbow:ranged:4:T4_2H_WARBOW@1
+Adept's Warbow:ranged:4:T4_2H_WARBOW@2
+Adept's Warbow:ranged:4:T4_2H_WARBOW@3
+Adept's Longbow:ranged:4:T4_2H_LONGBOW
+Adept's Longbow:ranged:4:T4_2H_LONGBOW@1
+Adept's Longbow:ranged:4:T4_2H_LONGBOW@2
+Adept's Longbow:ranged:4:T4_2H_LONGBOW@3
+Adept's Whispering Bow:ranged:4:T4_2H_LONGBOW_UNDEAD
+Adept's Whispering Bow:ranged:4:T4_2H_LONGBOW_UNDEAD@1
+Adept's Whispering Bow:ranged:4:T4_2H_LONGBOW_UNDEAD@2
+Adept's Whispering Bow:ranged:4:T4_2H_LONGBOW_UNDEAD@3
+Adept's Wailing Bow:ranged:4:T4_2H_BOW_HELL
+Adept's Wailing Bow:ranged:4:T4_2H_BOW_HELL@1
+Adept's Wailing Bow:ranged:4:T4_2H_BOW_HELL@2
+Adept's Wailing Bow:ranged:4:T4_2H_BOW_HELL@3
+Adept's Bow of Badon:ranged:4:T4_2H_BOW_KEEPER
+Adept's Bow of Badon:ranged:4:T4_2H_BOW_KEEPER@1
+Adept's Bow of Badon:ranged:4:T4_2H_BOW_KEEPER@2
+Adept's Bow of Badon:ranged:4:T4_2H_BOW_KEEPER@3
+Adept's Crossbow:ranged:4:T4_2H_CROSSBOW
+Adept's Crossbow:ranged:4:T4_2H_CROSSBOW@1
+Adept's Crossbow:ranged:4:T4_2H_CROSSBOW@2
+Adept's Crossbow:ranged:4:T4_2H_CROSSBOW@3
+Adept's Heavy Crossbow:ranged:4:T4_2H_CROSSBOWLARGE
+Adept's Heavy Crossbow:ranged:4:T4_2H_CROSSBOWLARGE@1
+Adept's Heavy Crossbow:ranged:4:T4_2H_CROSSBOWLARGE@2
+Adept's Heavy Crossbow:ranged:4:T4_2H_CROSSBOWLARGE@3
+Adept's Light Crossbow:ranged:4:T4_MAIN_1HCROSSBOW
+Adept's Light Crossbow:ranged:4:T4_MAIN_1HCROSSBOW@1
+Adept's Light Crossbow:ranged:4:T4_MAIN_1HCROSSBOW@2
+Adept's Light Crossbow:ranged:4:T4_MAIN_1HCROSSBOW@3
+Adept's Weeping Repeater:ranged:4:T4_2H_REPEATINGCROSSBOW_UNDEAD
+Adept's Weeping Repeater:ranged:4:T4_2H_REPEATINGCROSSBOW_UNDEAD@1
+Adept's Weeping Repeater:ranged:4:T4_2H_REPEATINGCROSSBOW_UNDEAD@2
+Adept's Weeping Repeater:ranged:4:T4_2H_REPEATINGCROSSBOW_UNDEAD@3
+Adept's Boltcasters:ranged:4:T4_2H_DUALCROSSBOW_HELL
+Adept's Boltcasters:ranged:4:T4_2H_DUALCROSSBOW_HELL@1
+Adept's Boltcasters:ranged:4:T4_2H_DUALCROSSBOW_HELL@2
+Adept's Boltcasters:ranged:4:T4_2H_DUALCROSSBOW_HELL@3
+Adept's Siegebow:ranged:4:T4_2H_CROSSBOWLARGE_MORGANA
+Adept's Siegebow:ranged:4:T4_2H_CROSSBOWLARGE_MORGANA@1
+Adept's Siegebow:ranged:4:T4_2H_CROSSBOWLARGE_MORGANA@2
+Adept's Siegebow:ranged:4:T4_2H_CROSSBOWLARGE_MORGANA@3
+Expert's Bow:ranged:5:T5_2H_BOW
+Expert's Bow:ranged:5:T5_2H_BOW@1
+Expert's Bow:ranged:5:T5_2H_BOW@2
+Expert's Bow:ranged:5:T5_2H_BOW@3
+Expert's Warbow:ranged:5:T5_2H_WARBOW
+Expert's Warbow:ranged:5:T5_2H_WARBOW@1
+Expert's Warbow:ranged:5:T5_2H_WARBOW@2
+Expert's Warbow:ranged:5:T5_2H_WARBOW@3
+Expert's Longbow:ranged:5:T5_2H_LONGBOW
+Expert's Longbow:ranged:5:T5_2H_LONGBOW@1
+Expert's Longbow:ranged:5:T5_2H_LONGBOW@2
+Expert's Longbow:ranged:5:T5_2H_LONGBOW@3
+Expert's Whispering Bow:ranged:5:T5_2H_LONGBOW_UNDEAD
+Expert's Whispering Bow:ranged:5:T5_2H_LONGBOW_UNDEAD@1
+Expert's Whispering Bow:ranged:5:T5_2H_LONGBOW_UNDEAD@2
+Expert's Whispering Bow:ranged:5:T5_2H_LONGBOW_UNDEAD@3
+Expert's Wailing Bow:ranged:5:T5_2H_BOW_HELL
+Expert's Wailing Bow:ranged:5:T5_2H_BOW_HELL@1
+Expert's Wailing Bow:ranged:5:T5_2H_BOW_HELL@2
+Expert's Wailing Bow:ranged:5:T5_2H_BOW_HELL@3
+Expert's Bow of Badon:ranged:5:T5_2H_BOW_KEEPER
+Expert's Bow of Badon:ranged:5:T5_2H_BOW_KEEPER@1
+Expert's Bow of Badon:ranged:5:T5_2H_BOW_KEEPER@2
+Expert's Bow of Badon:ranged:5:T5_2H_BOW_KEEPER@3
+Expert's Crossbow:ranged:5:T5_2H_CROSSBOW
+Expert's Crossbow:ranged:5:T5_2H_CROSSBOW@1
+Expert's Crossbow:ranged:5:T5_2H_CROSSBOW@2
+Expert's Crossbow:ranged:5:T5_2H_CROSSBOW@3
+Expert's Heavy Crossbow:ranged:5:T5_2H_CROSSBOWLARGE
+Expert's Heavy Crossbow:ranged:5:T5_2H_CROSSBOWLARGE@1
+Expert's Heavy Crossbow:ranged:5:T5_2H_CROSSBOWLARGE@2
+Expert's Heavy Crossbow:ranged:5:T5_2H_CROSSBOWLARGE@3
+Expert's Light Crossbow:ranged:5:T5_MAIN_1HCROSSBOW
+Expert's Light Crossbow:ranged:5:T5_MAIN_1HCROSSBOW@1
+Expert's Light Crossbow:ranged:5:T5_MAIN_1HCROSSBOW@2
+Expert's Light Crossbow:ranged:5:T5_MAIN_1HCROSSBOW@3
+Expert's Weeping Repeater:ranged:5:T5_2H_REPEATINGCROSSBOW_UNDEAD
+Expert's Weeping Repeater:ranged:5:T5_2H_REPEATINGCROSSBOW_UNDEAD@1
+Expert's Weeping Repeater:ranged:5:T5_2H_REPEATINGCROSSBOW_UNDEAD@2
+Expert's Weeping Repeater:ranged:5:T5_2H_REPEATINGCROSSBOW_UNDEAD@3
+Expert's Boltcasters:ranged:5:T5_2H_DUALCROSSBOW_HELL
+Expert's Boltcasters:ranged:5:T5_2H_DUALCROSSBOW_HELL@1
+Expert's Boltcasters:ranged:5:T5_2H_DUALCROSSBOW_HELL@2
+Expert's Boltcasters:ranged:5:T5_2H_DUALCROSSBOW_HELL@3
+Expert's Siegebow:ranged:5:T5_2H_CROSSBOWLARGE_MORGANA
+Expert's Siegebow:ranged:5:T5_2H_CROSSBOWLARGE_MORGANA@1
+Expert's Siegebow:ranged:5:T5_2H_CROSSBOWLARGE_MORGANA@2
+Expert's Siegebow:ranged:5:T5_2H_CROSSBOWLARGE_MORGANA@3
+Master's Bow:ranged:6:T6_2H_BOW
+Master's Bow:ranged:6:T6_2H_BOW@1
+Master's Bow:ranged:6:T6_2H_BOW@2
+Master's Bow:ranged:6:T6_2H_BOW@3
+Master's Warbow:ranged:6:T6_2H_WARBOW
+Master's Warbow:ranged:6:T6_2H_WARBOW@1
+Master's Warbow:ranged:6:T6_2H_WARBOW@2
+Master's Warbow:ranged:6:T6_2H_WARBOW@3
+Master's Longbow:ranged:6:T6_2H_LONGBOW
+Master's Longbow:ranged:6:T6_2H_LONGBOW@1
+Master's Longbow:ranged:6:T6_2H_LONGBOW@2
+Master's Longbow:ranged:6:T6_2H_LONGBOW@3
+Master's Whispering Bow:ranged:6:T6_2H_LONGBOW_UNDEAD
+Master's Whispering Bow:ranged:6:T6_2H_LONGBOW_UNDEAD@1
+Master's Whispering Bow:ranged:6:T6_2H_LONGBOW_UNDEAD@2
+Master's Whispering Bow:ranged:6:T6_2H_LONGBOW_UNDEAD@3
+Master's Wailing Bow:ranged:6:T6_2H_BOW_HELL
+Master's Wailing Bow:ranged:6:T6_2H_BOW_HELL@1
+Master's Wailing Bow:ranged:6:T6_2H_BOW_HELL@2
+Master's Wailing Bow:ranged:6:T6_2H_BOW_HELL@3
+Master's Bow of Badon:ranged:6:T6_2H_BOW_KEEPER
+Master's Bow of Badon:ranged:6:T6_2H_BOW_KEEPER@1
+Master's Bow of Badon:ranged:6:T6_2H_BOW_KEEPER@2
+Master's Bow of Badon:ranged:6:T6_2H_BOW_KEEPER@3
+Master's Crossbow:ranged:6:T6_2H_CROSSBOW
+Master's Crossbow:ranged:6:T6_2H_CROSSBOW@1
+Master's Crossbow:ranged:6:T6_2H_CROSSBOW@2
+Master's Crossbow:ranged:6:T6_2H_CROSSBOW@3
+Master's Heavy Crossbow:ranged:6:T6_2H_CROSSBOWLARGE
+Master's Heavy Crossbow:ranged:6:T6_2H_CROSSBOWLARGE@1
+Master's Heavy Crossbow:ranged:6:T6_2H_CROSSBOWLARGE@2
+Master's Heavy Crossbow:ranged:6:T6_2H_CROSSBOWLARGE@3
+Master's Light Crossbow:ranged:6:T6_MAIN_1HCROSSBOW
+Master's Light Crossbow:ranged:6:T6_MAIN_1HCROSSBOW@1
+Master's Light Crossbow:ranged:6:T6_MAIN_1HCROSSBOW@2
+Master's Light Crossbow:ranged:6:T6_MAIN_1HCROSSBOW@3
+Master's Weeping Repeater:ranged:6:T6_2H_REPEATINGCROSSBOW_UNDEAD
+Master's Weeping Repeater:ranged:6:T6_2H_REPEATINGCROSSBOW_UNDEAD@1
+Master's Weeping Repeater:ranged:6:T6_2H_REPEATINGCROSSBOW_UNDEAD@2
+Master's Weeping Repeater:ranged:6:T6_2H_REPEATINGCROSSBOW_UNDEAD@3
+Master's Boltcasters:ranged:6:T6_2H_DUALCROSSBOW_HELL
+Master's Boltcasters:ranged:6:T6_2H_DUALCROSSBOW_HELL@1
+Master's Boltcasters:ranged:6:T6_2H_DUALCROSSBOW_HELL@2
+Master's Boltcasters:ranged:6:T6_2H_DUALCROSSBOW_HELL@3
+Master's Siegebow:ranged:6:T6_2H_CROSSBOWLARGE_MORGANA
+Master's Siegebow:ranged:6:T6_2H_CROSSBOWLARGE_MORGANA@1
+Master's Siegebow:ranged:6:T6_2H_CROSSBOWLARGE_MORGANA@2
+Master's Siegebow:ranged:6:T6_2H_CROSSBOWLARGE_MORGANA@3
+Grandmaster's Bow:ranged:7:T7_2H_BOW
+Grandmaster's Bow:ranged:7:T7_2H_BOW@1
+Grandmaster's Bow:ranged:7:T7_2H_BOW@2
+Grandmaster's Bow:ranged:7:T7_2H_BOW@3
+Grandmaster's Warbow:ranged:7:T7_2H_WARBOW
+Grandmaster's Warbow:ranged:7:T7_2H_WARBOW@1
+Grandmaster's Warbow:ranged:7:T7_2H_WARBOW@2
+Grandmaster's Warbow:ranged:7:T7_2H_WARBOW@3
+Grandmaster's Longbow:ranged:7:T7_2H_LONGBOW
+Grandmaster's Longbow:ranged:7:T7_2H_LONGBOW@1
+Grandmaster's Longbow:ranged:7:T7_2H_LONGBOW@2
+Grandmaster's Longbow:ranged:7:T7_2H_LONGBOW@3
+Grandmaster's Whispering Bow:ranged:7:T7_2H_LONGBOW_UNDEAD
+Grandmaster's Whispering Bow:ranged:7:T7_2H_LONGBOW_UNDEAD@1
+Grandmaster's Whispering Bow:ranged:7:T7_2H_LONGBOW_UNDEAD@2
+Grandmaster's Whispering Bow:ranged:7:T7_2H_LONGBOW_UNDEAD@3
+Grandmaster's Wailing Bow:ranged:7:T7_2H_BOW_HELL
+Grandmaster's Wailing Bow:ranged:7:T7_2H_BOW_HELL@1
+Grandmaster's Wailing Bow:ranged:7:T7_2H_BOW_HELL@2
+Grandmaster's Wailing Bow:ranged:7:T7_2H_BOW_HELL@3
+Grandmaster's Bow of Badon:ranged:7:T7_2H_BOW_KEEPER
+Grandmaster's Bow of Badon:ranged:7:T7_2H_BOW_KEEPER@1
+Grandmaster's Bow of Badon:ranged:7:T7_2H_BOW_KEEPER@2
+Grandmaster's Bow of Badon:ranged:7:T7_2H_BOW_KEEPER@3
+Grandmaster's Crossbow:ranged:7:T7_2H_CROSSBOW
+Grandmaster's Crossbow:ranged:7:T7_2H_CROSSBOW@1
+Grandmaster's Crossbow:ranged:7:T7_2H_CROSSBOW@2
+Grandmaster's Crossbow:ranged:7:T7_2H_CROSSBOW@3
+Grandmaster's Heavy Crossbow:ranged:7:T7_2H_CROSSBOWLARGE
+Grandmaster's Heavy Crossbow:ranged:7:T7_2H_CROSSBOWLARGE@1
+Grandmaster's Heavy Crossbow:ranged:7:T7_2H_CROSSBOWLARGE@2
+Grandmaster's Heavy Crossbow:ranged:7:T7_2H_CROSSBOWLARGE@3
+Grandmaster's Light Crossbow:ranged:7:T7_MAIN_1HCROSSBOW
+Grandmaster's Light Crossbow:ranged:7:T7_MAIN_1HCROSSBOW@1
+Grandmaster's Light Crossbow:ranged:7:T7_MAIN_1HCROSSBOW@2
+Grandmaster's Light Crossbow:ranged:7:T7_MAIN_1HCROSSBOW@3
+Grandmaster's Weeping Repeater:ranged:7:T7_2H_REPEATINGCROSSBOW_UNDEAD
+Grandmaster's Weeping Repeater:ranged:7:T7_2H_REPEATINGCROSSBOW_UNDEAD@1
+Grandmaster's Weeping Repeater:ranged:7:T7_2H_REPEATINGCROSSBOW_UNDEAD@2
+Grandmaster's Weeping Repeater:ranged:7:T7_2H_REPEATINGCROSSBOW_UNDEAD@3
+Grandmaster's Boltcasters:ranged:7:T7_2H_DUALCROSSBOW_HELL
+Grandmaster's Boltcasters:ranged:7:T7_2H_DUALCROSSBOW_HELL@1
+Grandmaster's Boltcasters:ranged:7:T7_2H_DUALCROSSBOW_HELL@2
+Grandmaster's Boltcasters:ranged:7:T7_2H_DUALCROSSBOW_HELL@3
+Grandmaster's Siegebow:ranged:7:T7_2H_CROSSBOWLARGE_MORGANA
+Grandmaster's Siegebow:ranged:7:T7_2H_CROSSBOWLARGE_MORGANA@1
+Grandmaster's Siegebow:ranged:7:T7_2H_CROSSBOWLARGE_MORGANA@2
+Grandmaster's Siegebow:ranged:7:T7_2H_CROSSBOWLARGE_MORGANA@3
+Elder's Bow:ranged:8:T8_2H_BOW
+Elder's Bow:ranged:8:T8_2H_BOW@1
+Elder's Bow:ranged:8:T8_2H_BOW@2
+Elder's Bow:ranged:8:T8_2H_BOW@3
+Elder's Warbow:ranged:8:T8_2H_WARBOW
+Elder's Warbow:ranged:8:T8_2H_WARBOW@1
+Elder's Warbow:ranged:8:T8_2H_WARBOW@2
+Elder's Warbow:ranged:8:T8_2H_WARBOW@3
+Elder's Longbow:ranged:8:T8_2H_LONGBOW
+Elder's Longbow:ranged:8:T8_2H_LONGBOW@1
+Elder's Longbow:ranged:8:T8_2H_LONGBOW@2
+Elder's Longbow:ranged:8:T8_2H_LONGBOW@3
+Elder's Whispering Bow:ranged:8:T8_2H_LONGBOW_UNDEAD
+Elder's Whispering Bow:ranged:8:T8_2H_LONGBOW_UNDEAD@1
+Elder's Whispering Bow:ranged:8:T8_2H_LONGBOW_UNDEAD@2
+Elder's Whispering Bow:ranged:8:T8_2H_LONGBOW_UNDEAD@3
+Elder's Wailing Bow:ranged:8:T8_2H_BOW_HELL
+Elder's Wailing Bow:ranged:8:T8_2H_BOW_HELL@1
+Elder's Wailing Bow:ranged:8:T8_2H_BOW_HELL@2
+Elder's Wailing Bow:ranged:8:T8_2H_BOW_HELL@3
+Elder's Bow of Badon:ranged:8:T8_2H_BOW_KEEPER
+Elder's Bow of Badon:ranged:8:T8_2H_BOW_KEEPER@1
+Elder's Bow of Badon:ranged:8:T8_2H_BOW_KEEPER@2
+Elder's Bow of Badon:ranged:8:T8_2H_BOW_KEEPER@3
+Elder's Crossbow:ranged:8:T8_2H_CROSSBOW
+Elder's Crossbow:ranged:8:T8_2H_CROSSBOW@1
+Elder's Crossbow:ranged:8:T8_2H_CROSSBOW@2
+Elder's Crossbow:ranged:8:T8_2H_CROSSBOW@3
+Elder's Heavy Crossbow:ranged:8:T8_2H_CROSSBOWLARGE
+Elder's Heavy Crossbow:ranged:8:T8_2H_CROSSBOWLARGE@1
+Elder's Heavy Crossbow:ranged:8:T8_2H_CROSSBOWLARGE@2
+Elder's Heavy Crossbow:ranged:8:T8_2H_CROSSBOWLARGE@3
+Elder's Light Crossbow:ranged:8:T8_MAIN_1HCROSSBOW
+Elder's Light Crossbow:ranged:8:T8_MAIN_1HCROSSBOW@1
+Elder's Light Crossbow:ranged:8:T8_MAIN_1HCROSSBOW@2
+Elder's Light Crossbow:ranged:8:T8_MAIN_1HCROSSBOW@3
+Elder's Weeping Repeater:ranged:8:T8_2H_REPEATINGCROSSBOW_UNDEAD
+Elder's Weeping Repeater:ranged:8:T8_2H_REPEATINGCROSSBOW_UNDEAD@1
+Elder's Weeping Repeater:ranged:8:T8_2H_REPEATINGCROSSBOW_UNDEAD@2
+Elder's Weeping Repeater:ranged:8:T8_2H_REPEATINGCROSSBOW_UNDEAD@3
+Elder's Boltcasters:ranged:8:T8_2H_DUALCROSSBOW_HELL
+Elder's Boltcasters:ranged:8:T8_2H_DUALCROSSBOW_HELL@1
+Elder's Boltcasters:ranged:8:T8_2H_DUALCROSSBOW_HELL@2
+Elder's Boltcasters:ranged:8:T8_2H_DUALCROSSBOW_HELL@3
+Elder's Siegebow:ranged:8:T8_2H_CROSSBOWLARGE_MORGANA
+Elder's Siegebow:ranged:8:T8_2H_CROSSBOWLARGE_MORGANA@1
+Elder's Siegebow:ranged:8:T8_2H_CROSSBOWLARGE_MORGANA@2
+Elder's Siegebow:ranged:8:T8_2H_CROSSBOWLARGE_MORGANA@3

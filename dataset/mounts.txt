@@ -1,0 +1,94 @@
+Novice's Mule:mounts:2:T2_MOUNT_MULE
+Journeyman's Riding Horse:mounts:3:T3_MOUNT_HORSE
+Journeyman's Transport Ox:mounts:3:T3_MOUNT_OX
+Jack o' Donkey:mounts:3:UNIQUE_MOUNT_DONKEY_HALLOWEEN
+Yule Ram:mounts:3:UNIQUE_MOUNT_RAM_XMAS
+Recruiter's Horse:mounts:3:UNIQUE_MOUNT_TELLAFRIEND
+Recruiter's Donkey:mounts:3:UNIQUE_MOUNT_DONKEY_UNIQUE_TELLAFRIEND
+Recruiter's Ram:mounts:3:UNIQUE_MOUNT_RAM_TELLAFRIEND
+Recruiter's Pig:mounts:3:UNIQUE_MOUNT_PIG_TELLAFRIEND
+Recruiter's Pony:mounts:3:UNIQUE_MOUNT_PONY_TELLAFRIEND
+Recruiter's Impala:mounts:3:UNIQUE_MOUNT_IMPALA_TELLAFRIEND
+Recruiter's Saddled Bat:mounts:3:UNIQUE_MOUNT_BAT_TELLAFRIEND
+Recruiter's Toad:mounts:3:UNIQUE_MOUNT_GIANTTOAD_TELLAFRIEND
+Domesticated Hog:mounts:3:UNIQUE_MOUNT_HOUSEPIG
+UNIQUE_MOUNT_RHINO_TELLAFRIEND:mounts:3:UNIQUE_MOUNT_RHINO_TELLAFRIEND
+Legendary Explorer's Horse:mounts:3:UNIQUE_MOUNT_HORSE_FOUNDER_LEGENDARY
+Legendary Explorer's Ox:mounts:3:UNIQUE_MOUNT_OX_FOUNDER_LEGENDARY
+Legendary Adventurer's Horse:mounts:3:UNIQUE_MOUNT_HORSE_STARTERPACK
+Legendary Adventurer's Cart:mounts:3:UNIQUE_MOUNT_CART_STARTERPACK
+Epic Explorer's Giant Stag:mounts:3:UNIQUE_MOUNT_GIANTSTAG_FOUNDER_EPIC
+Adept's Riding Horse:mounts:4:T4_MOUNT_HORSE
+Adept's Transport Ox:mounts:4:T4_MOUNT_OX
+Adept's Giant Stag:mounts:4:T4_MOUNT_GIANTSTAG
+Expert's Riding Horse:mounts:5:T5_MOUNT_HORSE
+Expert's Armored Horse:mounts:5:T5_MOUNT_ARMORED_HORSE
+Expert's Transport Ox:mounts:5:T5_MOUNT_OX
+Saddled Moabird:mounts:5:T5_MOUNT_MOABIRD_FW_BRIDGEWATCH
+Saddled Winter Bear:mounts:5:T5_MOUNT_DIREBEAR_FW_FORTSTERLING
+Saddled Wild Boar:mounts:5:T5_MOUNT_DIREBOAR_FW_LYMHURST
+Saddled Bighorn Ram:mounts:5:T5_MOUNT_RAM_FW_MARTLOCK
+Saddled Swamp Salamander:mounts:5:T5_MOUNT_SWAMPDRAGON_FW_THETFORD
+Bonehorse:mounts:5:T5_MOUNT_HORSE_UNDEAD@1
+Swiftclaw:mounts:5:T5_MOUNT_COUGAR_KEEPER@1
+Morgana Mare:mounts:5:T5_MOUNT_ARMORED_HORSE_MORGANA@1
+Arena Veteran's Armored Horse:mounts:5:T5_MOUNT_HORSE_ARENA@1
+Arena Veteran's Armored Sabertooth:mounts:5:T5_MOUNT_COUGAR_ARENA@1
+Horse Macabre:mounts:5:T5_MOUNT_HORSE_UNDEAD_HALLOWEEN@1
+Sabertooth Rex:mounts:5:T5_MOUNT_COUGAR_TOURNAMENT@1
+Recruiter's Bloodhound:mounts:5:UNIQUE_MOUNT_BLOODHOUND_TELLAFRIEND
+Recruiter's Tiger:mounts:5:UNIQUE_MOUNT_TIGER_TELLAFRIEND
+Recruiter's Saint Bernard:mounts:5:UNIQUE_MOUNT_BERNARD_TELLAFRIEND
+Recruiter's Dire Fox:mounts:5:UNIQUE_MOUNT_DIREFOX_TELLAFRIEND
+Recruiter's White Tiger:mounts:5:UNIQUE_MOUNT_TIGER_WHITE_TELLAFRIEND
+Expert's Warhorse:mounts:5:T5_MOUNT_ARMORED_HORSE_SKIN_01
+Bronze Battle Rhino:mounts:5:UNIQUE_MOUNT_RHINO_SEASON_BRONZE
+Master's Riding Horse:mounts:6:T6_MOUNT_HORSE
+Master's Armored Horse:mounts:6:T6_MOUNT_ARMORED_HORSE
+Master's Transport Ox:mounts:6:T6_MOUNT_OX
+Master's Giant Stag:mounts:6:T6_MOUNT_GIANTSTAG
+Direwolf:mounts:6:T6_MOUNT_DIREWOLF
+Ghostwolf:mounts:6:T6_MOUNT_DIREWOLF_WHITE
+Siege Ballista:mounts:6:T6_MOUNT_SIEGE_BALLISTA
+Yule Stag:mounts:6:T6_MOUNT_GIANTSTAG_XMAS@1
+Recruiter's Yak:mounts:6:UNIQUE_MOUNT_YAK_TELLAFRIEND
+Recruiter's Moabird:mounts:6:UNIQUE_MOUNT_MOABIRD_TELLAFRIEND
+Recruiter's Bighorn Ram:mounts:6:UNIQUE_MOUNT_TRANSPORT_RAM_TELLAFRIEND
+UNIQUE_MOUNT_PANDA_TELLAFRIEND:mounts:6:UNIQUE_MOUNT_PANDA_TELLAFRIEND
+Recruiter's Giant Stag:mounts:6:UNIQUE_MOUNT_GIANTSTAG_TELLAFRIEND
+Recruiter's Grey Wolf:mounts:6:UNIQUE_MOUNT_DIREWOLF_GREY_TELLAFRIEND
+Master's Warhorse:mounts:6:T6_MOUNT_ARMORED_HORSE_SKIN_01
+Specter Wolf:mounts:6:T6_MOUNT_DIREWOLF_SPECTER
+Frost Ram:mounts:6:T6_MOUNT_FROSTRAM_ADC
+Giant Chameleon:mounts:6:T6_MOUNT_CHAMELEON_ADC
+Silver Battle Rhino:mounts:6:UNIQUE_MOUNT_RHINO_SEASON_SILVER
+Silver Tower Chariot:mounts:6:UNIQUE_MOUNT_TOWER_CHARIOT_SILVER
+Grandmaster's Riding Horse:mounts:7:T7_MOUNT_HORSE
+Grandmaster's Armored Horse:mounts:7:T7_MOUNT_ARMORED_HORSE
+Grandmaster's Transport Ox:mounts:7:T7_MOUNT_OX
+Saddled Direboar:mounts:7:T7_MOUNT_DIREBOAR
+Saddled Swamp Dragon:mounts:7:T7_MOUNT_SWAMPDRAGON
+Flame Basilisk:mounts:7:T7_MOUNT_SWAMPDRAGON_BATTLE
+Venom Basilisk:mounts:7:T7_MOUNT_ARMORED_SWAMPDRAGON_BATTLE
+Recruiter's Husky Sled:mounts:7:UNIQUE_MOUNT_HUSKYSLEIGH_TELLAFRIEND
+Grandmaster's Warhorse:mounts:7:T7_MOUNT_ARMORED_HORSE_SKIN_01
+Spectral Bat:mounts:7:UNIQUE_MOUNT_BAT_PERSONAL@0
+Pest Lizard:mounts:7:T7_MOUNT_MONITORLIZARD_ADC
+Snow Husky:mounts:7:T7_MOUNT_HUSKY_ADC
+Saddled Terrorbird:mounts:7:T7_MOUNT_TERRORBIRD_ADC
+Grizzly Bear:mounts:7:UNIQUE_MOUNT_BEAR_KEEPER_ADC
+Gold Battle Rhino:mounts:7:UNIQUE_MOUNT_RHINO_SEASON_GOLD
+Gold Tower Chariot:mounts:7:UNIQUE_MOUNT_TOWER_CHARIOT_GOLD
+Elder's Riding Horse:mounts:8:T8_MOUNT_HORSE
+Elder's Armored Horse:mounts:8:T8_MOUNT_ARMORED_HORSE
+Elder's Transport Ox:mounts:8:T8_MOUNT_OX
+Saddled Direbear:mounts:8:T8_MOUNT_DIREBEAR
+Elder's Transport Mammoth:mounts:8:T8_MOUNT_MAMMOTH_TRANSPORT
+Elder's Command Mammoth:mounts:8:T8_MOUNT_MAMMOTH_BATTLE@1
+Spectral Bonehorse:mounts:8:T8_MOUNT_HORSE_UNDEAD@1
+Rageclaw:mounts:8:T8_MOUNT_COUGAR_KEEPER@1
+Morgana Nightmare:mounts:8:T8_MOUNT_ARMORED_HORSE_MORGANA@1
+Elder's Warhorse:mounts:8:T8_MOUNT_ARMORED_HORSE_SKIN_01
+Black Panther:mounts:8:UNIQUE_MOUNT_BLACK_PANTHER_ADC
+Crystal Battle Rhino:mounts:8:UNIQUE_MOUNT_RHINO_SEASON_CRYSTAL
+Crystal Tower Chariot:mounts:8:UNIQUE_MOUNT_TOWER_CHARIOT_CRYSTAL

@@ -1,0 +1,299 @@
+Beginner's Tome of Insight:consumables:1:T1_SKILLBOOK_NONTRADABLE
+Beginner's Bag of Silver:consumables:1:T1_SILVERBAG_NONTRADABLE
+Common Rudd:consumables:1:T1_FISH_FRESHWATER_ALL_COMMON
+Common Herring:consumables:1:T1_FISH_SALTWATER_ALL_COMMON
+Simple Fish Bait:consumables:1:T1_FISHINGBAIT
+Grilled Fish:consumables:1:T1_MEAL_GRILLEDFISH
+Seaweed Salad:consumables:1:T1_MEAL_SEAWEEDSALAD
+Carrot Soup:consumables:1:T1_MEAL_SOUP
+Carrot Soup:consumables:1:T1_MEAL_SOUP@1
+Carrot Soup:consumables:1:T1_MEAL_SOUP@2
+Carrot Soup:consumables:1:T1_MEAL_SOUP@3
+Greenmoor Clam Soup:consumables:1:T1_MEAL_SOUP_FISH
+Greenmoor Clam Soup:consumables:1:T1_MEAL_SOUP_FISH@1
+Greenmoor Clam Soup:consumables:1:T1_MEAL_SOUP_FISH@2
+Greenmoor Clam Soup:consumables:1:T1_MEAL_SOUP_FISH@3
+Novice's Tome of Insight:consumables:2:T2_SKILLBOOK_NONTRADABLE
+Novice's Bag of Silver:consumables:2:T2_SILVERBAG_NONTRADABLE
+Diluted Focus Restoration Potion:consumables:2:UNIQUE_FOCUSPOTION_TUTORIAL_01
+Striped Carp:consumables:2:T2_FISH_FRESHWATER_ALL_COMMON
+Striped Mackerel:consumables:2:T2_FISH_SALTWATER_ALL_COMMON
+Minor Healing Potion:consumables:2:T2_POTION_HEAL
+Minor Energy Potion:consumables:2:T2_POTION_ENERGY
+Bean Salad:consumables:2:T2_MEAL_SALAD
+Bean Salad:consumables:2:T2_MEAL_SALAD@1
+Bean Salad:consumables:2:T2_MEAL_SALAD@2
+Bean Salad:consumables:2:T2_MEAL_SALAD@3
+Shallowshore Squid Salad:consumables:2:T2_MEAL_SALAD_FISH
+Shallowshore Squid Salad:consumables:2:T2_MEAL_SALAD_FISH@1
+Shallowshore Squid Salad:consumables:2:T2_MEAL_SALAD_FISH@2
+Shallowshore Squid Salad:consumables:2:T2_MEAL_SALAD_FISH@3
+UNIQUE_WEAPONMASTER_POTION_PROTOTYPE:consumables:2:UNIQUE_WEAPONMASTER_POTION_PROTOTYPE
+UNIQUE_WEAPONMASTER_IDLE_PROTOTYPE:consumables:2:UNIQUE_WEAPONMASTER_IDLE_PROTOTYPE
+Journeyman's Tome of Insight:consumables:3:T3_SKILLBOOK_NONTRADABLE
+Three Days of Premium:consumables:3:T3_PREMIUMITEM_3_NONTRADABLE
+Journeyman's Bag of Silver:consumables:3:T3_SILVERBAG_NONTRADABLE
+Albion Perch:consumables:3:T3_FISH_FRESHWATER_ALL_COMMON
+Flatshore Plaice:consumables:3:T3_FISH_SALTWATER_ALL_COMMON
+Greenriver Eel:consumables:3:T3_FISH_FRESHWATER_FOREST_RARE
+Upland Coldeye:consumables:3:T3_FISH_FRESHWATER_MOUNTAIN_RARE
+Stonestream Lurcher:consumables:3:T3_FISH_FRESHWATER_HIGHLANDS_RARE
+Lowriver Crab:consumables:3:T3_FISH_FRESHWATER_STEPPE_RARE
+Greenmoor Clam:consumables:3:T3_FISH_FRESHWATER_SWAMP_RARE
+Shallowshore Squid:consumables:3:T3_FISH_SALTWATER_ALL_RARE
+Minor Gigantify Potion:consumables:3:T3_POTION_REVIVE
+Minor Resistance Potion:consumables:3:T3_POTION_STONESKIN
+Minor Sticky Potion:consumables:3:T3_POTION_SLOWFIELD
+Fancy Fish Bait:consumables:3:T3_FISHINGBAIT
+Wheat Soup:consumables:3:T3_MEAL_SOUP
+Wheat Soup:consumables:3:T3_MEAL_SOUP@1
+Wheat Soup:consumables:3:T3_MEAL_SOUP@2
+Wheat Soup:consumables:3:T3_MEAL_SOUP@3
+Murkwater Clam Soup:consumables:3:T3_MEAL_SOUP_FISH
+Murkwater Clam Soup:consumables:3:T3_MEAL_SOUP_FISH@1
+Murkwater Clam Soup:consumables:3:T3_MEAL_SOUP_FISH@2
+Murkwater Clam Soup:consumables:3:T3_MEAL_SOUP_FISH@3
+Chicken Pie:consumables:3:T3_MEAL_PIE
+Chicken Pie:consumables:3:T3_MEAL_PIE@1
+Chicken Pie:consumables:3:T3_MEAL_PIE@2
+Chicken Pie:consumables:3:T3_MEAL_PIE@3
+Upland Coldeye Pie:consumables:3:T3_MEAL_PIE_FISH
+Upland Coldeye Pie:consumables:3:T3_MEAL_PIE_FISH@1
+Upland Coldeye Pie:consumables:3:T3_MEAL_PIE_FISH@2
+Upland Coldeye Pie:consumables:3:T3_MEAL_PIE_FISH@3
+Chicken Omelette:consumables:3:T3_MEAL_OMELETTE
+Chicken Omelette:consumables:3:T3_MEAL_OMELETTE@1
+Chicken Omelette:consumables:3:T3_MEAL_OMELETTE@2
+Chicken Omelette:consumables:3:T3_MEAL_OMELETTE@3
+Lowriver Crab Omelette:consumables:3:T3_MEAL_OMELETTE_FISH
+Lowriver Crab Omelette:consumables:3:T3_MEAL_OMELETTE_FISH@1
+Lowriver Crab Omelette:consumables:3:T3_MEAL_OMELETTE_FISH@2
+Lowriver Crab Omelette:consumables:3:T3_MEAL_OMELETTE_FISH@3
+Royal Blue Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_BLUE
+Royal Green Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_GREEN
+Royal Yellow Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW
+Royal Red Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_RED
+Royal Blue Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_BLUE_NONTRADABLE
+Royal Green Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_GREEN_NONTRADABLE
+Royal Yellow Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW_NONTRADABLE
+Royal Red Fireworks:consumables:3:T3_VANITY_CONSUMABLE_FIREWORKS_RED_NONTRADABLE
+Adept's Tome of Insight:consumables:4:T4_SKILLBOOK_STANDARD
+Adept's Tome of Insight:consumables:4:T4_SKILLBOOK_NONTRADABLE
+Adept's Bag of Silver:consumables:4:T4_SILVERBAG_NONTRADABLE
+Adventurer's Tome:consumables:4:UNIQUE_SKILLBOOK_ADC_GENERAL_01
+Adept's Dungeon Map:consumables:4:T4_RANDOM_DUNGEON_TOKEN_1
+Uncommon Adept's Dungeon Map:consumables:4:T4_RANDOM_DUNGEON_TOKEN_2@1
+Rare Adept's Dungeon Map:consumables:4:T4_RANDOM_DUNGEON_TOKEN_3@2
+Exceptional Adept's Dungeon Map:consumables:4:T4_RANDOM_DUNGEON_TOKEN_4@3
+UNIQUE_TEST_DUNGEONMAP_PROTOTYPE:consumables:4:UNIQUE_TEST_DUNGEONMAP_PROTOTYPE
+Bluescale Pike:consumables:4:T4_FISH_FRESHWATER_ALL_COMMON
+Bluescale Cod:consumables:4:T4_FISH_SALTWATER_ALL_COMMON
+Healing Potion:consumables:4:T4_POTION_HEAL
+Healing Potion:consumables:4:T4_POTION_HEAL@1
+Energy Potion:consumables:4:T4_POTION_ENERGY
+Energy Potion:consumables:4:T4_POTION_ENERGY@1
+Minor Poison Potion:consumables:4:T4_POTION_COOLDOWN
+Minor Poison Potion:consumables:4:T4_POTION_COOLDOWN@1
+Turnip Salad:consumables:4:T4_MEAL_SALAD
+Turnip Salad:consumables:4:T4_MEAL_SALAD@1
+Turnip Salad:consumables:4:T4_MEAL_SALAD@2
+Turnip Salad:consumables:4:T4_MEAL_SALAD@3
+Midwater Octopus Salad:consumables:4:T4_MEAL_SALAD_FISH
+Midwater Octopus Salad:consumables:4:T4_MEAL_SALAD_FISH@1
+Midwater Octopus Salad:consumables:4:T4_MEAL_SALAD_FISH@2
+Midwater Octopus Salad:consumables:4:T4_MEAL_SALAD_FISH@3
+Goat Stew:consumables:4:T4_MEAL_STEW
+Goat Stew:consumables:4:T4_MEAL_STEW@1
+Goat Stew:consumables:4:T4_MEAL_STEW@2
+Goat Stew:consumables:4:T4_MEAL_STEW@3
+Greenriver Eel Stew:consumables:4:T4_MEAL_STEW_FISH
+Greenriver Eel Stew:consumables:4:T4_MEAL_STEW_FISH@1
+Greenriver Eel Stew:consumables:4:T4_MEAL_STEW_FISH@2
+Greenriver Eel Stew:consumables:4:T4_MEAL_STEW_FISH@3
+Goat Sandwich:consumables:4:T4_MEAL_SANDWICH
+Goat Sandwich:consumables:4:T4_MEAL_SANDWICH@1
+Goat Sandwich:consumables:4:T4_MEAL_SANDWICH@2
+Goat Sandwich:consumables:4:T4_MEAL_SANDWICH@3
+Stonestream Lurcher Sandwich:consumables:4:T4_MEAL_SANDWICH_FISH
+Stonestream Lurcher Sandwich:consumables:4:T4_MEAL_SANDWICH_FISH@1
+Stonestream Lurcher Sandwich:consumables:4:T4_MEAL_SANDWICH_FISH@2
+Stonestream Lurcher Sandwich:consumables:4:T4_MEAL_SANDWICH_FISH@3
+Snowball:consumables:4:UNIQUE_CONSUMABLE_EVENT_WINTER_2017
+Expert's Tome of Insight:consumables:5:T5_SKILLBOOK_NONTRADABLE
+Expert's Bag of Silver:consumables:5:T5_SILVERBAG_NONTRADABLE
+Expert's Dungeon Map:consumables:5:T5_RANDOM_DUNGEON_TOKEN_1
+Uncommon Expert's Dungeon Map:consumables:5:T5_RANDOM_DUNGEON_TOKEN_2@1
+Rare Expert's Dungeon Map:consumables:5:T5_RANDOM_DUNGEON_TOKEN_3@2
+Exceptional Expert's Dungeon Map:consumables:5:T5_RANDOM_DUNGEON_TOKEN_4@3
+Spotted Trout:consumables:5:T5_FISH_FRESHWATER_ALL_COMMON
+Spotted Wolffish:consumables:5:T5_FISH_SALTWATER_ALL_COMMON
+Redspring Eel:consumables:5:T5_FISH_FRESHWATER_FOREST_RARE
+Mountain Blindeye:consumables:5:T5_FISH_FRESHWATER_MOUNTAIN_RARE
+Rushwater Lurcher:consumables:5:T5_FISH_FRESHWATER_HIGHLANDS_RARE
+Drybrook Crab:consumables:5:T5_FISH_FRESHWATER_STEPPE_RARE
+Murkwater Clam:consumables:5:T5_FISH_FRESHWATER_SWAMP_RARE
+Midwater Octopus:consumables:5:T5_FISH_SALTWATER_ALL_RARE
+Gigantify Potion:consumables:5:T5_POTION_REVIVE
+Gigantify Potion:consumables:5:T5_POTION_REVIVE@1
+Resistance Potion:consumables:5:T5_POTION_STONESKIN
+Resistance Potion:consumables:5:T5_POTION_STONESKIN@1
+Sticky Potion:consumables:5:T5_POTION_SLOWFIELD
+Sticky Potion:consumables:5:T5_POTION_SLOWFIELD@1
+Special Fish Bait:consumables:5:T5_FISHINGBAIT
+Cabbage Soup:consumables:5:T5_MEAL_SOUP
+Cabbage Soup:consumables:5:T5_MEAL_SOUP@1
+Cabbage Soup:consumables:5:T5_MEAL_SOUP@2
+Cabbage Soup:consumables:5:T5_MEAL_SOUP@3
+Blackbog Clam Soup:consumables:5:T5_MEAL_SOUP_FISH
+Blackbog Clam Soup:consumables:5:T5_MEAL_SOUP_FISH@1
+Blackbog Clam Soup:consumables:5:T5_MEAL_SOUP_FISH@2
+Blackbog Clam Soup:consumables:5:T5_MEAL_SOUP_FISH@3
+Goose Pie:consumables:5:T5_MEAL_PIE
+Goose Pie:consumables:5:T5_MEAL_PIE@1
+Goose Pie:consumables:5:T5_MEAL_PIE@2
+Goose Pie:consumables:5:T5_MEAL_PIE@3
+Mountain Blindeye Pie:consumables:5:T5_MEAL_PIE_FISH
+Mountain Blindeye Pie:consumables:5:T5_MEAL_PIE_FISH@1
+Mountain Blindeye Pie:consumables:5:T5_MEAL_PIE_FISH@2
+Mountain Blindeye Pie:consumables:5:T5_MEAL_PIE_FISH@3
+Goose Omelette:consumables:5:T5_MEAL_OMELETTE
+Goose Omelette:consumables:5:T5_MEAL_OMELETTE@1
+Goose Omelette:consumables:5:T5_MEAL_OMELETTE@2
+Goose Omelette:consumables:5:T5_MEAL_OMELETTE@3
+Drybrook Crab Omelette:consumables:5:T5_MEAL_OMELETTE_FISH
+Drybrook Crab Omelette:consumables:5:T5_MEAL_OMELETTE_FISH@1
+Drybrook Crab Omelette:consumables:5:T5_MEAL_OMELETTE_FISH@2
+Drybrook Crab Omelette:consumables:5:T5_MEAL_OMELETTE_FISH@3
+Master's Tome of Insight:consumables:6:T6_SKILLBOOK_NONTRADABLE
+Master's Bag of Silver:consumables:6:T6_SILVERBAG_NONTRADABLE
+Bag of Silver:consumables:6:UNIQUE_SILVERBAG_ADC_GENERAL_01
+Harvest Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_OCT2018_01@0
+Grim Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_NOV2018@0
+Yuletide Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_DEC2018@0
+Frost Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_JAN2019@0
+Carnival Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_FEB2019@0
+Keeper Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_MAR2019@0
+Hunter Challenge Chest:consumables:6:UNIQUE_LOOTCHEST_ADC_APR2019@0
+Avatar Border: Grim Challenge 2018:consumables:6:UNIQUE_AVATARRING_ADC_NOV2018@0
+Avatar Border: Yuletide Challenge 2018:consumables:6:UNIQUE_AVATARRING_ADC_DEC2018@0
+Avatar Border: Frost Challenge 2019:consumables:6:UNIQUE_AVATARRING_ADC_JAN2019@0
+Avatar Border: Carnival Challenge 2019:consumables:6:UNIQUE_AVATARRING_ADC_FEB2019@0
+Avatar Border: Keeper Challenge 2019:consumables:6:UNIQUE_AVATARRING_ADC_MAR2019@0
+Avatar Border: Hunter Challenge 2019:consumables:6:UNIQUE_AVATARRING_ADC_APR2019@0
+Master's Dungeon Map:consumables:6:T6_RANDOM_DUNGEON_TOKEN_1
+Uncommon Master's Dungeon Map:consumables:6:T6_RANDOM_DUNGEON_TOKEN_2@1
+Rare Master's Dungeon Map:consumables:6:T6_RANDOM_DUNGEON_TOKEN_3@2
+Exceptional Master's Dungeon Map:consumables:6:T6_RANDOM_DUNGEON_TOKEN_4@3
+Brightscale Zander:consumables:6:T6_FISH_FRESHWATER_ALL_COMMON
+Strongfin Salmon:consumables:6:T6_FISH_SALTWATER_ALL_COMMON
+Major Healing Potion:consumables:6:T6_POTION_HEAL
+Major Healing Potion:consumables:6:T6_POTION_HEAL@1
+Major Energy Potion:consumables:6:T6_POTION_ENERGY
+Major Energy Potion:consumables:6:T6_POTION_ENERGY@1
+Poison Potion:consumables:6:T6_POTION_COOLDOWN
+Poison Potion:consumables:6:T6_POTION_COOLDOWN@1
+Potato Salad:consumables:6:T6_MEAL_SALAD
+Potato Salad:consumables:6:T6_MEAL_SALAD@1
+Potato Salad:consumables:6:T6_MEAL_SALAD@2
+Potato Salad:consumables:6:T6_MEAL_SALAD@3
+Deepwater Kraken Salad:consumables:6:T6_MEAL_SALAD_FISH
+Deepwater Kraken Salad:consumables:6:T6_MEAL_SALAD_FISH@1
+Deepwater Kraken Salad:consumables:6:T6_MEAL_SALAD_FISH@2
+Deepwater Kraken Salad:consumables:6:T6_MEAL_SALAD_FISH@3
+Mutton Stew:consumables:6:T6_MEAL_STEW
+Mutton Stew:consumables:6:T6_MEAL_STEW@1
+Mutton Stew:consumables:6:T6_MEAL_STEW@2
+Mutton Stew:consumables:6:T6_MEAL_STEW@3
+Redspring Eel Stew:consumables:6:T6_MEAL_STEW_FISH
+Redspring Eel Stew:consumables:6:T6_MEAL_STEW_FISH@1
+Redspring Eel Stew:consumables:6:T6_MEAL_STEW_FISH@2
+Redspring Eel Stew:consumables:6:T6_MEAL_STEW_FISH@3
+Mutton Sandwich:consumables:6:T6_MEAL_SANDWICH
+Mutton Sandwich:consumables:6:T6_MEAL_SANDWICH@1
+Mutton Sandwich:consumables:6:T6_MEAL_SANDWICH@2
+Mutton Sandwich:consumables:6:T6_MEAL_SANDWICH@3
+Rushwater Lurcher Sandwich:consumables:6:T6_MEAL_SANDWICH_FISH
+Rushwater Lurcher Sandwich:consumables:6:T6_MEAL_SANDWICH_FISH@1
+Rushwater Lurcher Sandwich:consumables:6:T6_MEAL_SANDWICH_FISH@2
+Rushwater Lurcher Sandwich:consumables:6:T6_MEAL_SANDWICH_FISH@3
+Grandmaster's Tome of Insight:consumables:7:T7_SKILLBOOK_NONTRADABLE
+Grandmaster's Bag of Silver:consumables:7:T7_SILVERBAG_NONTRADABLE
+Recruiter's Pile of Tomes:consumables:7:UNIQUE_LOOTCHEST_SKILLBOOKS_TELLAFRIEND@0
+Avatar Border Set: Season Gold Rank:consumables:7:UNIQUE_AVATARRING_GVGSEASONREWARD_GOLD@0
+Avatar Border Set: Season Silver Rank:consumables:7:UNIQUE_AVATARRING_GVGSEASONREWARD_SILVER@0
+Avatar Border Set: Season Bronze Rank:consumables:7:UNIQUE_AVATARRING_GVGSEASONREWARD_BRONZE@0
+Avatar Border: Season Iron Rank:consumables:7:UNIQUE_AVATARRING_GVGSEASONREWARD_IRON@0
+Avatar Border: Recruiter:consumables:7:UNIQUE_AVATARRING_TELLAFRIEND@0
+Avatar Border: Seasoned Adventurer:consumables:7:UNIQUE_AVATARRING_ORIGINAL_PLAYER@0
+Avatar: Guild Season 4:consumables:7:UNIQUE_AVATAR_GVGSEASON_04@0
+Avatar: Guild Season 5:consumables:7:UNIQUE_AVATAR_GVGSEASON_05@0
+Grandmaster's Dungeon Map:consumables:7:T7_RANDOM_DUNGEON_TOKEN_1
+Uncommon Grandmaster's Dungeon Map:consumables:7:T7_RANDOM_DUNGEON_TOKEN_2@1
+Rare Grandmaster's Dungeon Map:consumables:7:T7_RANDOM_DUNGEON_TOKEN_3@2
+Exceptional Grandmaster's Dungeon Map:consumables:7:T7_RANDOM_DUNGEON_TOKEN_4@3
+Danglemouth Catfish:consumables:7:T7_FISH_FRESHWATER_ALL_COMMON
+Bluefin Tuna:consumables:7:T7_FISH_SALTWATER_ALL_COMMON
+Deadwater Eel:consumables:7:T7_FISH_FRESHWATER_FOREST_RARE
+Frostpeak Deadeye:consumables:7:T7_FISH_FRESHWATER_MOUNTAIN_RARE
+Thunderfall Lurcher:consumables:7:T7_FISH_FRESHWATER_HIGHLANDS_RARE
+Dusthole Crab:consumables:7:T7_FISH_FRESHWATER_STEPPE_RARE
+Blackbog Clam:consumables:7:T7_FISH_FRESHWATER_SWAMP_RARE
+Deepwater Kraken:consumables:7:T7_FISH_SALTWATER_ALL_RARE
+Major Gigantify Potion:consumables:7:T7_POTION_REVIVE
+Major Gigantify Potion:consumables:7:T7_POTION_REVIVE@1
+Major Resistance Potion:consumables:7:T7_POTION_STONESKIN
+Major Resistance Potion:consumables:7:T7_POTION_STONESKIN@1
+Major Sticky Potion:consumables:7:T7_POTION_SLOWFIELD
+Major Sticky Potion:consumables:7:T7_POTION_SLOWFIELD@1
+Pork Pie:consumables:7:T7_MEAL_PIE
+Pork Pie:consumables:7:T7_MEAL_PIE@1
+Pork Pie:consumables:7:T7_MEAL_PIE@2
+Pork Pie:consumables:7:T7_MEAL_PIE@3
+Frostpeak Deadeye Pie:consumables:7:T7_MEAL_PIE_FISH
+Frostpeak Deadeye Pie:consumables:7:T7_MEAL_PIE_FISH@1
+Frostpeak Deadeye Pie:consumables:7:T7_MEAL_PIE_FISH@2
+Frostpeak Deadeye Pie:consumables:7:T7_MEAL_PIE_FISH@3
+Pork Omelette:consumables:7:T7_MEAL_OMELETTE
+Pork Omelette:consumables:7:T7_MEAL_OMELETTE@1
+Pork Omelette:consumables:7:T7_MEAL_OMELETTE@2
+Pork Omelette:consumables:7:T7_MEAL_OMELETTE@3
+Dusthole Crab Omelette:consumables:7:T7_MEAL_OMELETTE_FISH
+Dusthole Crab Omelette:consumables:7:T7_MEAL_OMELETTE_FISH@1
+Dusthole Crab Omelette:consumables:7:T7_MEAL_OMELETTE_FISH@2
+Dusthole Crab Omelette:consumables:7:T7_MEAL_OMELETTE_FISH@3
+Elder's Tome of Insight:consumables:8:T8_SKILLBOOK_NONTRADABLE
+Elder's Bag of Silver:consumables:8:T8_SILVERBAG_NONTRADABLE
+Recruiter's Pile of Tomes:consumables:8:UNIQUE_LOOTCHEST_FIRSTREFERRAL@0
+Scroll of Repair:consumables:8:UNIQUE_REPAIRPOWDER_ADC_GENERAL_01
+Focus Restoration Potion:consumables:8:UNIQUE_FOCUSPOTION_ADC_GENERAL_01
+Focus Restoration Potion:consumables:8:UNIQUE_FOCUSPOTION_ADC_NONTRADABLE_01
+Avatar Border: Season 1st Place:consumables:8:UNIQUE_AVATARRING_GVGSEASONREWARD_1ST@0
+Avatar Border: Season 2nd Place:consumables:8:UNIQUE_AVATARRING_GVGSEASONREWARD_2ND@0
+Avatar Border: Season 3rd Place:consumables:8:UNIQUE_AVATARRING_GVGSEASONREWARD_3RD@0
+Avatar Border Set: Season Crystal Rank:consumables:8:UNIQUE_AVATARRING_GVGSEASONREWARD_CRYSTAL@0
+Elder's Dungeon Map:consumables:8:T8_RANDOM_DUNGEON_TOKEN_1
+Uncommon Elder's Dungeon Map:consumables:8:T8_RANDOM_DUNGEON_TOKEN_2@1
+Rare Elder's Dungeon Map:consumables:8:T8_RANDOM_DUNGEON_TOKEN_3@2
+Exceptional Elder's Dungeon Map:consumables:8:T8_RANDOM_DUNGEON_TOKEN_4@3
+River Sturgeon:consumables:8:T8_FISH_FRESHWATER_ALL_COMMON
+Steelscale Swordfish:consumables:8:T8_FISH_SALTWATER_ALL_COMMON
+Major Poison Potion:consumables:8:T8_POTION_COOLDOWN
+Major Poison Potion:consumables:8:T8_POTION_COOLDOWN@1
+Invisibility Potion:consumables:8:T8_POTION_CLEANSE
+Invisibility Potion:consumables:8:T8_POTION_CLEANSE@1
+Beef Stew:consumables:8:T8_MEAL_STEW
+Beef Stew:consumables:8:T8_MEAL_STEW@1
+Beef Stew:consumables:8:T8_MEAL_STEW@2
+Beef Stew:consumables:8:T8_MEAL_STEW@3
+Deadwater Eel Stew:consumables:8:T8_MEAL_STEW_FISH
+Deadwater Eel Stew:consumables:8:T8_MEAL_STEW_FISH@1
+Deadwater Eel Stew:consumables:8:T8_MEAL_STEW_FISH@2
+Deadwater Eel Stew:consumables:8:T8_MEAL_STEW_FISH@3
+Beef Sandwich:consumables:8:T8_MEAL_SANDWICH
+Beef Sandwich:consumables:8:T8_MEAL_SANDWICH@1
+Beef Sandwich:consumables:8:T8_MEAL_SANDWICH@2
+Beef Sandwich:consumables:8:T8_MEAL_SANDWICH@3
+Thunderfall Lurcher Sandwich:consumables:8:T8_MEAL_SANDWICH_FISH
+Thunderfall Lurcher Sandwich:consumables:8:T8_MEAL_SANDWICH_FISH@1
+Thunderfall Lurcher Sandwich:consumables:8:T8_MEAL_SANDWICH_FISH@2
+Thunderfall Lurcher Sandwich:consumables:8:T8_MEAL_SANDWICH_FISH@3
