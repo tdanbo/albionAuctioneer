@@ -1,14 +1,14 @@
-def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
+def data(cityfromcap, citytocap, catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
     import os
     import json
     import time
-    from datetime import datetime, timezone
+    from datetime import datetime
     import pytz
     from operator import itemgetter, attrgetter
 
-    scriptpath = os.path.dirname(os.path.realpath(__file__))
-    datapath = os.path.join(scriptpath, "dataset")
-    scandatapath = os.path.join(scriptpath, "scan")
+    scriptpath = str(os.path.dirname(os.path.realpath(__file__)))
+    datapath = str(os.path.join(scriptpath, "dataset"))
+    scandatapath = str(os.path.join(scriptpath, "scan"))
 
     allids = []
     allauctions = []
@@ -17,7 +17,7 @@ def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
 
     for category in catagories:
         for tier in tiers:
-            path = os.path.join(scandatapath,category+"_"+str(tier)+".txt")
+            path = os.path.join(scandatapath,str(category)+"_"+str(tier)+".txt")
             if os.path.isfile(path):
                 if os.stat(path).st_size != 0:
                     file = open(path, "r")
@@ -68,10 +68,10 @@ def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
             tovaluedata = todata[4].replace("T"," ")
 
             margin = todata[3]-fromdata[3]
-            marginp = round((margin/todata[3])*100,2)
+            marginp = round(float(margin)/float(todata[3])*100,2)
 
             # - getting name - #
-            categoryfile = os.path.join(scriptpath, "dataset", idauctions[0][1]+".txt")
+            categoryfile = os.path.join(scriptpath, "dataset", str(idauctions[0][1])+".txt")
             file = open(categoryfile, "r+")
             lines = file.readlines()
             itemlist = [line.rstrip('\n') for line in lines]
@@ -79,13 +79,23 @@ def data(catagories, tiers, cities, hourcap, margincaplow, margincaphigh):
             for item in itemlist:
                 if item.split(":")[3] == idauctions[0][0]:
                     itemname = item.split(":")[0]
-
-            if marginp < float(margincaphigh):
-                if marginp > float(margincaplow):
-                    completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
-            else:
-                pass
-        else:
-            pass
+                    if marginp < float(margincaphigh):
+                        if marginp > float(margincaplow):
+                            if cityfromcap+" "+citytocap == "any any":
+                                completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
+                            elif cityfromcap+" "+citytocap == fromcity+" any":
+                                completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
+                            elif cityfromcap+" "+citytocap == "any "+tocity:
+                                completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
+                            elif cityfromcap+" "+citytocap == fromcity+" "+tocity:
+                                completeauctionlist.append((fromcity,fromvalue,tocity,tovalue,margin,marginp,itemname,itemid,tovaluedata,fromvaluedata))
+                            else:
+                                pass
+                        else:                   
+                            pass
+                    else:                   
+                        pass
+                else:
+                    pass
 
     return completeauctionlist
