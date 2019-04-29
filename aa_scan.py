@@ -31,12 +31,20 @@ def scan(catagorylist):
             page = "https://www.albion-online-data.com/api/v1/stats/prices/%s" % (urllist)
             page = requests.get(page)
 
+            print(page.status_code)
+            print(requests.codes.ok)
+
             scanfile = os.path.join(scriptpath, "scan", catagory+"_"+tier+".txt")
-            f = open(scanfile,"wb+")
-            f.write(page.content)
+            if page.status_code == requests.codes.ok:
+                f = open(scanfile,"wb+")
+                f.write(page.content)
+            else:
+                f = open(scanfile,"w")              
+                f.write("")            
             f.close()
 
             print("scan complete - "+catagory+" tier "+tier)
+            print("code "+str(page.status_code))
 
     currenttime = str(datetime.now().replace(microsecond=0))
     timestampfile = os.path.join(scriptpath, "scan", "timestamp.txt")

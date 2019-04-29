@@ -22,6 +22,7 @@ def data(cityfromcap, citytocap, catagories, tiers, cities, hourcap, margincaplo
                 if os.stat(path).st_size != 0:
                     print(path)
                     file = open(path, "r")
+                    print(file.readlines())
                     datastore = json.load(file)
                     with open(path) as json_file:  
                         data = json.load(json_file)
