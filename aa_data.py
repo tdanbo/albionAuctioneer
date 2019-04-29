@@ -20,6 +20,7 @@ def data(cityfromcap, citytocap, catagories, tiers, cities, hourcap, margincaplo
             path = os.path.join(scandatapath,str(category)+"_"+str(tier)+".txt")
             if os.path.isfile(path):
                 if os.stat(path).st_size != 0:
+                    print(path)
                     file = open(path, "r")
                     datastore = json.load(file)
                     with open(path) as json_file:  

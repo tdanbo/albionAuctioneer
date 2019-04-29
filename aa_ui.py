@@ -76,6 +76,7 @@ class albionAuctioneer(QWidget):
                 self.scrollwidget = QWidget()
                 self.catagoryframe.setWidgetResizable(True)
                 self.catagoryframe.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOn)
+                self.catagoryframe.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
                 self.catagoryframe.setWidget(self.scrollwidget)
                 self.scrollwidget.setLayout(l)
             else:
@@ -86,10 +87,6 @@ class albionAuctioneer(QWidget):
 
             self.mainLayout.addWidget(self.catagorybutton)
             self.mainLayout.addWidget(self.catagoryframe)               
-
-        self.scanui = QPushButton("scan")
-        self.scanui.setFixedSize(100,20)
-        self.scanui.clicked.connect(self.runscan)
 
         self.tiercaplabel = QLabel("lowest tier limit ")
         self.tiercap = QLineEdit("T4")
@@ -107,19 +104,20 @@ class albionAuctioneer(QWidget):
         self.hourcap.setAlignment(Qt.AlignCenter)
         self.hourcap.setFixedSize(30,20)
         
-        self.generateui = QPushButton("read scan data")
+        self.generateui = QPushButton("load")
         self.generateui.clicked.connect(self.generate)
-        self.generateui.setFixedSize(100,20)
+        self.generateui.setFixedSize(50,20)
 
         citylist = ["any","Caerleon","Lymhurst","Martlock","Bridgewatch","Thetford","Fort Sterling","Black Market"]
 
         self.cityfromui = QComboBox()
-        self.cityfromui.setFixedSize(100,20)
+        self.cityfromui.setFixedSize(150,20)
         self.cityfromui.currentIndexChanged.connect(self.generate)
-        self.citylabel = QLabel(">") 
+        self.citylabel = QPushButton(">")
+        self.citylabel.clicked.connect(self.cityswap)
         self.citytoui = QComboBox()
         self.citytoui.currentIndexChanged.connect(self.generate)
-        self.citytoui.setFixedSize(100,20)
+        self.citytoui.setFixedSize(150,20)
         self.cityfromui.addItems(citylist)
         self.citytoui.addItems(citylist)
 
@@ -130,8 +128,8 @@ class albionAuctioneer(QWidget):
         self.controllayout.addLayout(self.toplayout)
         self.controllayout.addLayout(self.botlayout)
 
-        catagoriesone = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic"]
-        catagoriestwo = ["materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies"]
+        catagoriesone = ["accessories","armor","artefacts","cityresources","consumables","farmables","furniture","gatherergear","luxurygoods","magic","select"]
+        catagoriestwo = ["materials","melee","mounts","offhand","products","ranged","resources","token","tools","trophies","scan"]
 
         for cat,c in zip(catagoriesone,range(len(catagoriesone))):
             self.checkbox = QCheckBox(cat)
@@ -139,14 +137,25 @@ class albionAuctioneer(QWidget):
             self.checkbox.setObjectName(cat)
             self.checkbox.stateChanged.connect(self.category)
             self.categorieslayout.addWidget(self.checkbox,0,c)
+            if c == 10:
+                self.selectcat = QPushButton("")
+                self.selectcat.setFixedSize(50,20)
+                self.selectcat.setObjectName("all")
+                self.selectcat.clicked.connect(self.catagoryswap)
+                self.categorieslayout.addWidget(self.selectcat,0,c)
         for cat,c in zip(catagoriestwo,range(len(catagoriestwo))):
             self.checkbox = QCheckBox(cat)
             self.checkbox.setStyleSheet(darktextstyle)
             self.checkbox.setObjectName(cat)
             self.checkbox.stateChanged.connect(self.category)
             self.categorieslayout.addWidget(self.checkbox,1,c)
+            if c == 10:
+                self.scanui = QPushButton("scan")
+                self.scanui.setFixedSize(50,20)
+                self.scanui.clicked.connect(self.runscan)
+                self.categorieslayout.addWidget(self.scanui,1,c)
 
-        [self.botlayout.addWidget(w) for w in [self.cityfromui,self.citylabel,self.citytoui,self.tiercaplabel, self.tiercap, self.margincaplabel, self.margincaplow,self.margincap, self.hourcaplabel, self.hourcap,self.generateui,self.scanui]]
+        [self.botlayout.addWidget(w) for w in [self.cityfromui,self.citylabel,self.citytoui,self.tiercaplabel, self.tiercap, self.margincaplabel, self.margincaplow,self.margincap, self.hourcaplabel, self.hourcap,self.generateui]]
 
         # - set main layout - #
         self.setLayout(self.mainLayout)
@@ -155,7 +164,7 @@ class albionAuctioneer(QWidget):
         timestampfile = os.path.join(scandatapath,"timestamp.txt")
         if os.path.isfile(timestampfile):
             timestamp = open(timestampfile,"r")  
-            self.setWindowTitle('albionAuctioneer v1.0 - scanned - '+timestamp.read())
+            self.setWindowTitle('albionAuctioneer v1.2 - '+timestamp.read())
             timestamp.close()
         else:
             self.setWindowTitle('albionAuctioneer v1.2')
@@ -167,7 +176,7 @@ class albionAuctioneer(QWidget):
         self.setStyleSheet(mainstyle)
         self.scrollwidget.setStyleSheet(mainstylegrey)
         self.citylabel.setStyleSheet(darktextstyle)
-        [w.setStyleSheet(lightstyle) for w in [self.cityfromui,self.citytoui,self.tiercap, self.margincaplow,self.margincap,self.hourcap,self.generateui,self.scanui]]
+        [w.setStyleSheet(lightstyle) for w in [self.cityfromui,self.citytoui,self.tiercap, self.margincaplow,self.margincap,self.hourcap,self.generateui,self.scanui,self.selectcat]]
         [w.setStyleSheet(lighttextstyle) for w in [self.tiercaplabel,self.margincaplabel,self.hourcaplabel]]
 
     # - Function for clearing the browser layout                           - #
@@ -189,13 +198,40 @@ class albionAuctioneer(QWidget):
                 else:
                     widget.setStyleSheet(darktextstyle)
 
+        if "scan" in self.catagorylist:
+            self.catagorylist.remove("scan")
+        if "select" in self.catagorylist:
+            self.catagorylist.remove("select")
+
+        print(self.catagorylist)
+
         return self.catagorylist
+
+    def catagoryswap(self):
+        state = self.sender().objectName()
+        layout = self.categorieslayout
+        widgets = (layout.itemAt(i).widget() for i in range(layout.count())) 
+        for widget in widgets:
+            if isinstance(widget, QCheckBox):
+                if state == "all":
+                    widget.setChecked(True)
+                    self.sender().setObjectName("none")
+                else:
+                    widget.setChecked(False)
+                    self.sender().setObjectName("all")
+
+    def cityswap(self):
+        f = self.cityfromui.currentText()
+        t = self.citytoui.currentText()
+
+        self.cityfromui.setCurrentText(t)
+        self.citytoui.setCurrentText(f)
 
     def runscan(self):
         catagorylist = self.catagorylist
         currenttime = scan(catagorylist)
         print(currenttime)
-        self.setWindowTitle('albionAuctioneer v1.0 - scanned - '+currenttime)
+        self.setWindowTitle('albionAuctioneer v1.2 - '+currenttime)
 
     def copyname(self):
         clipboard = QApplication.clipboard()
@@ -282,13 +318,6 @@ class albionAuctioneer(QWidget):
 
             self.datalayout.addRow(self.auctionwidget)
 
-            #value = (h+15)*(c+1)
-            #print(value)
-
-            #if c <= 10:
-            #    self.catagoryframe.setFixedHeight(value)
-            #else:
-            #    pass
 panel = albionAuctioneer()
 panel.show()
 sys.exit(app.exec_())
