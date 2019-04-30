@@ -31,9 +31,6 @@ def scan(catagorylist):
             page = "https://www.albion-online-data.com/api/v1/stats/prices/%s" % (urllist)
             page = requests.get(page)
 
-            print(page.status_code)
-            print(requests.codes.ok)
-
             scanfile = os.path.join(scriptpath, "scan", catagory+"_"+tier+".txt")
             if page.status_code == requests.codes.ok:
                 f = open(scanfile,"wb+")
